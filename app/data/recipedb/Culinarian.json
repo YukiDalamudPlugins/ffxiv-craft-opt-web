@@ -10,7 +10,8 @@
       "de": "Speisesalz",
       "en": "Table Salt",
       "fr": "Sel de table",
-      "ja": "食塩"
+      "ja": "食塩",
+      "tw": "食鹽"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -32,7 +33,8 @@
       "de": "Ahornsirup",
       "en": "Maple Syrup",
       "fr": "Sirop d'érable",
-      "ja": "メープルシロップ"
+      "ja": "メープルシロップ",
+      "tw": "楓糖漿"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -54,7 +56,8 @@
       "de": "Ahornzucker",
       "en": "Maple Sugar",
       "fr": "Sucre d'érable",
-      "ja": "メープルシュガー"
+      "ja": "メープルシュガー",
+      "tw": "楓糖"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -76,7 +79,8 @@
       "de": "Rosinen",
       "en": "Raisins",
       "fr": "Raisins secs",
-      "ja": "レーズン"
+      "ja": "レーズン",
+      "tw": "葡萄乾"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -98,7 +102,8 @@
       "de": "Gekochtes Ei",
       "en": "Boiled Egg",
       "fr": "Œuf à la coque",
-      "ja": "ボイルドエッグ"
+      "ja": "ボイルドエッグ",
+      "tw": "水煮蛋"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -120,7 +125,8 @@
       "de": "Roggenmehl",
       "en": "Rye Flour",
       "fr": "Farine de seigle",
-      "ja": "ライ麦粉"
+      "ja": "ライ麦粉",
+      "tw": "黑麥粉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -142,7 +148,8 @@
       "de": "Honig",
       "en": "Honey",
       "fr": "Miel",
-      "ja": "蜂蜜"
+      "ja": "蜂蜜",
+      "tw": "蜂蜜"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -164,7 +171,8 @@
       "de": "Frumenty",
       "en": "Frumenty",
       "fr": "Fromentée",
-      "ja": "フルメンティ"
+      "ja": "フルメンティ",
+      "tw": "羊奶麥粥"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -186,7 +194,8 @@
       "de": "Fladenbrot",
       "en": "Flatbread",
       "fr": "Pain plat",
-      "ja": "フラットブレッド"
+      "ja": "フラットブレッド",
+      "tw": "煎餅"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -208,7 +217,8 @@
       "de": "Murmelhörnchen-Steak",
       "en": "Marmot Steak",
       "fr": "Steak de marmotte",
-      "ja": "マーモットステーキ"
+      "ja": "マーモットステーキ",
+      "tw": "栗鼠肉排"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -230,7 +240,8 @@
       "de": "Gegrillte Forelle",
       "en": "Grilled Trout",
       "fr": "Truite grillée",
-      "ja": "グリルドトラウト"
+      "ja": "グリルドトラウト",
+      "tw": "鹽烤公主鱒"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -252,7 +263,8 @@
       "de": "Schlagsahne",
       "en": "Sweet Cream",
       "fr": "Crème grumeleuse",
-      "ja": "クリーム"
+      "ja": "クリーム",
+      "tw": "鮮奶油"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -274,7 +286,8 @@
       "de": "Orangensaft",
       "en": "Orange Juice",
       "fr": "Jus d'orange",
-      "ja": "オレンジジュース"
+      "ja": "オレンジジュース",
+      "tw": "柳橙汁"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -296,7 +309,8 @@
       "de": "Gesalzene Butter",
       "en": "Smooth Butter",
       "fr": "Beurre",
-      "ja": "バター"
+      "ja": "バター",
+      "tw": "奶油"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -318,7 +332,8 @@
       "de": "Sonnenweizenmehl",
       "en": "Sunset Wheat Flour",
       "fr": "Farine",
-      "ja": "小麦粉"
+      "ja": "小麦粉",
+      "tw": "小麥粉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -340,7 +355,8 @@
       "de": "Baumkrötenschenkel",
       "en": "Tree Toad Legs",
       "fr": "Cuisses de crapaud arboricole",
-      "ja": "ツリートードレッグズ"
+      "ja": "ツリートードレッグズ",
+      "tw": "綠樹蟾蜍腿"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -362,7 +378,8 @@
       "de": "Sautierte Pfifferlinge",
       "en": "Chanterelle Saute",
       "fr": "Sauté de chanterelles",
-      "ja": "キノコのソテー"
+      "ja": "キノコのソテー",
+      "tw": "煎雞油菌"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -384,7 +401,8 @@
       "de": "Gebratener Pipira",
       "en": "Braised Pipira",
       "fr": "Pipira à l'étuvée",
-      "ja": "ベイクドピピラ"
+      "ja": "ベイクドピピラ",
+      "tw": "紅燜皮皮拉魚"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -406,7 +424,8 @@
       "de": "Gekochter Krebs",
       "en": "Boiled Crayfish",
       "fr": "Écrevisse bouillie",
-      "ja": "ボイルドクレイフィッシュ"
+      "ja": "ボイルドクレイフィッシュ",
+      "tw": "水煮螯蝦"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -428,7 +447,8 @@
       "de": "Lammtopf",
       "en": "Mutton Stew",
       "fr": "Ragoût de mouton",
-      "ja": "マトンシチュー"
+      "ja": "マトンシチュー",
+      "tw": "清燉羊肉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -450,7 +470,8 @@
       "de": "Kukuru-Butter",
       "en": "Kukuru Butter",
       "fr": "Beurre kukuru",
-      "ja": "ククルバター"
+      "ja": "ククルバター",
+      "tw": "可可油"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -472,7 +493,8 @@
       "de": "Allerschutzheiligen-Kürbis",
       "en": "Jack-o'-lantern",
       "fr": "Jack-la-citrouille",
-      "ja": "ジャック・オ・ランタン"
+      "ja": "ジャック・オ・ランタン",
+      "tw": "傑克南瓜燈"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -494,7 +516,8 @@
       "de": "Minz-Lassi",
       "en": "Mint Lassi",
       "fr": "Lassi à la menthe",
-      "ja": "ミントラッシー"
+      "ja": "ミントラッシー",
+      "tw": "薄荷奶昔"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -516,7 +539,8 @@
       "de": "Olivenöl",
       "en": "Olive Oil",
       "fr": "Huile d'olive",
-      "ja": "オリーヴオイル"
+      "ja": "オリーヴオイル",
+      "tw": "橄欖油"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -538,7 +562,8 @@
       "de": "Kukuru-Pulver",
       "en": "Kukuru Powder",
       "fr": "Poudre kukuru",
-      "ja": "ククルマス"
+      "ja": "ククルマス",
+      "tw": "可可粉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -560,7 +585,8 @@
       "de": "Grill-Dodo",
       "en": "Grilled Dodo",
       "fr": "Tranche de dodo grillée",
-      "ja": "ドードーのグリル"
+      "ja": "ドードーのグリル",
+      "tw": "渡渡鳥烤肉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -582,7 +608,8 @@
       "de": "Tomatensoße",
       "en": "Tomato Sauce",
       "fr": "Sauce tomate",
-      "ja": "ポモドーロソース"
+      "ja": "ポモドーロソース",
+      "tw": "番茄汁"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -604,7 +631,8 @@
       "de": "Luftschokolade",
       "en": "Bubble Chocolate",
       "fr": "Choco-bulle",
-      "ja": "バブルチョコ"
+      "ja": "バブルチョコ",
+      "tw": "巧克力球"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -626,7 +654,8 @@
       "de": "Perlenschokolade",
       "en": "Pearl Chocolate",
       "fr": "Choco-perle",
-      "ja": "パールチョコ"
+      "ja": "パールチョコ",
+      "tw": "巧克力球"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -648,7 +677,8 @@
       "de": "Mullpastete",
       "en": "Mole Loaf",
       "fr": "Pain de taupe",
-      "ja": "モールローフ"
+      "ja": "モールローフ",
+      "tw": "鼴鼠肉糕"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -670,7 +700,8 @@
       "de": "Pastinaksalat",
       "en": "Parsnip Salad",
       "fr": "Salade de panais",
-      "ja": "パースニップサラダ"
+      "ja": "パースニップサラダ",
+      "tw": "高山蘿蔔沙拉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -692,7 +723,8 @@
       "de": "Gelatine",
       "en": "Gelatin",
       "fr": "Gélatine",
-      "ja": "ゼラチン"
+      "ja": "ゼラチン",
+      "tw": "明膠"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -714,7 +746,8 @@
       "de": "Blätterteig",
       "en": "Pie Dough",
       "fr": "Pâte à tarte",
-      "ja": "パイ生地"
+      "ja": "パイ生地",
+      "tw": "派皮"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -736,7 +769,8 @@
       "de": "Hasenpastete",
       "en": "Rabbit Pie",
       "fr": "Tourte lapin",
-      "ja": "ラビットパイ"
+      "ja": "ラビットパイ",
+      "tw": "兔形派"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -758,7 +792,8 @@
       "de": "Salzdorsch",
       "en": "Salt Cod",
       "fr": "Morue salée",
-      "ja": "ソルトコッド"
+      "ja": "ソルトコッド",
+      "tw": "鹽漬鱈魚"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -780,7 +815,8 @@
       "de": "Gegrillter Karpfen",
       "en": "Grilled Carp",
       "fr": "Carpe grillée",
-      "ja": "グリルドカープ"
+      "ja": "グリルドカープ",
+      "tw": "鹽烤鯉魚"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -802,7 +838,8 @@
       "de": "Apfelessig",
       "en": "Cider Vinegar",
       "fr": "Vinaigre de cidre",
-      "ja": "サイダービネガー"
+      "ja": "サイダービネガー",
+      "tw": "蘋果醋"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -824,7 +861,8 @@
       "de": "Lavendelöl",
       "en": "Lavender Oil",
       "fr": "Essence de lavande",
-      "ja": "ラベンダーオイル"
+      "ja": "ラベンダーオイル",
+      "tw": "薰衣草油"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -846,7 +884,8 @@
       "de": "Dodo-Omelett",
       "en": "Dodo Omelette",
       "fr": "Omelette aux œufs de dodo",
-      "ja": "ドードーオムレツ"
+      "ja": "ドードーオムレツ",
+      "tw": "渡渡鳥蛋煎蛋包"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -868,7 +907,8 @@
       "de": "Fleisch-Miqo'Kebab",
       "en": "Meat Miq'abob",
       "fr": "Miqo-brochette de viande",
-      "ja": "ミコッテ風山の幸串焼"
+      "ja": "ミコッテ風山の幸串焼",
+      "tw": "貓魅風味山珍串燒"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -890,7 +930,8 @@
       "de": "Hüttenkäse",
       "en": "Cottage Cheese",
       "fr": "Fromage blanc",
-      "ja": "コテージチーズ"
+      "ja": "コテージチーズ",
+      "tw": "農家乳酪"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -912,7 +953,8 @@
       "de": "Linsen-Maronen-Eintopf",
       "en": "Lentils and Chestnuts",
       "fr": "Lentilles aux châtaignes",
-      "ja": "レンティル&チェスナット"
+      "ja": "レンティル&チェスナット",
+      "tw": "小扁豆煮山栗"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -934,7 +976,8 @@
       "de": "Kaktus-Steak",
       "en": "Roasted Nopales",
       "fr": "Figues de barbarie grillées",
-      "ja": "ローストノパル"
+      "ja": "ローストノパル",
+      "tw": "烤仙人掌葉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -956,7 +999,8 @@
       "de": "Steinsuppe",
       "en": "Stone Soup",
       "fr": "Soupe de pierre",
-      "ja": "ストーンスープ"
+      "ja": "ストーンスープ",
+      "tw": "石子湯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -978,7 +1022,8 @@
       "de": "Apfeltörtchen",
       "en": "Apple Tart",
       "fr": "Tarte aux pommes",
-      "ja": "アップルタルト"
+      "ja": "アップルタルト",
+      "tw": "蘋果塔"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1000,7 +1045,8 @@
       "de": "Walnussbrot",
       "en": "Walnut Bread",
       "fr": "Pain aux noix",
-      "ja": "ウォルナットブレッド"
+      "ja": "ウォルナットブレッド",
+      "tw": "胡桃麵包"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1022,7 +1068,8 @@
       "de": "Rohe Auster",
       "en": "Raw Oyster",
       "fr": "Huître crue",
-      "ja": "ローオイスター"
+      "ja": "ローオイスター",
+      "tw": "生鮮牡蠣"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1044,7 +1091,8 @@
       "de": "Hähnchen-Pilzpfanne",
       "en": "Chicken and Mushrooms",
       "fr": "Fricassée de poulet aux champignons",
-      "ja": "鶏肉キノコ炒め"
+      "ja": "鶏肉キノコ炒め",
+      "tw": "金錢蘑炒雞肉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1066,7 +1114,8 @@
       "de": "Antilopen-Gulasch",
       "en": "Antelope Stew",
       "fr": "Ragoût de cerf",
-      "ja": "アンテロープシチュー"
+      "ja": "アンテロープシチュー",
+      "tw": "清燉羚羊肉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1088,7 +1137,8 @@
       "de": "Toffelbrei",
       "en": "Mashed Popotoes",
       "fr": "Purée de popotos",
-      "ja": "マッシュポポト"
+      "ja": "マッシュポポト",
+      "tw": "新薯泥"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1110,7 +1160,8 @@
       "de": "Grill-Antilope",
       "en": "Antelope Steak",
       "fr": "Steak de cerf",
-      "ja": "アンテロープステーキ"
+      "ja": "アンテロープステーキ",
+      "tw": "羚羊肉排"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1132,7 +1183,8 @@
       "de": "Traubensaft",
       "en": "Grape Juice",
       "fr": "Jus de raisin",
-      "ja": "グレープジュース"
+      "ja": "グレープジュース",
+      "tw": "葡萄汁"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1154,7 +1206,8 @@
       "de": "Honigmuffin",
       "en": "Honey Muffin",
       "fr": "Muffin au miel",
-      "ja": "ハニーマフィン"
+      "ja": "ハニーマフィン",
+      "tw": "蜂蜜鬆餅"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1176,7 +1229,8 @@
       "de": "Getrocknete Pflaumen",
       "en": "Dried Plums",
       "fr": "Pruneaux",
-      "ja": "ドライプルーン"
+      "ja": "ドライプルーン",
+      "tw": "梅乾"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1198,7 +1252,8 @@
       "de": "Sautierter Spinat",
       "en": "Spinach Saute",
       "fr": "Sauté d'épinards",
-      "ja": "スピナッチソテー"
+      "ja": "スピナッチソテー",
+      "tw": "煎菠菜"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1220,7 +1275,8 @@
       "de": "Saure Eier",
       "en": "Mustard Eggs",
       "fr": "Œufs à la moutarde",
-      "ja": "マスタードエッグズ"
+      "ja": "マスタードエッグズ",
+      "tw": "芥末蛋"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1242,7 +1298,8 @@
       "de": "Shepherd's Pie",
       "en": "Shepherd's Pie",
       "fr": "Hachis parmentier",
-      "ja": "シェパードパイ"
+      "ja": "シェパードパイ",
+      "tw": "牧羊人派"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1264,7 +1321,8 @@
       "de": "Lachs nach Müllerinart",
       "en": "Salmon Meuniere",
       "fr": "Saumon meunière",
-      "ja": "サーモンムニエル"
+      "ja": "サーモンムニエル",
+      "tw": "鮭魚排"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1286,7 +1344,8 @@
       "de": "Brezel",
       "en": "Dark Pretzel",
       "fr": "Bretzel noir",
-      "ja": "プレッツェル"
+      "ja": "プレッツェル",
+      "tw": "心形蝴蝶餅"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1308,7 +1367,8 @@
       "de": "Kamillentee",
       "en": "Chamomile Tea",
       "fr": "Thé à la camomille",
-      "ja": "カモミールティー"
+      "ja": "カモミールティー",
+      "tw": "甘菊茶"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1330,7 +1390,8 @@
       "de": "Aalpastete",
       "en": "Eel Pie",
       "fr": "Tarte à l'anguille",
-      "ja": "イールパイ"
+      "ja": "イールパイ",
+      "tw": "鰻魚派"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1352,7 +1413,8 @@
       "de": "Ingwerkeks",
       "en": "Ginger Cookie",
       "fr": "Biscuit au gingembre",
-      "ja": "ジンジャークッキー"
+      "ja": "ジンジャークッキー",
+      "tw": "生薑餅乾"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1374,7 +1436,8 @@
       "de": "Erbsensuppe",
       "en": "Pea Soup",
       "fr": "Soupe de pois",
-      "ja": "ピースープ"
+      "ja": "ピースープ",
+      "tw": "翡翠豆湯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1396,7 +1459,8 @@
       "de": "Grill-Bock",
       "en": "Aldgoat Steak",
       "fr": "Steak de bouquetin",
-      "ja": "大山羊ステーキ"
+      "ja": "大山羊ステーキ",
+      "tw": "山羊肉排"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1418,7 +1482,8 @@
       "de": "Käserisotto",
       "en": "Cheese Risotto",
       "fr": "Risotto au fromage",
-      "ja": "チーズリゾット"
+      "ja": "チーズリゾット",
+      "tw": "乳酪燴飯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1440,7 +1505,8 @@
       "de": "Spiegelei",
       "en": "Fried Egg",
       "fr": "Œuf au plat",
-      "ja": "フライドエッグ"
+      "ja": "フライドエッグ",
+      "tw": "煎跳蜥蛋"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1462,7 +1528,8 @@
       "de": "Gekochte Brasse",
       "en": "Boiled Bream",
       "fr": "Brème bouillie",
-      "ja": "ボイルドブリーム"
+      "ja": "ボイルドブリーム",
+      "tw": "水煮鯛魚"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1484,7 +1551,8 @@
       "de": "Hühnerbrühe",
       "en": "Chicken Stock",
       "fr": "Bouillon de poulet",
-      "ja": "チキンストック"
+      "ja": "チキンストック",
+      "tw": "雞高湯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1506,7 +1574,8 @@
       "de": "Orobon-Gulasch",
       "en": "Orobon Stew",
       "fr": "Ragoût d'orobon",
-      "ja": "オロボンシチュー"
+      "ja": "オロボンシチュー",
+      "tw": "清燉鬼鮟鱇"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1528,7 +1597,8 @@
       "de": "Crumpet",
       "en": "Crumpet",
       "fr": "Crumpet",
-      "ja": "クランペット"
+      "ja": "クランペット",
+      "tw": "小圓餅"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1550,7 +1620,8 @@
       "de": "Maismehl",
       "en": "Cornmeal",
       "fr": "Farine de maïs",
-      "ja": "コーングリッツ"
+      "ja": "コーングリッツ",
+      "tw": "玉米粉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1572,7 +1643,8 @@
       "de": "Gebratene Seezunge",
       "en": "Baked Sole",
       "fr": "Sole au four",
-      "ja": "ベイクドソール"
+      "ja": "ベイクドソール",
+      "tw": "烤黑鰨"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1594,7 +1666,8 @@
       "de": "Balsamessig",
       "en": "Dark Vinegar",
       "fr": "Vinaigre balsamique",
-      "ja": "バルサミコビネガー"
+      "ja": "バルサミコビネガー",
+      "tw": "黑果醋"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1616,7 +1689,8 @@
       "de": "Krokosalat",
       "en": "Alligator Salad",
       "fr": "Salade alligator",
-      "ja": "アリゲーターサラダ"
+      "ja": "アリゲーターサラダ",
+      "tw": "酪梨沙拉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1638,7 +1712,8 @@
       "de": "Maisbrot",
       "en": "Cornbread",
       "fr": "Pain de maïs",
-      "ja": "コーンブレッド"
+      "ja": "コーンブレッド",
+      "tw": "玉米麵包"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1660,7 +1735,8 @@
       "de": "Pilz-Miqo'Kebab",
       "en": "Forest Miq'abob",
       "fr": "Miqo-brochette forestière",
-      "ja": "ミコッテ風森の幸串焼"
+      "ja": "ミコッテ風森の幸串焼",
+      "tw": "貓魅風味森鮮串燒"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1682,7 +1758,8 @@
       "de": "Räucher-Raptor",
       "en": "Smoked Raptor",
       "fr": "Tranche de raptor fumé",
-      "ja": "スモークドラプトル"
+      "ja": "スモークドラプトル",
+      "tw": "盜龍燻肉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1704,7 +1781,8 @@
       "de": "Blutbeertorte",
       "en": "Blood Currant Tart",
       "fr": "Tarte aux groseilles sanguines",
-      "ja": "ブラッドカーラントタルト"
+      "ja": "ブラッドカーラントタルト",
+      "tw": "血紅奇異果塔"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1726,7 +1804,8 @@
       "de": "Thunfisch-Miqo'Kebab",
       "en": "Tuna Miq'abob",
       "fr": "Miqo-brochette de thon",
-      "ja": "ミコッテ風海の幸串焼"
+      "ja": "ミコッテ風海の幸串焼",
+      "tw": "貓魅風味海產串燒"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1748,7 +1827,8 @@
       "de": "Eichelkeks",
       "en": "Acorn Cookie",
       "fr": "Biscuit aux glands",
-      "ja": "エーコンクッキー"
+      "ja": "エーコンクッキー",
+      "tw": "橡果餅乾"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1770,7 +1850,8 @@
       "de": "Rührei",
       "en": "Scrambled Eggs",
       "fr": "Œuf brouillé",
-      "ja": "スクランブルエッグ"
+      "ja": "スクランブルエッグ",
+      "tw": "炒跳蜥蛋"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1792,7 +1873,8 @@
       "de": "Cawl Cennin",
       "en": "Cawl Cennin",
       "fr": "Bouillon de poireaux",
-      "ja": "カウルケニン"
+      "ja": "カウルケニン",
+      "tw": "韭菜洋蔥湯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1814,7 +1896,8 @@
       "de": "Frischkäse",
       "en": "Cream Cheese",
       "fr": "Fromage à la crème",
-      "ja": "クリームチーズ"
+      "ja": "クリームチーズ",
+      "tw": "奶油乳酪"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1836,7 +1919,8 @@
       "de": "Sauerkraut",
       "en": "Sauerkraut",
       "fr": "Choucroute",
-      "ja": "ザワークラウト"
+      "ja": "ザワークラウト",
+      "tw": "酸泡菜"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1858,7 +1942,8 @@
       "de": "Käseauflauf",
       "en": "Cheese Souffle",
       "fr": "Soufflé au fromage",
-      "ja": "チーズスフレ"
+      "ja": "チーズスフレ",
+      "tw": "乳酪蛋奶酥"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1880,7 +1965,8 @@
       "de": "Ratatouille",
       "en": "Ratatouille",
       "fr": "Ratatouille",
-      "ja": "ラタトゥイユ"
+      "ja": "ラタトゥイユ",
+      "tw": "香燴時蔬"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1902,7 +1988,8 @@
       "de": "Karpfen Rot",
       "en": "Mugwort Carp",
       "fr": "Carpe à l'armoise",
-      "ja": "カープ&マグワート"
+      "ja": "カープ&マグワート",
+      "tw": "艾草烤鯉魚"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1924,7 +2011,8 @@
       "de": "Ritterbrot",
       "en": "Knight's Bread",
       "fr": "Pain de chevalier",
-      "ja": "ナイツブレッド"
+      "ja": "ナイツブレッド",
+      "tw": "騎士麵包"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1946,7 +2034,8 @@
       "de": "Gefüllte Artischocke",
       "en": "Stuffed Artichoke",
       "fr": "Artichaut farci",
-      "ja": "スタッフドアーティチョーク"
+      "ja": "スタッフドアーティチョーク",
+      "tw": "包心球薊"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1968,7 +2057,8 @@
       "de": "Raptoren-Gulasch",
       "en": "Raptor Stew",
       "fr": "Ragoût de raptor",
-      "ja": "ラプトルシチュー"
+      "ja": "ラプトルシチュー",
+      "tw": "清燉盜龍肉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -1990,7 +2080,8 @@
       "de": "Apfelsaft",
       "en": "Apple Juice",
       "fr": "Jus de pomme",
-      "ja": "アップルジュース"
+      "ja": "アップルジュース",
+      "tw": "蘋果汁"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2012,7 +2103,8 @@
       "de": "Fischgebäck",
       "en": "Pastry Fish",
       "fr": "Pâtisserie poisson",
-      "ja": "ペストリーフィッシュ"
+      "ja": "ペストリーフィッシュ",
+      "tw": "魚糕"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2034,7 +2126,8 @@
       "de": "Trockenfleisch",
       "en": "Jerked Beef",
       "fr": "Tranche de buffle séché",
-      "ja": "ビーフジャーキー"
+      "ja": "ビーフジャーキー",
+      "tw": "牛肉乾"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2056,7 +2149,8 @@
       "de": "Dorsch im Schlafrock",
       "en": "Salt Cod Puffs",
       "fr": "Choux à la morue salée",
-      "ja": "ソルトコッドパフ"
+      "ja": "ソルトコッドパフ",
+      "tw": "油炸鹽漬鱈魚丸"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2078,7 +2172,8 @@
       "de": "Rolanbeeren-Käse",
       "en": "Rolanberry Cheese",
       "fr": "Fromage sauce rolanbaie",
-      "ja": "ロランベリーチーズ"
+      "ja": "ロランベリーチーズ",
+      "tw": "羅蘭莓乳酪"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2100,7 +2195,8 @@
       "de": "Fischsuppe",
       "en": "Fish Soup",
       "fr": "Soupe de poisson",
-      "ja": "フィッシュスープ"
+      "ja": "フィッシュスープ",
+      "tw": "白魚湯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2122,7 +2218,8 @@
       "de": "Knofi-Pilzpfanne",
       "en": "Button Mushroom Saute",
       "fr": "Sauté de champignons à l'ail",
-      "ja": "キノコのガーリックソテー"
+      "ja": "キノコのガーリックソテー",
+      "tw": "蒜炒草菇"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2144,7 +2241,8 @@
       "de": "Kohlroulade",
       "en": "Stuffed Cabbage",
       "fr": "Choux farcis",
-      "ja": "パイクのキャベツ巻き"
+      "ja": "パイクのキャベツ巻き",
+      "tw": "包心甘藍"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2166,7 +2264,8 @@
       "de": "Rolanbeeren-Lassi",
       "en": "Rolanberry Lassi",
       "fr": "Lassi à la rolanbaie",
-      "ja": "ロランベリーラッシー"
+      "ja": "ロランベリーラッシー",
+      "tw": "羅蘭莓奶昔"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2188,7 +2287,8 @@
       "de": "La Noscea-Toast",
       "en": "La Noscean Toast",
       "fr": "Toast noscéen",
-      "ja": "ラノシアトースト"
+      "ja": "ラノシアトースト",
+      "tw": "拉諾西亞吐司"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2210,7 +2310,8 @@
       "de": "Verteufelte Eier",
       "en": "Deviled Eggs",
       "fr": "Œufs mimosa",
-      "ja": "デビルドエッグズ"
+      "ja": "デビルドエッグズ",
+      "tw": "辛辣蛋"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2232,7 +2333,8 @@
       "de": "Glühtee",
       "en": "Mulled Tea",
       "fr": "Thé épicé",
-      "ja": "マルドティー"
+      "ja": "マルドティー",
+      "tw": "香草茶"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2254,7 +2356,8 @@
       "de": "Gekrönter Kuchen",
       "en": "Crowned Pie",
       "fr": "Galette des rois",
-      "ja": "ガレット・デ・ロワ"
+      "ja": "ガレット・デ・ロワ",
+      "tw": "王冠蛋糕"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2276,7 +2379,8 @@
       "de": "Pilz-Kohlrouladen",
       "en": "Buttons in a Blanket",
       "fr": "Choux farcis aux champignons",
-      "ja": "キノコのキャベツ巻き"
+      "ja": "キノコのキャベツ巻き",
+      "tw": "草菇甘藍卷"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2298,7 +2402,8 @@
       "de": "Molchsteak",
       "en": "Eft Steak",
       "fr": "Steak de jeune triton",
-      "ja": "エフトステーキ"
+      "ja": "エフトステーキ",
+      "tw": "水蜥肉排"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2320,7 +2425,8 @@
       "de": "Gulasch",
       "en": "Beef Stew",
       "fr": "Ragoût de buffle",
-      "ja": "ビーフシチュー"
+      "ja": "ビーフシチュー",
+      "tw": "清燉牛肉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2342,7 +2448,8 @@
       "de": "Fallensteller-Quiche",
       "en": "Trapper's Quiche",
       "fr": "Quiche au triton façon chasseur",
-      "ja": "猟師風エフトキッシュ"
+      "ja": "猟師風エフトキッシュ",
+      "tw": "獵人風味水蜥餅"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2364,7 +2471,8 @@
       "de": "Krebsfleischball",
       "en": "Crayfish Ball",
       "fr": "Boulette d'écrevisse",
-      "ja": "ザリガニボール"
+      "ja": "ザリガニボール",
+      "tw": "螯蝦丸子"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2386,7 +2494,8 @@
       "de": "Grundelball",
       "en": "Goby Ball",
       "fr": "Boulette de gobie",
-      "ja": "ゴビーボール"
+      "ja": "ゴビーボール",
+      "tw": "蝦虎丸子"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2408,7 +2517,8 @@
       "de": "Krabbenfleischball",
       "en": "Crab Ball",
       "fr": "Boulette de crabe",
-      "ja": "クラブボール"
+      "ja": "クラブボール",
+      "tw": "螃蟹丸子"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2430,7 +2540,8 @@
       "de": "Gegrillte Warmblut-Forelle",
       "en": "Grilled Warmwater Trout",
       "fr": "Truite thermophile grillée",
-      "ja": "グリルドウォームトラウト"
+      "ja": "グリルドウォームトラウト",
+      "tw": "鹽烤暖水鱒"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2452,7 +2563,8 @@
       "de": "Barschball",
       "en": "Bass Ball",
       "fr": "Boulette de bar",
-      "ja": "バスボール"
+      "ja": "バスボール",
+      "tw": "鱸魚丸子"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2474,7 +2586,8 @@
       "de": "Heringball",
       "en": "Herring Ball",
       "fr": "Boulette de hareng",
-      "ja": "ヘリングボール"
+      "ja": "ヘリングボール",
+      "tw": "鯡魚丸子"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2496,7 +2609,8 @@
       "de": "Gegrillter Regenrufer",
       "en": "Grilled Raincaller",
       "fr": "Grillade de cherche-pluie",
-      "ja": "雨乞魚のグリル"
+      "ja": "雨乞魚のグリル",
+      "tw": "鹽烤求雨魚"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2518,7 +2632,8 @@
       "de": "Dzemael-Gratin",
       "en": "Dzemael Gratin",
       "fr": "Gratin Dzemael",
-      "ja": "ゼーメル家風グラタン"
+      "ja": "ゼーメル家風グラタン",
+      "tw": "澤梅爾家風味焗菜"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2540,7 +2655,8 @@
       "de": "Tomatenpastete",
       "en": "Tomato Pie",
       "fr": "Tarte à la tomate",
-      "ja": "トマトパイ"
+      "ja": "トマトパイ",
+      "tw": "番茄派"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2562,7 +2678,8 @@
       "de": "Dolchfisch-Suppe",
       "en": "Dagger Soup",
       "fr": "Soupe de dagues",
-      "ja": "ダガースープ"
+      "ja": "ダガースープ",
+      "tw": "海神湯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2584,7 +2701,8 @@
       "de": "Bouillabaisse",
       "en": "Bouillabaisse",
       "fr": "Bouillabaisse",
-      "ja": "ブイヤベース"
+      "ja": "ブイヤベース",
+      "tw": "五海雜燴湯"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2606,7 +2724,8 @@
       "de": "Gebratener Mahi-Mahi",
       "en": "Pan-fried Mahi-mahi",
       "fr": "Mahi-mahi frit",
-      "ja": "マヒマヒの揚げ焼き"
+      "ja": "マヒマヒの揚げ焼き",
+      "tw": "油炸鯕鰍塊"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2628,7 +2747,8 @@
       "de": "Karnivorenblattsalat",
       "en": "Landtrap Salad",
       "fr": "Salade frémissante",
-      "ja": "ランドトラップサラダ"
+      "ja": "ランドトラップサラダ",
+      "tw": "陷阱草沙拉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2650,7 +2770,8 @@
       "de": "Rolanbeeren-Käsekuchen",
       "en": "Rolanberry Cheesecake",
       "fr": "Gâteau au fromage à la rolanbaie",
-      "ja": "ロランベリーチーズケーキ"
+      "ja": "ロランベリーチーズケーキ",
+      "tw": "羅蘭莓乳酪蛋糕"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2672,7 +2793,8 @@
       "de": "Apkallu-Omelett",
       "en": "Apkallu Omelette",
       "fr": "Omelette aux œufs d'apkallu",
-      "ja": "アプカルオムレツ"
+      "ja": "アプカルオムレツ",
+      "tw": "碧企鵝蛋包"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2694,7 +2816,8 @@
       "de": "Coeurlfleisch",
       "en": "Sauteed Coeurl",
       "fr": "Coeurl au vin",
-      "ja": "クァールのワインソテー"
+      "ja": "クァールのワインソテー",
+      "tw": "葡萄酒煎豹肉"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2716,7 +2839,8 @@
       "de": "Ananas-Ponzenkuchen",
       "en": "Pineapple Ponzecake",
       "fr": "Quatre-quarts à l'ananas",
-      "ja": "パイナップルケーキ"
+      "ja": "パイナップルケーキ",
+      "tw": "鳳梨蛋糕"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2738,7 +2862,8 @@
       "de": "Ananassaft",
       "en": "Pineapple Juice",
       "fr": "Jus d'ananas",
-      "ja": "パインジュース"
+      "ja": "パインジュース",
+      "tw": "鳳梨汁"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2760,7 +2885,8 @@
       "de": "Eiersandwich à la Bismarck",
       "en": "Finger Sandwich",
       "fr": "Sandwich à la Bismarck",
-      "ja": "ビスマルク風エッグサンド"
+      "ja": "ビスマルク風エッグサンド",
+      "tw": "俾斯麥雞蛋三明治"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2782,7 +2908,8 @@
       "de": "Risotto mit schwarzen Trüffeln",
       "en": "Black Truffle Risotto",
       "fr": "Risotto aux truffes noires",
-      "ja": "ブラックトリュフリゾット"
+      "ja": "ブラックトリュフリゾット",
+      "tw": "黑松露燴飯"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2804,7 +2931,8 @@
       "de": "Lavakrötenschenkel",
       "en": "Lava Toad Legs",
       "fr": "Cuisses de crapaud lavique",
-      "ja": "ラーヴァトードレッグズ"
+      "ja": "ラーヴァトードレッグズ",
+      "tw": "熔岩蟾蜍腿"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2826,7 +2954,8 @@
       "de": "Kalte Toffelsuppe",
       "en": "Chilled Popoto Soup",
       "fr": "Soupe de popotos glacée",
-      "ja": "冷製ポポトスープ"
+      "ja": "冷製ポポトスープ",
+      "tw": "新薯冷湯"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2848,7 +2977,8 @@
       "de": "Spinat-Quiche",
       "en": "Spinach Quiche",
       "fr": "Quiche aux épinards",
-      "ja": "スピナッチキッシュ"
+      "ja": "スピナッチキッシュ",
+      "tw": "菠菜乳蛋餅"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2870,7 +3000,8 @@
       "de": "Fischmehl",
       "en": "Fish Meal",
       "fr": "Farine de poisson",
-      "ja": "魚粉"
+      "ja": "魚粉",
+      "tw": "魚粉"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2892,7 +3023,8 @@
       "de": "Gourmet-Frühstück",
       "en": "Gourmet Lunch",
       "fr": "Petit déjeuner complet",
-      "ja": "モーニングセット"
+      "ja": "モーニングセット",
+      "tw": "早餐組合"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2914,7 +3046,8 @@
       "de": "Gourmet-Abendessen",
       "en": "Gourmet Supper",
       "fr": "Dîner de gourmet",
-      "ja": "ディナーセット"
+      "ja": "ディナーセット",
+      "tw": "晚餐組合"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2936,7 +3069,8 @@
       "de": "Nachmittagstee-Set",
       "en": "Afternoon Tea Set",
       "fr": "Goûter de gourmand",
-      "ja": "アフタヌーンティーセット"
+      "ja": "アフタヌーンティーセット",
+      "tw": "午茶組合"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -2958,7 +3092,8 @@
       "de": "Obstteller",
       "en": "Assorted Fruit",
       "fr": "Panier de fruits",
-      "ja": "フルーツアソート"
+      "ja": "フルーツアソート",
+      "tw": "水果拼盤"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -2980,7 +3115,8 @@
       "de": "Flaschenkühler mit Rotwein",
       "en": "Chilled Red",
       "fr": "Boissons festives",
-      "ja": "フルーツフレーバー・ドリンクセット"
+      "ja": "フルーツフレーバー・ドリンクセット",
+      "tw": "冰鎮果汁"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3002,7 +3138,8 @@
       "de": "Sternenlichtdodo",
       "en": "Starlight Dodo",
       "fr": "Dodo de la fête des étoiles",
-      "ja": "スターライト・ローストドードー"
+      "ja": "スターライト・ローストドードー",
+      "tw": "星芒祭烤渡渡鳥"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3024,7 +3161,8 @@
       "de": "Sternenlichtkuchen",
       "en": "Starlight Cake",
       "fr": "Gâteau de la fête des étoiles",
-      "ja": "スターライト・レイヤーケーキ"
+      "ja": "スターライト・レイヤーケーキ",
+      "tw": "星芒祭蛋糕"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3046,7 +3184,8 @@
       "de": "Futter: Ge<SoftHyphen/>schwindig<SoftHyphen/>keit I",
       "en": "Grade 1 Feed - Speed Blend",
       "fr": "Fourrage spécial vitesse I",
-      "ja": "スピードフォダーG1"
+      "ja": "スピードフォダーG1",
+      "tw": "1級速度飼料"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3068,7 +3207,8 @@
       "de": "Futter: Ge<SoftHyphen/>schwindig<SoftHyphen/>keit II",
       "en": "Grade 2 Feed - Speed Blend",
       "fr": "Fourrage spécial vitesse II",
-      "ja": "スピードフォダーG2"
+      "ja": "スピードフォダーG2",
+      "tw": "2級速度飼料"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -3090,7 +3230,8 @@
       "de": "Futter: Antritt I",
       "en": "Grade 1 Feed - Acceleration Blend",
       "fr": "Fourrage spécial accélération I",
-      "ja": "アクセルフォダーG1"
+      "ja": "アクセルフォダーG1",
+      "tw": "1級加速飼料"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3112,7 +3253,8 @@
       "de": "Futter: Antritt II",
       "en": "Grade 2 Feed - Acceleration Blend",
       "fr": "Fourrage spécial accélération II",
-      "ja": "アクセルフォダーG2"
+      "ja": "アクセルフォダーG2",
+      "tw": "2級加速飼料"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -3134,7 +3276,8 @@
       "de": "Futter: Köpfchen I",
       "en": "Grade 1 Feed - Balance Blend",
       "fr": "Fourrage spécial agilité I",
-      "ja": "バランスフォダーG1"
+      "ja": "バランスフォダーG1",
+      "tw": "1級適應飼料"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3156,7 +3299,8 @@
       "de": "Futter: Köpfchen II",
       "en": "Grade 2 Feed - Balance Blend",
       "fr": "Fourrage spécial agilité II",
-      "ja": "バランスフォダーG2"
+      "ja": "バランスフォダーG2",
+      "tw": "2級適應飼料"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -3178,7 +3322,8 @@
       "de": "Futter: Puste I",
       "en": "Grade 1 Feed - Endurance Blend",
       "fr": "Fourrage spécial vitalité I",
-      "ja": "エンデュランスフォダーG1"
+      "ja": "エンデュランスフォダーG1",
+      "tw": "1級體力飼料"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3200,7 +3345,8 @@
       "de": "Futter: Puste II",
       "en": "Grade 2 Feed - Endurance Blend",
       "fr": "Fourrage spécial vitalité II",
-      "ja": "エンデュランスフォダーG2"
+      "ja": "エンデュランスフォダーG2",
+      "tw": "2級體力飼料"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -3222,7 +3368,8 @@
       "de": "Futter: Ausdauer I",
       "en": "Grade 1 Feed - Stamina Blend",
       "fr": "Fourrage spécial endurance I",
-      "ja": "スタミナフォダーG1"
+      "ja": "スタミナフォダーG1",
+      "tw": "1級持久飼料"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3244,7 +3391,8 @@
       "de": "Futter: Ausdauer II",
       "en": "Grade 2 Feed - Stamina Blend",
       "fr": "Fourrage spécial endurance II",
-      "ja": "スタミナフォダーG2"
+      "ja": "スタミナフォダーG2",
+      "tw": "2級持久飼料"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -3266,7 +3414,8 @@
       "de": "Wachsgemüse",
       "en": "Wax Vegetables",
       "fr": "Caisse de légumes",
-      "ja": "ベジタブルアソート"
+      "ja": "ベジタブルアソート",
+      "tw": "一箱蔬菜"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3288,7 +3437,8 @@
       "de": "Waldtee-Set",
       "en": "Glade Tea Set",
       "fr": "Goûter sombrelinçois",
-      "ja": "シュラウド・ティーセット"
+      "ja": "シュラウド・ティーセット",
+      "tw": "林間午茶組合"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3310,7 +3460,8 @@
       "de": "Riviera-Abendmahl-Set",
       "en": "Riviera Supper",
       "fr": "Dîner noscéen",
-      "ja": "ラノシアン・ディナーセット"
+      "ja": "ラノシアン・ディナーセット",
+      "tw": "海濱晚餐組合"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3332,7 +3483,8 @@
       "de": "Oasen-Frühstücks-Set",
       "en": "Oasis Breakfast",
       "fr": "Petit déjeuner thanalanais",
-      "ja": "ザナラーン・モーニングセット"
+      "ja": "ザナラーン・モーニングセット",
+      "tw": "綠洲早餐組合"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3354,7 +3506,8 @@
       "de": "Valentionkuchen",
       "en": "Valentione's Cake",
       "fr": "Gâteau des Valention",
-      "ja": "ヴァレンティオンケーキ"
+      "ja": "ヴァレンティオンケーキ",
+      "tw": "戀人節蛋糕"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -3376,7 +3529,8 @@
       "de": "Grüntee-Set",
       "en": "Green Tea Set",
       "fr": "Collation de thé vert",
-      "ja": "グリーンティーセット"
+      "ja": "グリーンティーセット",
+      "tw": "抹茶組合"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3398,7 +3552,8 @@
       "de": "Fisch im Teigmantel",
       "en": "Battered Fish",
       "fr": "Poisson pané",
-      "ja": "バタードフィッシュ"
+      "ja": "バタードフィッシュ",
+      "tw": "炸魚套餐"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -3420,7 +3575,8 @@
       "de": "Ishgarder Teeservice",
       "en": "Alpine Tea Set",
       "fr": "Goûter ishgardais",
-      "ja": "イシュガルディアン・ティーセット"
+      "ja": "イシュガルディアン・ティーセット",
+      "tw": "山嶽午茶組合"
     },
     "progressDivider": 67,
     "progressModifier": 100,
@@ -3442,7 +3598,8 @@
       "de": "Etagere",
       "en": "Cake Tray",
       "fr": "Assortiment de gourmandises",
-      "ja": "ケーキスタンド"
+      "ja": "ケーキスタンド",
+      "tw": "蛋糕托盤"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -3464,7 +3621,8 @@
       "de": "Riviera-Lunch",
       "en": "Riviera Lunch",
       "fr": "Déjeuner noscéen",
-      "ja": "ラノシアン・ランチセット"
+      "ja": "ラノシアン・ランチセット",
+      "tw": "海濱午餐組合"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -3486,7 +3644,8 @@
       "de": "Ishgarder Tee",
       "en": "Ishgardian Tea",
       "fr": "Thé ishgardais",
-      "ja": "イシュガルドティー"
+      "ja": "イシュガルドティー",
+      "tw": "伊修加爾德奶茶"
     },
     "progressDivider": 63,
     "progressModifier": 100,
@@ -3508,7 +3667,8 @@
       "de": "Eiskalter Fruchtcocktail",
       "en": "Frozen Spirits",
       "fr": "Mélange glacé",
-      "ja": "フローズンカクテル"
+      "ja": "フローズンカクテル",
+      "tw": "凍霧雞尾酒"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -3530,7 +3690,8 @@
       "de": "Feigen à la Barvarois",
       "en": "Fig Bavarois",
       "fr": "Flan aux figues",
-      "ja": "ババロア・オ・フィグ"
+      "ja": "ババロア・オ・フィグ",
+      "tw": "無花果奶凍"
     },
     "progressDivider": 61,
     "progressModifier": 100,
@@ -3552,7 +3713,8 @@
       "de": "Mont Sohm Al",
       "en": "Sohm Al Tart",
       "fr": "Sohm Al aux marrons",
-      "ja": "ソーム・アル・オ・マロン"
+      "ja": "ソーム・アル・オ・マロン",
+      "tw": "索姆阿爾蒙布朗"
     },
     "progressDivider": 64,
     "progressModifier": 100,
@@ -3574,7 +3736,8 @@
       "de": "Glasierte Glanznüsse",
       "en": "Marron Glace",
       "fr": "Marrons glacés",
-      "ja": "マロングラッセ"
+      "ja": "マロングラッセ",
+      "tw": "糖漬栗子"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -3596,7 +3759,8 @@
       "de": "Kaisersemmel",
       "en": "Kaiser Roll",
       "fr": "Pain empereur",
-      "ja": "カイザーゼンメル"
+      "ja": "カイザーゼンメル",
+      "tw": "凱撒麵包"
     },
     "progressDivider": 65,
     "progressModifier": 100,
@@ -3618,7 +3782,8 @@
       "de": "Quiche Ishgarder Art",
       "en": "Ishgardian Muffin",
       "fr": "Pain ishgardais",
-      "ja": "イシュガルドマフィン"
+      "ja": "イシュガルドマフィン",
+      "tw": "伊修加爾德鬆餅"
     },
     "progressDivider": 63,
     "progressModifier": 100,
@@ -3640,7 +3805,8 @@
       "de": "Leberkäsesemmel",
       "en": "Liver-cheese Sandwich",
       "fr": "Sandwich au fromage de foie",
-      "ja": "レバーケースゼンメル"
+      "ja": "レバーケースゼンメル",
+      "tw": "伊修加爾德三明治"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -3662,7 +3828,8 @@
       "de": "Porciniragout",
       "en": "Sauteed Porcini",
       "fr": "Bolets sautés",
-      "ja": "ポルチーニソテー"
+      "ja": "ポルチーニソテー",
+      "tw": "煎牛肝菌"
     },
     "progressDivider": 63,
     "progressModifier": 100,
@@ -3684,7 +3851,8 @@
       "de": "Mörchel-Salat",
       "en": "Morel Salad",
       "fr": "Salade verte aux morilles",
-      "ja": "モリーユサラダ"
+      "ja": "モリーユサラダ",
+      "tw": "蘑菇沙拉"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -3706,7 +3874,8 @@
       "de": "Gegrillte Purpur-Forelle",
       "en": "Grilled Sweetfish",
       "fr": "Poisson-sucre grillé",
-      "ja": "グリルドスイートフィッシュ"
+      "ja": "グリルドスイートフィッシュ",
+      "tw": "鹽烤香魚"
     },
     "progressDivider": 64,
     "progressModifier": 100,
@@ -3728,7 +3897,8 @@
       "de": "Gebackener Pipira Pira",
       "en": "Baked Pipira Pira",
       "fr": "Pipira pira au four",
-      "ja": "ベイクドピピラ・ピラ"
+      "ja": "ベイクドピピラ・ピラ",
+      "tw": "菌蒸皮皮拉魚"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -3750,7 +3920,8 @@
       "de": "Cockatrice-Frikadelle",
       "en": "Cockatrice Meatballs",
       "fr": "Fricadelle de cocatrix",
-      "ja": "フリカデレ"
+      "ja": "フリカデレ",
+      "tw": "魔蛇鳥肉丸"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -3772,7 +3943,8 @@
       "de": "Eier Royal",
       "en": "Royal Eggs",
       "fr": "Œufs royaux",
-      "ja": "エッグロワイヤル"
+      "ja": "エッグロワイヤル",
+      "tw": "皇家蒸蛋"
     },
     "progressDivider": 67,
     "progressModifier": 100,
@@ -3794,7 +3966,8 @@
       "de": "Okeanis-Schnitzel",
       "en": "Deep-fried Okeanis",
       "fr": "Océanide panée",
-      "ja": "オーケアニスシュニッツェル"
+      "ja": "オーケアニスシュニッツェル",
+      "tw": "俄刻阿尼斯炸肉排"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -3816,7 +3989,8 @@
       "de": "Überbackene Zwiebelsuppe",
       "en": "Baked Onion Soup",
       "fr": "Soupe à l'oignon",
-      "ja": "オニオングラタンスープ"
+      "ja": "オニオングラタンスープ",
+      "tw": "起司焗洋蔥湯"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -3838,7 +4012,8 @@
       "de": "Purpurrote Bete-Suppe",
       "en": "Beet Soup",
       "fr": "Soupe pourpre",
-      "ja": "クリムゾンスープ"
+      "ja": "クリムゾンスープ",
+      "tw": "洛夫坦山羊湯"
     },
     "progressDivider": 64,
     "progressModifier": 100,
@@ -3860,7 +4035,8 @@
       "de": "Emeraldgrüne Bohnensuppe",
       "en": "Emerald Soup",
       "fr": "Soupe émeraude",
-      "ja": "エメラルドスープ"
+      "ja": "エメラルドスープ",
+      "tw": "綠寶石湯"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -3882,7 +4058,8 @@
       "de": "Muschelsuppe",
       "en": "Clam Chowder",
       "fr": "Chaudrée de palourdes",
-      "ja": "クラムチャウダー"
+      "ja": "クラムチャウダー",
+      "tw": "鮮貝羹"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -3904,7 +4081,8 @@
       "de": "Gefüllte Kohlroulade",
       "en": "Stuffed Cabbage Rolls",
       "fr": "Paupiettes de chou",
-      "ja": "挽肉のキャベツ巻き"
+      "ja": "挽肉のキャベツ巻き",
+      "tw": "菜包肉"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -3926,7 +4104,8 @@
       "de": "Dhalmel-Gratin",
       "en": "Dhalmel Gratin",
       "fr": "Gratin de dhalmel",
-      "ja": "アウフラウフ"
+      "ja": "アウフラウフ",
+      "tw": "千層長頸駝焗野菜"
     },
     "progressDivider": 64,
     "progressModifier": 100,
@@ -3948,7 +4127,8 @@
       "de": "Gefüllter Kohlkraut-Kopf",
       "en": "Stuffed Chysahl",
       "fr": "Cabus farci",
-      "ja": "スタッフドキャベイジ"
+      "ja": "スタッフドキャベイジ",
+      "tw": "包心卡貝基"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -3970,7 +4150,8 @@
       "de": "Dhalmel-Frikassee",
       "en": "Dhalmel Fricassee",
       "fr": "Fricassée de dhalmel",
-      "ja": "ダルメルフリカッセ"
+      "ja": "ダルメルフリカッセ",
+      "tw": "千層長頸駝燉野菜"
     },
     "progressDivider": 67,
     "progressModifier": 100,
@@ -3992,7 +4173,8 @@
       "de": "Hochlandmehl",
       "en": "Highland Flour",
       "fr": "Farine des hautes terres",
-      "ja": "ハイランド小麦粉"
+      "ja": "ハイランド小麦粉",
+      "tw": "高地小麥粉"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -4014,7 +4196,8 @@
       "de": "Sauce ishgardaise",
       "en": "Hollandaise Sauce",
       "fr": "Sauce ishgardaise",
-      "ja": "オランデーズソース"
+      "ja": "オランデーズソース",
+      "tw": "蛋黃醬"
     },
     "progressDivider": 65,
     "progressModifier": 100,
@@ -4036,7 +4219,8 @@
       "de": "Birkensirup",
       "en": "Birch Syrup",
       "fr": "Sirop de bouleau",
-      "ja": "バーチシロップ"
+      "ja": "バーチシロップ",
+      "tw": "樺木糖漿"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -4058,7 +4242,8 @@
       "de": "Sauerrahm",
       "en": "Sour Cream",
       "fr": "Crème aigre",
-      "ja": "サワークリーム"
+      "ja": "サワークリーム",
+      "tw": "犛牛鮮奶油"
     },
     "progressDivider": 61,
     "progressModifier": 100,
@@ -4080,7 +4265,8 @@
       "de": "Fermentierte Butter",
       "en": "Fermented Butter",
       "fr": "Beurre fermenté",
-      "ja": "発酵バター"
+      "ja": "発酵バター",
+      "tw": "發酵奶油"
     },
     "progressDivider": 63,
     "progressModifier": 100,
@@ -4102,7 +4288,8 @@
       "de": "Vermicelli",
       "en": "Vermicelli",
       "fr": "Vermicelles",
-      "ja": "ヴァーミセリ"
+      "ja": "ヴァーミセリ",
+      "tw": "高地乾麵"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -4124,7 +4311,8 @@
       "de": "Fernöstliches Teeservice",
       "en": "Oriental Tea Set",
       "fr": "Collation de thé oriental",
-      "ja": "オリエンタル・ティーセット"
+      "ja": "オリエンタル・ティーセット",
+      "tw": "東方午茶組合"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -4146,7 +4334,8 @@
       "de": "Sesamkeks",
       "en": "Sesame Cookie",
       "fr": "Biscuit au sésame",
-      "ja": "セサミクッキー"
+      "ja": "セサミクッキー",
+      "tw": "芝麻餅乾"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -4168,7 +4357,8 @@
       "de": "Ishgarder Abendessen",
       "en": "Alpine Supper Set",
       "fr": "Dîner ishgardais",
-      "ja": "イシュガルディアン・ディナーセット"
+      "ja": "イシュガルディアン・ディナーセット",
+      "tw": "伊修加爾德晚餐組合"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -4190,7 +4380,8 @@
       "de": "Adels-Abendessen",
       "en": "High House Supper Set",
       "fr": "Dîner de maison noble",
-      "ja": "ハイハウス・ディナーセット"
+      "ja": "ハイハウス・ディナーセット",
+      "tw": "高貴晚餐組合"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -4212,7 +4403,8 @@
       "de": "Ishgarder Frühstück",
       "en": "Alpine Breakfast",
       "fr": "Petit déjeuner ishgardais",
-      "ja": "イシュガルディアン・モーニングセット"
+      "ja": "イシュガルディアン・モーニングセット",
+      "tw": "伊修加爾德早餐組合"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -4234,7 +4426,8 @@
       "de": "Rolanbeeren-Wassereis",
       "en": "Rolanberry Shaved Ice",
       "fr": "Glace pilée à la rolanbaie",
-      "ja": "ロランベリーシェイブドアイス"
+      "ja": "ロランベリーシェイブドアイス",
+      "tw": "羅蘭莓刨冰"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -4256,7 +4449,8 @@
       "de": "Riviera-Frühstücks-Set",
       "en": "Riviera Breakfast",
       "fr": "Omelette",
-      "ja": "オムレツプレート"
+      "ja": "オムレツプレート",
+      "tw": "早餐蛋包飯"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -4278,7 +4472,8 @@
       "de": "Fernöstlicher Sushi-Lunch",
       "en": "Oriental Sushi Lunch",
       "fr": "Déjeuner oriental<Indent/>: sushi",
-      "ja": "オリエンタル・ランチセット:寿司"
+      "ja": "オリエンタル・ランチセット:寿司",
+      "tw": "東方午餐組合：壽司"
     },
     "progressDivider": 85,
     "progressModifier": 100,
@@ -4300,7 +4495,8 @@
       "de": "Fernöstlicher Soba-Lunch",
       "en": "Oriental Soba Lunch",
       "fr": "Déjeuner oriental<Indent/>: nouilles de sarrasin",
-      "ja": "オリエンタル・ランチセット:蕎麦"
+      "ja": "オリエンタル・ランチセット:蕎麦",
+      "tw": "東方午餐組合：蕎麥麵"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -4322,7 +4518,8 @@
       "de": "Fernöstlicher Udon-Lunch",
       "en": "Oriental Udon Lunch",
       "fr": "Déjeuner oriental<Indent/>: nouilles udon",
-      "ja": "オリエンタル・ランチセット:うどん"
+      "ja": "オリエンタル・ランチセット:うどん",
+      "tw": "東方午餐組合：烏龍麵"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -4344,7 +4541,8 @@
       "de": "Fernöstlicher Onigiri-Lunch",
       "en": "Oriental Rice Ball Lunch",
       "fr": "Déjeuner oriental<Indent/>: onigiri",
-      "ja": "オリエンタル・ランチセット:おにぎり"
+      "ja": "オリエンタル・ランチセット:おにぎり",
+      "tw": "東方午餐組合：飯糰"
     },
     "progressDivider": 85,
     "progressModifier": 100,
@@ -4366,7 +4564,8 @@
       "de": "Domanischer Tee",
       "en": "Doman Tea",
       "fr": "Thé domien",
-      "ja": "ドマ茶"
+      "ja": "ドマ茶",
+      "tw": "多瑪茶"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -4388,7 +4587,8 @@
       "de": "Mispelsaft",
       "en": "Loquat Juice",
       "fr": "Jus de nèfle",
-      "ja": "ロークワットジュース"
+      "ja": "ロークワットジュース",
+      "tw": "枇杷果飲"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -4410,7 +4610,8 @@
       "de": "Buchweizen-Tee",
       "en": "Buckwheat Tea",
       "fr": "Tisane de sarrasin",
-      "ja": "蕎麦茶"
+      "ja": "蕎麦茶",
+      "tw": "蕎麥茶"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -4432,7 +4633,8 @@
       "de": "Baklava",
       "en": "Baklava",
       "fr": "Baklava",
-      "ja": "バクラヴァ"
+      "ja": "バクラヴァ",
+      "tw": "果仁蜜餅"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -4454,7 +4656,8 @@
       "de": "Geliertes Kompott",
       "en": "Jellied Compote",
       "fr": "Gelée de compote de fruits",
-      "ja": "コンポートゼリー"
+      "ja": "コンポートゼリー",
+      "tw": "糖煮水果果凍"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -4476,7 +4679,8 @@
       "de": "Kakipudding",
       "en": "Persimmon Pudding",
       "fr": "Flan aux kakis",
-      "ja": "パーシモンプディング"
+      "ja": "パーシモンプディング",
+      "tw": "柿子布丁"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -4498,7 +4702,8 @@
       "de": "Chirashi-Sushi",
       "en": "Chirashi-zushi",
       "fr": "Chirashi-zushi",
-      "ja": "ちらし寿司"
+      "ja": "ちらし寿司",
+      "tw": "散壽司"
     },
     "progressDivider": 89,
     "progressModifier": 100,
@@ -4520,7 +4725,8 @@
       "de": "Kakiblatt-Sushi",
       "en": "Persimmon Leaf Sushi",
       "fr": "Sushi en robe de plaqueminier",
-      "ja": "柿の葉寿司"
+      "ja": "柿の葉寿司",
+      "tw": "柿葉壽司"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -4542,7 +4748,8 @@
       "de": "Toffel-Soba",
       "en": "Popoto Soba",
       "fr": "Nouilles de sarrasin montagnardes",
-      "ja": "とろろ蕎麦"
+      "ja": "とろろ蕎麦",
+      "tw": "山芋泥蕎麥麵"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -4564,7 +4771,8 @@
       "de": "Shorlog",
       "en": "Shorlog",
       "fr": "Shorlog",
-      "ja": "ショルログ"
+      "ja": "ショルログ",
+      "tw": "牛肉串"
     },
     "progressDivider": 85,
     "progressModifier": 100,
@@ -4586,7 +4794,8 @@
       "de": "Getrocknetes Jhammel-Fleisch",
       "en": "Jerked Jhammel",
       "fr": "Viande de jhammel séchée",
-      "ja": "ジャムメルジャーキー"
+      "ja": "ジャムメルジャーキー",
+      "tw": "長頸駱肉乾"
     },
     "progressDivider": 89,
     "progressModifier": 100,
@@ -4608,7 +4817,8 @@
       "de": "Ei Foo Young",
       "en": "Egg Foo Young",
       "fr": "Œufs fu yung",
-      "ja": "芙蓉蟹"
+      "ja": "芙蓉蟹",
+      "tw": "芙蓉蟹"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -4630,7 +4840,8 @@
       "de": "Gegrillter Hummer",
       "en": "Onigara-yaki",
       "fr": "Langouste grillée",
-      "ja": "鬼殻焼"
+      "ja": "鬼殻焼",
+      "tw": "鬼殼燒"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -4652,7 +4863,8 @@
       "de": "Gekochte Turbanschnecke",
       "en": "Grilled Turban",
       "fr": "Turbo grillé",
-      "ja": "サザエの壺焼"
+      "ja": "サザエの壺焼",
+      "tw": "烤海螺"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -4674,7 +4886,8 @@
       "de": "Gekochter Bernsteinmakrelen-Kopf",
       "en": "Boiled Amberjack Head",
       "fr": "Ragoût de tête de sériole",
-      "ja": "ヒラマサの兜煮"
+      "ja": "ヒラマサの兜煮",
+      "tw": "燉黃尾鰤魚頭"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -4696,7 +4909,8 @@
       "de": "Gedünsteter Zackenbarsch",
       "en": "Steamed Grouper",
       "fr": "Garoupa à l'étuvée",
-      "ja": "キジハタの清蒸"
+      "ja": "キジハタの清蒸",
+      "tw": "清蒸赤點石斑魚"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -4718,7 +4932,8 @@
       "de": "Froschschenkel Süß-Sauer",
       "en": "Sweet and Sour Frogs' Legs",
       "fr": "Cuisses de grenouilles en sauce",
-      "ja": "カエルの餡かけ"
+      "ja": "カエルの餡かけ",
+      "tw": "澆汁菜蛙"
     },
     "progressDivider": 85,
     "progressModifier": 100,
@@ -4740,7 +4955,8 @@
       "de": "Tempura-Platte",
       "en": "Tempura Platter",
       "fr": "Assortiment de tenpura",
-      "ja": "天ぷら盛り合わせ"
+      "ja": "天ぷら盛り合わせ",
+      "tw": "天婦羅拼盤"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -4762,7 +4978,8 @@
       "de": "Gedünstete Flussbrasse",
       "en": "Stewed River Bream",
       "fr": "Pagre en papillote",
-      "ja": "カワダイの煮込み"
+      "ja": "カワダイの煮込み",
+      "tw": "燉河鯛"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -4784,7 +5001,8 @@
       "de": "Gegrillter Saibling",
       "en": "Charred Charr",
       "fr": "Omble grillé",
-      "ja": "グリルドチャー"
+      "ja": "グリルドチャー",
+      "tw": "鹽烤石楠嘉魚"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -4806,7 +5024,8 @@
       "de": "Miso-Dengaku",
       "en": "Miso Dengaku",
       "fr": "Brochettes miso-dengaku",
-      "ja": "味噌田楽"
+      "ja": "味噌田楽",
+      "tw": "味噌田樂"
     },
     "progressDivider": 89,
     "progressModifier": 100,
@@ -4828,7 +5047,8 @@
       "de": "Jhammel-Moussaka",
       "en": "Jhammel Moussaka",
       "fr": "Moussaka au jhammel",
-      "ja": "ジャムメルムサカ"
+      "ja": "ジャムメルムサカ",
+      "tw": "長頸駱焗菜"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -4850,7 +5070,8 @@
       "de": "Gameni",
       "en": "Gameni",
       "fr": "Gameni",
-      "ja": "がめ煮"
+      "ja": "がめ煮",
+      "tw": "煮雜菜"
     },
     "progressDivider": 85,
     "progressModifier": 100,
@@ -4872,7 +5093,8 @@
       "de": "Steppensalat",
       "en": "Steppe Salad",
       "fr": "Salade des steppes",
-      "ja": "ステップサラダ"
+      "ja": "ステップサラダ",
+      "tw": "根菜沙拉"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -4894,7 +5116,8 @@
       "de": "Krabbenkroketten",
       "en": "Crab Croquette",
       "fr": "Croquettes de crabe",
-      "ja": "クラブコロッケ"
+      "ja": "クラブコロッケ",
+      "tw": "油炸蟹肉餅"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -4916,7 +5139,8 @@
       "de": "Miso-Suppe mit Tofu",
       "en": "Miso Soup with Tofu",
       "fr": "Soupe miso au tôfu",
-      "ja": "豆腐の味噌汁"
+      "ja": "豆腐の味噌汁",
+      "tw": "豆腐味噌汁"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -4938,7 +5162,8 @@
       "de": "Fischeintopf",
       "en": "Fish Stew",
       "fr": "Bouillon des marées",
-      "ja": "潮汁"
+      "ja": "潮汁",
+      "tw": "魚汁"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -4960,7 +5185,8 @@
       "de": "Kriegereintopf",
       "en": "Warrior's Stew",
       "fr": "Nogootoj shol",
-      "ja": "ゼラスープ"
+      "ja": "ゼラスープ",
+      "tw": "暮暉牛肉湯"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -4982,7 +5208,8 @@
       "de": "Kascha",
       "en": "Kasha",
       "fr": "Gruau kasha",
-      "ja": "カーシャ"
+      "ja": "カーシャ",
+      "tw": "蕎麥糊"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -5004,7 +5231,8 @@
       "de": "Nomaden-Fleischpastete",
       "en": "Nomad Meat Pie",
       "fr": "Tourte des steppes",
-      "ja": "遊牧民風ミートパイ"
+      "ja": "遊牧民風ミートパイ",
+      "tw": "游牧民風味肉餅"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -5026,7 +5254,8 @@
       "de": "Abanisches Mehl",
       "en": "Gyr Abanian Flour",
       "fr": "Farine des steppes",
-      "ja": "高原小麦粉"
+      "ja": "高原小麦粉",
+      "tw": "高原小麥粉"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -5048,7 +5277,8 @@
       "de": "Fester Tofu",
       "en": "Firm Tofu",
       "fr": "Tôfu coton",
-      "ja": "木綿豆腐"
+      "ja": "木綿豆腐",
+      "tw": "木棉豆腐"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -5070,7 +5300,8 @@
       "de": "Reisessig",
       "en": "Rice Vinegar",
       "fr": "Vinaigre de riz",
-      "ja": "米酢"
+      "ja": "米酢",
+      "tw": "米醋"
     },
     "progressDivider": 85,
     "progressModifier": 100,
@@ -5092,7 +5323,8 @@
       "de": "Rübenzucker",
       "en": "Beet Sugar",
       "fr": "Vergeoise",
-      "ja": "ビートシュガー"
+      "ja": "ビートシュガー",
+      "tw": "甜菜糖"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -5114,7 +5346,8 @@
       "de": "Baumwollsamenöl",
       "en": "Cottonseed Oil",
       "fr": "Huile de coton",
-      "ja": "綿実油"
+      "ja": "綿実油",
+      "tw": "棉籽油"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -5136,7 +5369,8 @@
       "de": "Algensalz",
       "en": "Algae Salt",
       "fr": "Sel de sargasse",
-      "ja": "藻塩"
+      "ja": "藻塩",
+      "tw": "海藻鹽"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -5158,7 +5392,8 @@
       "de": "Brotkorb",
       "en": "Bread Basket",
       "fr": "Panier de pains divers",
-      "ja": "ブレッドバスケット"
+      "ja": "ブレッドバスケット",
+      "tw": "麵包籃"
     },
     "progressDivider": 89,
     "progressModifier": 100,
@@ -5180,7 +5415,8 @@
       "de": "Teeservice des Hauses Borel",
       "en": "House Borel Tea Set",
       "fr": "Service de thé de la maison Borel",
-      "ja": "ボーレルティーセット"
+      "ja": "ボーレルティーセット",
+      "tw": "博雷爾午茶組合"
     },
     "progressDivider": 65,
     "progressModifier": 100,
@@ -5202,7 +5438,8 @@
       "de": "Teeservice der königlichen Matrone",
       "en": "Royal Dowager Tea Set",
       "fr": "Service de thé Halicarnasse",
-      "ja": "ハリカルナッソスのティーセット"
+      "ja": "ハリカルナッソスのティーセット",
+      "tw": "哈利卡納蘇斯午茶組合"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -5224,7 +5461,8 @@
       "de": "Gemüseeintopf",
       "en": "Pot of Cream Stew",
       "fr": "Marmite de ragoût",
-      "ja": "シチューポット"
+      "ja": "シチューポット",
+      "tw": "湯鍋燉菜"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5246,7 +5484,8 @@
       "de": "Rolanbeeren-Torte",
       "en": "Redoubtable Rolanberry Tart",
       "fr": "Tarte aux rolanbaies",
-      "ja": "ロランベリータルト"
+      "ja": "ロランベリータルト",
+      "tw": "羅蘭莓塔"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5268,7 +5507,8 @@
       "de": "Schüssel Oden",
       "en": "Bowl of Oden",
       "fr": "Bol d'assortiment d'oden",
-      "ja": "おでん盛り合わせ"
+      "ja": "おでん盛り合わせ",
+      "tw": "燉點組合"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5290,7 +5530,8 @@
       "de": "Frantoio-Öl",
       "en": "Frantoio Oil",
       "fr": "Huile de frantoio",
-      "ja": "フラントーヨオイル"
+      "ja": "フラントーヨオイル",
+      "tw": "油橄欖油"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -5312,7 +5553,8 @@
       "de": "Gartenrübenzucker",
       "en": "Garden Beet Sugar",
       "fr": "Sucre de betterave potagère",
-      "ja": "ガーデンビートシュガー"
+      "ja": "ガーデンビートシュガー",
+      "tw": "野園甜菜糖"
     },
     "progressDivider": 102,
     "progressModifier": 100,
@@ -5334,7 +5576,8 @@
       "de": "Tintenfischtinte",
       "en": "Squid Ink",
       "fr": "Flacon de sépia",
-      "ja": "スクイッドインク"
+      "ja": "スクイッドインク",
+      "tw": "烏賊墨汁"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -5356,7 +5599,8 @@
       "de": "Hochplateau-Mehl",
       "en": "Upland Wheat Flour",
       "fr": "Farine de blé des plateaux",
-      "ja": "アップランド小麦粉"
+      "ja": "アップランド小麦粉",
+      "tw": "山地小麥粉"
     },
     "progressDivider": 104,
     "progressModifier": 100,
@@ -5378,7 +5622,8 @@
       "de": "Goldhonig",
       "en": "Golden Honey",
       "fr": "Miel doré",
-      "ja": "黄金蜂蜜"
+      "ja": "黄金蜂蜜",
+      "tw": "黃金蜂蜜"
     },
     "progressDivider": 104,
     "progressModifier": 100,
@@ -5400,7 +5645,8 @@
       "de": "Schwarzer Essig",
       "en": "Night Vinegar",
       "fr": "Vinaigre noir",
-      "ja": "ダークビネガー"
+      "ja": "ダークビネガー",
+      "tw": "黑夜醋"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -5422,7 +5668,8 @@
       "de": "Gegrillte Ralle",
       "en": "Grilled Rail",
       "fr": "Tranche de râle grillée",
-      "ja": "レイルのグリル"
+      "ja": "レイルのグリル",
+      "tw": "秧雞烤肉"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -5444,7 +5691,8 @@
       "de": "Purpurkarottensaft",
       "en": "Purple Carrot Juice",
       "fr": "Jus de carotte violette",
-      "ja": "パープルカロットジュース"
+      "ja": "パープルカロットジュース",
+      "tw": "紫胡蘿蔔果汁"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -5466,7 +5714,8 @@
       "de": "Karamell",
       "en": "Caramels",
       "fr": "Caramels",
-      "ja": "キャラメル"
+      "ja": "キャラメル",
+      "tw": "焦糖"
     },
     "progressDivider": 102,
     "progressModifier": 100,
@@ -5488,7 +5737,8 @@
       "de": "Favabohnensuppe",
       "en": "Broad Bean Soup",
       "fr": "Soupe de féveroles",
-      "ja": "ブロードビーンスープ"
+      "ja": "ブロードビーンスープ",
+      "tw": "蠶豆湯"
     },
     "progressDivider": 102,
     "progressModifier": 100,
@@ -5510,7 +5760,8 @@
       "de": "Tintenschwarze Spaghetti",
       "en": "Spaghetti al Nero",
       "fr": "Spaghetti al nero",
-      "ja": "スパゲッティ・ネーロ"
+      "ja": "スパゲッティ・ネーロ",
+      "tw": "黑色肉醬面"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -5532,7 +5783,8 @@
       "de": "Favabohnensalat",
       "en": "Broad Bean Salad",
       "fr": "Salade de féveroles",
-      "ja": "ブロードビーンサラダ"
+      "ja": "ブロードビーンサラダ",
+      "tw": "蠶豆沙拉"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -5554,7 +5806,8 @@
       "de": "Gegrillte Platinbrasse",
       "en": "Grilled Platinum Bream",
       "fr": "Brême opaline grillée",
-      "ja": "グリルドプラチナブリーム"
+      "ja": "グリルドプラチナブリーム",
+      "tw": "鹽烤白金鯛魚"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -5576,7 +5829,8 @@
       "de": "Baguette",
       "en": "Baguette",
       "fr": "Baguette tradition",
-      "ja": "バゲット"
+      "ja": "バゲット",
+      "tw": "長棍麵包"
     },
     "progressDivider": 104,
     "progressModifier": 100,
@@ -5598,7 +5852,8 @@
       "de": "Bluttomatensaft",
       "en": "Blood Tomato Juice",
       "fr": "Jus de tomate sanguine",
-      "ja": "ブラッドトマトジュース"
+      "ja": "ブラッドトマトジュース",
+      "tw": "血番茄果汁"
     },
     "progressDivider": 104,
     "progressModifier": 100,
@@ -5620,7 +5875,8 @@
       "de": "Pixie-Apfeltasche",
       "en": "Pixie Apple Pie",
       "fr": "Chausson aux pommes pixies",
-      "ja": "ピクシーアップルパイ"
+      "ja": "ピクシーアップルパイ",
+      "tw": "仙子蘋果派"
     },
     "progressDivider": 104,
     "progressModifier": 100,
@@ -5642,7 +5898,8 @@
       "de": "Nusstörtchen",
       "en": "Nut Bake",
       "fr": "Tarte aux noix",
-      "ja": "ナッツペストリー"
+      "ja": "ナッツペストリー",
+      "tw": "堅果糕"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -5664,7 +5921,8 @@
       "de": "Bluttomatensalat",
       "en": "Blood Tomato Salad",
       "fr": "Salade de tomates sanguines",
-      "ja": "ブラッドトマトサラダ"
+      "ja": "ブラッドトマトサラダ",
+      "tw": "血番茄沙拉"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -5686,7 +5944,8 @@
       "de": "Champignonsauté",
       "en": "Mushroom Saute",
       "fr": "Sauté aux champignons",
-      "ja": "マッシュルームソテー"
+      "ja": "マッシュルームソテー",
+      "tw": "煎蘑菇"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -5708,7 +5967,8 @@
       "de": "Knackwurst",
       "en": "Sausage Links",
       "fr": "Saucisses",
-      "ja": "ソーセージ"
+      "ja": "ソーセージ",
+      "tw": "香腸"
     },
     "progressDivider": 106,
     "progressModifier": 100,
@@ -5730,7 +5990,8 @@
       "de": "Gerösteter Ovim",
       "en": "Roast Ovim",
       "fr": "Rôti d'ovim",
-      "ja": "ローストオヴィム"
+      "ja": "ローストオヴィム",
+      "tw": "烤力山羊"
     },
     "progressDivider": 106,
     "progressModifier": 100,
@@ -5752,7 +6013,8 @@
       "de": "Champignons am Spieß",
       "en": "Mushroom Skewer",
       "fr": "Brochette de champignons",
-      "ja": "マッシュルームスキュアー"
+      "ja": "マッシュルームスキュアー",
+      "tw": "蘑菇串燒"
     },
     "progressDivider": 106,
     "progressModifier": 100,
@@ -5774,7 +6036,8 @@
       "de": "Gebackener Megapiranha",
       "en": "Baked Megapiranha",
       "fr": "Méga piranha au four",
-      "ja": "ベイクド・メガピラニア"
+      "ja": "ベイクド・メガピラニア",
+      "tw": "菌蒸巨型水虎魚"
     },
     "progressDivider": 106,
     "progressModifier": 100,
@@ -5796,7 +6059,8 @@
       "de": "Pfeffertoffel",
       "en": "Peppered Popotoes",
       "fr": "Popotos au poivre",
-      "ja": "ペッパーポポト"
+      "ja": "ペッパーポポト",
+      "tw": "胡椒炒新薯"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -5818,7 +6082,8 @@
       "de": "Ockertoffel-Gratin",
       "en": "Popotoes au Gratin",
       "fr": "Gratin de popotos brunes",
-      "ja": "ラセットポポトグラタン"
+      "ja": "ラセットポポトグラタン",
+      "tw": "焗黃新薯"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -5840,7 +6105,8 @@
       "de": "Masala-Tee",
       "en": "Masala Chai",
       "fr": "Thé masala",
-      "ja": "マサラチャイ"
+      "ja": "マサラチャイ",
+      "tw": "馬薩拉奶茶"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -5862,7 +6128,8 @@
       "de": "Risotto al nero",
       "en": "Risotto al Nero",
       "fr": "Risotto al nero",
-      "ja": "リゾット・ネーロ"
+      "ja": "リゾット・ネーロ",
+      "tw": "墨汁燉飯"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -5884,7 +6151,8 @@
       "de": "Sahne-Espresso",
       "en": "Espresso con Panna",
       "fr": "Espresso con panna",
-      "ja": "エスプレッソ・コン・パンナ"
+      "ja": "エスプレッソ・コン・パンナ",
+      "tw": "濃縮鮮奶油咖啡"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -5906,7 +6174,8 @@
       "de": "Sautierter Dunstspinat",
       "en": "Mist Spinach Saute",
       "fr": "Sauté de jeunes épinards brume",
-      "ja": "ミストスピナッチソテー"
+      "ja": "ミストスピナッチソテー",
+      "tw": "奶油煎迷霧菠菜"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -5928,7 +6197,8 @@
       "de": "Blut-Bouillabaisse",
       "en": "Blood Bouillabaisse",
       "fr": "Bouillabaisse sanguine",
-      "ja": "ブラッドブイヤベース"
+      "ja": "ブラッドブイヤベース",
+      "tw": "血色五海雜燴湯"
     },
     "progressDivider": 109,
     "progressModifier": 100,
@@ -5950,7 +6220,8 @@
       "de": "Paella",
       "en": "Paella",
       "fr": "Paella",
-      "ja": "パエリア"
+      "ja": "パエリア",
+      "tw": "海鮮燴飯"
     },
     "progressDivider": 109,
     "progressModifier": 100,
@@ -5972,7 +6243,8 @@
       "de": "Kaffeekeks",
       "en": "Coffee Biscuit",
       "fr": "Biscuit au café",
-      "ja": "コーヒークッキー"
+      "ja": "コーヒークッキー",
+      "tw": "咖啡曲奇"
     },
     "progressDivider": 109,
     "progressModifier": 100,
@@ -5994,7 +6266,8 @@
       "de": "Cordon bleu vom Ovim",
       "en": "Ovim Cordon Bleu",
       "fr": "Cordon bleu d'ovim",
-      "ja": "オヴィム・コルドンブルー"
+      "ja": "オヴィム・コルドンブルー",
+      "tw": "力山羊肉藍帶肉排"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6016,7 +6289,8 @@
       "de": "Limonade",
       "en": "Lemonade",
       "fr": "Limonade",
-      "ja": "レモネード"
+      "ja": "レモネード",
+      "tw": "檸檬水"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6038,7 +6312,8 @@
       "de": "Harcot-Kompott",
       "en": "Jellied Harcot",
       "fr": "Gelée de rouge de Norvrandt",
-      "ja": "ハーコットゼリー"
+      "ja": "ハーコットゼリー",
+      "tw": "香杏果凍"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6060,7 +6335,8 @@
       "de": "Feinschmecker-Auster",
       "en": "Oysters on the Half Shell",
       "fr": "Huître comestible crue",
-      "ja": "ローエディブルオイスター"
+      "ja": "ローエディブルオイスター",
+      "tw": "生吃食用蠔"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6082,7 +6358,8 @@
       "de": "Korb voller Brotschnitten",
       "en": "Sandwich Basket",
       "fr": "Panier de sandwichs",
-      "ja": "サンドイッチバスケット"
+      "ja": "サンドイッチバスケット",
+      "tw": "三明治籃子"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -6104,7 +6381,8 @@
       "de": "Fernöstlicher Chawanmushi-Lunch",
       "en": "Oriental Chawan-mushi Lunch",
       "fr": "Déjeuner oriental<Indent/>: chawan-mushi",
-      "ja": "オリエンタル・ランチセット:茶碗蒸し"
+      "ja": "オリエンタル・ランチセット:茶碗蒸し",
+      "tw": "東方午餐組合：蒸蛋羹"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -6126,7 +6404,8 @@
       "de": "Backwaren-Marktstand",
       "en": "Baker's Stall",
       "fr": "Étal de boulanger",
-      "ja": "パン職人の露店"
+      "ja": "パン職人の露店",
+      "tw": "麵包攤"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -6148,7 +6427,8 @@
       "de": "Obst-Marktstand",
       "en": "Fruiterer's Stall",
       "fr": "Étal de primeur",
-      "ja": "果物商の露店"
+      "ja": "果物商の露店",
+      "tw": "水果攤"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -6170,7 +6450,8 @@
       "de": "Gemüse-Marktstand",
       "en": "Greengrocer's Stall",
       "fr": "Étal de maraîcher",
-      "ja": "青果商の露店"
+      "ja": "青果商の露店",
+      "tw": "蔬菜攤"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -6192,7 +6473,8 @@
       "de": "Wurstwaren-Marktstand",
       "en": "Butcher's Stall",
       "fr": "Étal de boucher",
-      "ja": "精肉商の露店"
+      "ja": "精肉商の露店",
+      "tw": "精肉攤"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -6214,7 +6496,8 @@
       "de": "Frühstück à la Bismarck",
       "en": "The Bismarck",
       "fr": "Petit déjeuner du Bismarck",
-      "ja": "ビスマルク・モーニングセット"
+      "ja": "ビスマルク・モーニングセット",
+      "tw": "俾斯麥早餐組合"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6236,7 +6519,8 @@
       "de": "Salat mit verteufelten Eiern",
       "en": "Devil's Salad Bowl",
       "fr": "Saladier d'œufs mimosa",
-      "ja": "デビルドエッグズ・サラダボウル"
+      "ja": "デビルドエッグズ・サラダボウル",
+      "tw": "辛辣蛋沙拉碗"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6258,7 +6542,8 @@
       "de": "Takoyaki-Grillplatte",
       "en": "Tako-yaki Boat",
       "fr": "Barquette de takoyaki",
-      "ja": "タコ焼き舟皿盛り"
+      "ja": "タコ焼き舟皿盛り",
+      "tw": "紙船章魚燒"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6280,7 +6565,8 @@
       "de": "Riesenburger-Set",
       "en": "Giant Beaver Burger Set",
       "fr": "Hamburger d'abeille géante",
-      "ja": "ジャイアントビーバーガー・セット"
+      "ja": "ジャイアントビーバーガー・セット",
+      "tw": "大河狸漢堡組合"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6302,7 +6588,8 @@
       "de": "Geschnittene Melone",
       "en": "Sliced Watermelon",
       "fr": "Tranches de pastèque",
-      "ja": "カットウォーターメロン"
+      "ja": "カットウォーターメロン",
+      "tw": "切開的西瓜"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6324,7 +6611,8 @@
       "de": "Tablett mit Keksen",
       "en": "Homemade Cookie Set",
       "fr": "Planche à biscuits maison",
-      "ja": "ハンドメイドクッキーボード"
+      "ja": "ハンドメイドクッキーボード",
+      "tw": "手工餅乾組合"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6346,7 +6634,8 @@
       "de": "Gebäck-Schaukasten",
       "en": "Baked Goods Showcase",
       "fr": "Vitrine de viennoiseries",
-      "ja": "ペストリーショーケース"
+      "ja": "ペストリーショーケース",
+      "tw": "烘焙展示櫃"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6368,7 +6657,8 @@
       "de": "Aal-Set",
       "en": "Grilled Eel Set",
       "fr": "Unajû-gozen",
-      "ja": "うな重御膳"
+      "ja": "うな重御膳",
+      "tw": "鰻魚食盒"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6390,7 +6680,8 @@
       "de": "Heiße Tomatenpfanne",
       "en": "Shakshouka Pot",
       "fr": "Poêle de chakchouka",
-      "ja": "鉄鍋シャクシュカ"
+      "ja": "鉄鍋シャクシュカ",
+      "tw": "鐵鍋番茄燉蛋"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6412,7 +6703,8 @@
       "de": "Gebäck-Schaufenster",
       "en": "Baker's Show Window",
       "fr": "Vitrine extérieure de viennoiseries",
-      "ja": "ペストリーショーウィンドウ"
+      "ja": "ペストリーショーウィンドウ",
+      "tw": "烘焙展示窗"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6434,7 +6726,8 @@
       "de": "Büfett auf Rädern",
       "en": "Grocery Counter Cart",
       "fr": "Comptoir charriot",
-      "ja": "グロサリーカートカウンター"
+      "ja": "グロサリーカートカウンター",
+      "tw": "雜貨店推車櫃檯"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6456,7 +6749,8 @@
       "de": "Ishgarder Lunch",
       "en": "Approved Ishgardian Lunch",
       "fr": "Déjeuner ishgardais",
-      "ja": "イシュガルディアン・ランチセット"
+      "ja": "イシュガルディアン・ランチセット",
+      "tw": "伊修加爾德式午餐組合"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6478,7 +6772,8 @@
       "de": "Tasse Filterkaffee",
       "en": "Hand-poured Coffee",
       "fr": "Tasse de café filtre",
-      "ja": "ドリップコーヒー"
+      "ja": "ドリップコーヒー",
+      "tw": "濾掛式咖啡"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6500,7 +6795,8 @@
       "de": "Pixie-Apfelkorb",
       "en": "Pixie Apple Basket",
       "fr": "Panier de pommes pixies",
-      "ja": "ピクシーアップルバスケット"
+      "ja": "ピクシーアップルバスケット",
+      "tw": "仙子蘋果籃子"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -6522,7 +6818,8 @@
       "de": "Exegetenbrot",
       "en": "Archon Loaf",
       "fr": "Sagepain",
-      "ja": "賢人パン"
+      "ja": "賢人パン",
+      "tw": "賢人麵包"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -6544,7 +6841,8 @@
       "de": "Zurek",
       "en": "Zurek",
       "fr": "Zurek",
-      "ja": "ジュレック"
+      "ja": "ジュレック",
+      "tw": "裸麥酸湯"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -6566,7 +6864,8 @@
       "de": "Amrasalat",
       "en": "Amra Salad",
       "fr": "Salade d'amra",
-      "ja": "アームラサラダ"
+      "ja": "アームラサラダ",
+      "tw": "庵摩羅果沙拉"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -6588,7 +6887,8 @@
       "de": "Amra-Lassi",
       "en": "Amra Lassi",
       "fr": "Lassi d'amra",
-      "ja": "アームララッシー"
+      "ja": "アームララッシー",
+      "tw": "庵摩羅果奶昔"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -6610,7 +6910,8 @@
       "de": "Hühnchen-Miqo'Kebab",
       "en": "Island Miq'abob",
       "fr": "Miqo-brochette insulaire",
-      "ja": "ミコッテ風島の幸串焼"
+      "ja": "ミコッテ風島の幸串焼",
+      "tw": "貓魅風味島萃串燒"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -6632,7 +6933,8 @@
       "de": "Königskrabbenkuchen",
       "en": "King Crab Cake",
       "fr": "Gâteau de crabe géant",
-      "ja": "キングクラブケーキ"
+      "ja": "キングクラブケーキ",
+      "tw": "炸帝王蟹餅"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -6654,7 +6956,8 @@
       "de": "Ucha",
       "en": "Ukha",
       "fr": "Oukha",
-      "ja": "ウハー"
+      "ja": "ウハー",
+      "tw": "魚蔬清湯"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -6676,7 +6979,8 @@
       "de": "Borschtsch",
       "en": "Borscht",
       "fr": "Bortsch",
-      "ja": "ボルシチ"
+      "ja": "ボルシチ",
+      "tw": "紅菜湯"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -6698,7 +7002,8 @@
       "de": "Rote-Bete-Suppe",
       "en": "Wine-dark Soup",
       "fr": "Soupe de betterave",
-      "ja": "ビーツスープ"
+      "ja": "ビーツスープ",
+      "tw": "鮮奶油紫湯"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -6720,7 +7025,8 @@
       "de": "Kaisersuppe",
       "en": "Glory Be Soup",
       "fr": "Soupe de l'Empereur",
-      "ja": "エンペラースープ"
+      "ja": "エンペラースープ",
+      "tw": "皇帝濃湯"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -6742,7 +7048,8 @@
       "de": "Glückskarottensaft",
       "en": "Happiness Juice",
       "fr": "Jus de bonheur",
-      "ja": "ハピネスジュース"
+      "ja": "ハピネスジュース",
+      "tw": "開心汁"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -6764,7 +7071,8 @@
       "de": "Karottenraspel",
       "en": "Carrot Nibbles",
       "fr": "Carottes râpées",
-      "ja": "キャロットラペ"
+      "ja": "キャロットラペ",
+      "tw": "胡蘿蔔絲"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -6786,7 +7094,8 @@
       "de": "Hamsa-Curry",
       "en": "Hamsa Curry",
       "fr": "Curry de hamsa",
-      "ja": "ハンサカレー"
+      "ja": "ハンサカレー",
+      "tw": "桓娑咖哩"
     },
     "progressDivider": 126,
     "progressModifier": 100,
@@ -6808,7 +7117,8 @@
       "de": "Karniyarik",
       "en": "Karniyarik",
       "fr": "Karni yarik",
-      "ja": "カルヌヤルク"
+      "ja": "カルヌヤルク",
+      "tw": "茄子鑲桓娑肉"
     },
     "progressDivider": 126,
     "progressModifier": 100,
@@ -6830,7 +7140,8 @@
       "de": "Gewürzshakshouka",
       "en": "Spicy Shakshouka",
       "fr": "Chakchouka épicée",
-      "ja": "スパイシーシャクシュカ"
+      "ja": "スパイシーシャクシュカ",
+      "tw": "辣味茄汁焗蛋"
     },
     "progressDivider": 126,
     "progressModifier": 100,
@@ -6852,7 +7163,8 @@
       "de": "Linsencurry",
       "en": "Lentil Curry",
       "fr": "Curry aux lentilles",
-      "ja": "レンティルカレー"
+      "ja": "レンティルカレー",
+      "tw": "小扁豆咖哩"
     },
     "progressDivider": 126,
     "progressModifier": 100,
@@ -6874,7 +7186,8 @@
       "de": "Skyr",
       "en": "Skyr",
       "fr": "Skyr",
-      "ja": "スキール"
+      "ja": "スキール",
+      "tw": "北洋酸奶"
     },
     "progressDivider": 126,
     "progressModifier": 100,
@@ -6896,7 +7209,8 @@
       "de": "Riesentaramosalata",
       "en": "Giant Haddock Dip",
       "fr": "Tarama géant",
-      "ja": "ジャイアントタラモサラータ"
+      "ja": "ジャイアントタラモサラータ",
+      "tw": "巨人魚子泥沙拉"
     },
     "progressDivider": 127,
     "progressModifier": 100,
@@ -6918,7 +7232,8 @@
       "de": "Yakuh-Moussaka",
       "en": "Yakow Moussaka",
       "fr": "Moussaka au dzo",
-      "ja": "ヤーコウムサカ"
+      "ja": "ヤーコウムサカ",
+      "tw": "亞考牛慕沙卡"
     },
     "progressDivider": 127,
     "progressModifier": 100,
@@ -6940,7 +7255,8 @@
       "de": "Exegetenstulle",
       "en": "Philosopher's Sandwich",
       "fr": "Sagewich",
-      "ja": "賢人サンドイッチ"
+      "ja": "賢人サンドイッチ",
+      "tw": "賢人三明治"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -6962,7 +7278,8 @@
       "de": "Flachküstendorsch in Salz",
       "en": "Salted Thavnairian Cod",
       "fr": "Morue des hauts-fonds salée",
-      "ja": "ソルトシャロウコッド"
+      "ja": "ソルトシャロウコッド",
+      "tw": "鹽烤淺灘鱈魚"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -6984,7 +7301,8 @@
       "de": "Dorsch-Chowder",
       "en": "Coconut Cod Chowder",
       "fr": "Chaudrée de morue des hauts-fonds au lait de coco",
-      "ja": "ココナッツコッドチャウダー"
+      "ja": "ココナッツコッドチャウダー",
+      "tw": "椰香魚羹"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -7006,7 +7324,8 @@
       "de": "Elpisnudeln",
       "en": "The Noodles of Elpis",
       "fr": "Pâtes d'Elpis",
-      "ja": "パスタ・オブ・エルピス"
+      "ja": "パスタ・オブ・エルピス",
+      "tw": "厄爾庇斯之麵"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -7028,7 +7347,8 @@
       "de": "Riesentoffelpuffer",
       "en": "Giant Popoto Pancakes",
       "fr": "Crique géante",
-      "ja": "ジャイアントポポトパンケーキ"
+      "ja": "ジャイアントポポトパンケーキ",
+      "tw": "巨人新薯煎餅"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -7050,7 +7370,8 @@
       "de": "Tsai Tou Vounou",
       "en": "Tsai tou Vounou",
       "fr": "Chai tou vounou",
-      "ja": "チャイ・トゥ・ヴヌー"
+      "ja": "チャイ・トゥ・ヴヌー",
+      "tw": "高山茶"
     },
     "progressDivider": 129,
     "progressModifier": 100,
@@ -7072,7 +7393,8 @@
       "de": "Sideritiskeks",
       "en": "Sideritis Cookie",
       "fr": "Biscuit à la sidéritis",
-      "ja": "シデリティスクッキー"
+      "ja": "シデリティスクッキー",
+      "tw": "高山茶餅乾"
     },
     "progressDivider": 129,
     "progressModifier": 100,
@@ -7094,7 +7416,8 @@
       "de": "Elpisfrikadellen",
       "en": "Elpis Deipnon",
       "fr": "Assiette elpissienne",
-      "ja": "ディッシュ・オブ・エルピス"
+      "ja": "ディッシュ・オブ・エルピス",
+      "tw": "厄爾庇斯佳餚"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7116,7 +7439,8 @@
       "de": "Aliensuppe",
       "en": "Baked Alien Soup",
       "fr": "Soupe gratinée extraterrestre",
-      "ja": "エイリアングラタンスープ"
+      "ja": "エイリアングラタンスープ",
+      "tw": "星外洋蔥湯"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7138,7 +7462,8 @@
       "de": "Lykon-Salat",
       "en": "Sykon Salad",
       "fr": "Salade de sycon",
-      "ja": "シューコンサラダ"
+      "ja": "シューコンサラダ",
+      "tw": "無花果沙拉"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7160,7 +7485,8 @@
       "de": "Lykon-Kompott",
       "en": "Sykon Compote",
       "fr": "Sycon glacés",
-      "ja": "シューコンコンポート"
+      "ja": "シューコンコンポート",
+      "tw": "無花果蜜餞"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7182,7 +7508,8 @@
       "de": "Lykon à la Barvarois",
       "en": "Sykon Bavarois",
       "fr": "Bavarois aux sycon",
-      "ja": "ババロア・オ・シューコン"
+      "ja": "ババロア・オ・シューコン",
+      "tw": "無花果凍糕"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7204,7 +7531,8 @@
       "de": "Schwarzmehl",
       "en": "Dark Rye Flour",
       "fr": "Farine de seigle noir",
-      "ja": "黒麦粉"
+      "ja": "黒麦粉",
+      "tw": "裸麥粉"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -7226,7 +7554,8 @@
       "de": "Nordsalz",
       "en": "Northern Sea Salt",
       "fr": "Sel de table des mers du Nord",
-      "ja": "北洋食塩"
+      "ja": "北洋食塩",
+      "tw": "北洋食鹽"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -7248,7 +7577,8 @@
       "de": "Perilla-Öl",
       "en": "Perilla Oil",
       "fr": "Huile de périlla",
-      "ja": "ペリラオイル"
+      "ja": "ペリラオイル",
+      "tw": "紫蘇油"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -7270,7 +7600,8 @@
       "de": "Palmzucker",
       "en": "Palm Sugar",
       "fr": "Sucre de palme",
-      "ja": "パームシュガー"
+      "ja": "パームシュガー",
+      "tw": "棕櫚糖"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -7292,7 +7623,8 @@
       "de": "Garleischer Käse",
       "en": "Garlean Cheese",
       "fr": "Fromage garlemaldais",
-      "ja": "ガレアンチーズ"
+      "ja": "ガレアンチーズ",
+      "tw": "加雷馬乳酪"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -7314,7 +7646,8 @@
       "de": "Kokosnussmilch",
       "en": "Coconut Milk",
       "fr": "Lait de coco",
-      "ja": "ココナッツミルク"
+      "ja": "ココナッツミルク",
+      "tw": "椰奶"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -7336,7 +7669,8 @@
       "de": "Fluffige Pfannkuchen",
       "en": "Fluffy Pancakes",
       "fr": "Pancakes moelleux",
-      "ja": "ふわふわパンケーキ"
+      "ja": "ふわふわパンケーキ",
+      "tw": "鬆軟煎餅套餐"
     },
     "progressDivider": 126,
     "progressModifier": 100,
@@ -7358,7 +7692,8 @@
       "de": "Burrito-Lunchset der Neuen Welt",
       "en": "New World Burrito Lunch",
       "fr": "Déjeuner du nouveau continent<Indent/>: burritos",
-      "ja": "ニューワールド・ランチセット:ブリトー"
+      "ja": "ニューワールド・ランチセット:ブリトー",
+      "tw": "新世界午餐組合：蝴蝶餅"
     },
     "progressDivider": 126,
     "progressModifier": 100,
@@ -7380,7 +7715,8 @@
       "de": "Wunderparfait",
       "en": "Wondrous Parfait",
       "fr": "Parfait des merveilles",
-      "ja": "ワンダーパフェ"
+      "ja": "ワンダーパフェ",
+      "tw": "奇妙芭菲"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7402,7 +7738,8 @@
       "de": "Gegrillter Süßfisch",
       "en": "Sweetfish Skewers",
       "fr": "Poisson-sucre grillé et salé",
-      "ja": "香魚の塩焼き"
+      "ja": "香魚の塩焼き",
+      "tw": "香魚の塩焼き"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7424,7 +7761,8 @@
       "de": "Käsefondue-Set",
       "en": "Cheese Fondue Set",
       "fr": "Fondue au fromage",
-      "ja": "チーズフォンデュ"
+      "ja": "チーズフォンデュ",
+      "tw": "チーズフォンデュ"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7446,7 +7784,8 @@
       "de": "Kaffeekannenset",
       "en": "Countertop Coffee Service",
       "fr": "Service à café de comptoir",
-      "ja": "カウンターコーヒーセット"
+      "ja": "カウンターコーヒーセット",
+      "tw": "カウンターコーヒーセット"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -7468,7 +7807,8 @@
       "de": "Dalamudroter Farbstoff",
       "en": "Dalamud Red Dye",
       "fr": "Teinture rouge Dalamud",
-      "ja": "カララント:ダラガブレッド"
+      "ja": "カララント:ダラガブレッド",
+      "tw": "衛月紅染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7490,7 +7830,8 @@
       "de": "Weinroter Farbstoff",
       "en": "Wine Red Dye",
       "fr": "Teinture lie-de-vin",
-      "ja": "カララント:ワインレッド"
+      "ja": "カララント:ワインレッド",
+      "tw": "果酒紅染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7512,7 +7853,8 @@
       "de": "Königsblauer Farbstoff",
       "en": "Royal Blue Dye",
       "fr": "Teinture bleu royal",
-      "ja": "カララント:ロイヤルブルー"
+      "ja": "カララント:ロイヤルブルー",
+      "tw": "皇室藍染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7534,7 +7876,8 @@
       "de": "Tiefblauer Farbstoff",
       "en": "Abyssal Blue Dye",
       "fr": "Teinture bleu marine",
-      "ja": "カララント:アビサルブルー"
+      "ja": "カララント:アビサルブルー",
+      "tw": "深淵藍染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7556,7 +7899,8 @@
       "de": "Honiggelber Farbstoff",
       "en": "Honey Yellow Dye",
       "fr": "Teinture jaune miel",
-      "ja": "カララント:ハニーイエロー"
+      "ja": "カララント:ハニーイエロー",
+      "tw": "蜂蜜黃染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7578,7 +7922,8 @@
       "de": "Jägergrüner Farbstoff",
       "en": "Hunter Green Dye",
       "fr": "Teinture vert chasseur",
-      "ja": "カララント:ハンターグリーン"
+      "ja": "カララント:ハンターグリーン",
+      "tw": "獵人綠染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7600,7 +7945,8 @@
       "de": "Morbolgrüner Farbstoff",
       "en": "Morbol Green Dye",
       "fr": "Teinture vert morbol",
-      "ja": "カララント:モルボルグリーン"
+      "ja": "カララント:モルボルグリーン",
+      "tw": "魔花綠染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7622,7 +7968,8 @@
       "de": "Kürbisoranger Farbstoff",
       "en": "Pumpkin Orange Dye",
       "fr": "Teinture orange citrouille",
-      "ja": "カララント:パンプキンオレンジ"
+      "ja": "カララント:パンプキンオレンジ",
+      "tw": "南瓜橙染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7644,7 +7991,8 @@
       "de": "Lehmbrauner Farbstoff",
       "en": "Loam Brown Dye",
       "fr": "Teinture brun argile",
-      "ja": "カララント:ロームブラウン"
+      "ja": "カララント:ロームブラウン",
+      "tw": "沃土棕染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7666,7 +8014,8 @@
       "de": "Lotusrosa Farbstoff",
       "en": "Lotus Pink Dye",
       "fr": "Teinture mauve lotus",
-      "ja": "カララント:ロータスピンク"
+      "ja": "カララント:ロータスピンク",
+      "tw": "蓮花粉染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7688,7 +8037,8 @@
       "de": "Königsvioletter Farbstoff",
       "en": "Regal Purple Dye",
       "fr": "Teinture byzantium",
-      "ja": "カララント:リーガルパープル"
+      "ja": "カララント:リーガルパープル",
+      "tw": "帝王紫染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7710,7 +8060,8 @@
       "de": "Schneeweißer Farbstoff",
       "en": "Snow White Dye",
       "fr": "Teinture blanc neige",
-      "ja": "カララント:スノウホワイト"
+      "ja": "カララント:スノウホワイト",
+      "tw": "素雪白染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7732,7 +8083,8 @@
       "de": "Rußschwarzer Farbstoff",
       "en": "Soot Black Dye",
       "fr": "Teinture noir suie",
-      "ja": "カララント:スートブラック"
+      "ja": "カララント:スートブラック",
+      "tw": "煤煙黑染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7754,7 +8106,8 @@
       "de": "Othardblauer Farbstoff",
       "en": "Othard Blue Dye",
       "fr": "Teinture bleu d'Othard",
-      "ja": "カララント:オサードブルー"
+      "ja": "カララント:オサードブルー",
+      "tw": "東洲藍染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7776,7 +8129,8 @@
       "de": "Sturmblauer Farbstoff",
       "en": "Storm Blue Dye",
       "fr": "Teinture bleu tempête",
-      "ja": "カララント:ストームブルー"
+      "ja": "カララント:ストームブルー",
+      "tw": "風暴藍染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7798,7 +8152,8 @@
       "de": "Ochugrüner Farbstoff",
       "en": "Ochu Green Dye",
       "fr": "Teinture vert otyugh",
-      "ja": "カララント:オチューグリーン"
+      "ja": "カララント:オチューグリーン",
+      "tw": "口花綠染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7820,7 +8175,8 @@
       "de": "Abendroter Farbstoff",
       "en": "Sunset Orange Dye",
       "fr": "Teinture orange couchant",
-      "ja": "カララント:サンセットオレンジ"
+      "ja": "カララント:サンセットオレンジ",
+      "tw": "日落橙染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7842,7 +8198,8 @@
       "de": "Koboldbrauner Farbstoff",
       "en": "Kobold Brown Dye",
       "fr": "Teinture brun kobold",
-      "ja": "カララント:コボルドブラウン"
+      "ja": "カララント:コボルドブラウン",
+      "tw": "鈷鐵棕染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7864,7 +8221,8 @@
       "de": "Pflaumenvioletter Farbstoff",
       "en": "Plum Purple Dye",
       "fr": "Teinture prune",
-      "ja": "カララント:プラムパープル"
+      "ja": "カララント:プラムパープル",
+      "tw": "仙子梅染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -7886,7 +8244,8 @@
       "de": "Gedünsteter Katfisch",
       "en": "Steamed Catfish",
       "fr": "Poisson-chat vapeur",
-      "ja": "ナマズのワイン蒸"
+      "ja": "ナマズのワイン蒸",
+      "tw": "酒香蒸鯰魚"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -7908,7 +8267,8 @@
       "de": "Toffelpuffer",
       "en": "Popoto Pancakes",
       "fr": "Crique",
-      "ja": "ポポトパンケーキ"
+      "ja": "ポポトパンケーキ",
+      "tw": "新薯煎餅"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -7930,7 +8290,8 @@
       "de": "Röstente",
       "en": "Roast Canard",
       "fr": "Canard à l'orange",
-      "ja": "ローストカナール"
+      "ja": "ローストカナール",
+      "tw": "香烤填鴨"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -7952,7 +8313,8 @@
       "de": "Sachertorte",
       "en": "Sachertorte",
       "fr": "Sachertorte",
-      "ja": "ザッハトルテ"
+      "ja": "ザッハトルテ",
+      "tw": "薩赫蛋糕"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -7974,7 +8336,8 @@
       "de": "Tomatenwürze",
       "en": "Spicy Tomato Relish",
       "fr": "Condiment épicé à la tomate",
-      "ja": "トマトケチャップ"
+      "ja": "トマトケチャップ",
+      "tw": "番茄醬"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -7996,7 +8359,8 @@
       "de": "Maisgelber Farbstoff",
       "en": "Millioncorn Yellow Dye",
       "fr": "Teinture jaune milli-maïs",
-      "ja": "カララント:ミリオンコーンイエロー"
+      "ja": "カララント:ミリオンコーンイエロー",
+      "tw": "玉米黃染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8018,7 +8382,8 @@
       "de": "Waldgrüner Farbstoff",
       "en": "Deepwood Green Dye",
       "fr": "Teinture vert sapin",
-      "ja": "カララント:ディープウッドグリーン"
+      "ja": "カララント:ディープウッドグリーン",
+      "tw": "深林綠染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8040,7 +8405,8 @@
       "de": "Mintgrüner Farbstoff",
       "en": "Celeste Green Dye",
       "fr": "Teinture vert céleste",
-      "ja": "カララント:セレストグリーン"
+      "ja": "カララント:セレストグリーン",
+      "tw": "天上藍染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8062,7 +8428,8 @@
       "de": "Indigoblauer Farbstoff",
       "en": "Woad Blue Dye",
       "fr": "Teinture bleu guède",
-      "ja": "カララント:ウォードブルー"
+      "ja": "カララント:ウォードブルー",
+      "tw": "靛青藍染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8084,7 +8451,8 @@
       "de": "Nichtsblauer Farbstoff",
       "en": "Void Blue Dye",
       "fr": "Teinture bleu du néant",
-      "ja": "カララント:ヴォイドブルー"
+      "ja": "カララント:ヴォイドブルー",
+      "tw": "虛空藍染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8106,7 +8474,8 @@
       "de": "Kolibrirosa Farbstoff",
       "en": "Colibri Pink Dye",
       "fr": "Teinture mauve colibri",
-      "ja": "カララント:コリブリピンク"
+      "ja": "カララント:コリブリピンク",
+      "tw": "蜂鳥粉染劑"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8128,7 +8497,8 @@
       "de": "Fleischtomatenwürze",
       "en": "Rich Tomato Relish",
       "fr": "Condiment piquant à la tomate",
-      "ja": "濃厚トマトケチャップ"
+      "ja": "濃厚トマトケチャップ",
+      "tw": "濃厚番茄醬"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -8150,7 +8520,8 @@
       "de": "Ballonhüllen-Bauteil",
       "en": "Bladder Component",
       "fr": "Composant de ballon",
-      "ja": "気嚢部材"
+      "ja": "気嚢部材",
+      "tw": "氣囊元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8172,7 +8543,8 @@
       "de": "Hüllenverstärkungs-Bauteil",
       "en": "Bladder Lining Component",
       "fr": "Composant de finition de ballon",
-      "ja": "気嚢補強材"
+      "ja": "気嚢補強材",
+      "tw": "氣囊強化元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8194,7 +8566,8 @@
       "de": "Steuerbordrumpf-Bauteil",
       "en": "Starboard Hull Component",
       "fr": "Composant de partie droite de nacelle",
-      "ja": "右舷船体部材"
+      "ja": "右舷船体部材",
+      "tw": "右舷船體元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8216,7 +8589,8 @@
       "de": "Backbordrumpf-Bauteil",
       "en": "Larboard Hull Component",
       "fr": "Composant de partie gauche de nacelle",
-      "ja": "左舷船体部材"
+      "ja": "左舷船体部材",
+      "tw": "左舷船體元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8238,7 +8612,8 @@
       "de": "Gyroantriebs-Bauteil",
       "en": "Gyrodrive Component",
       "fr": "Composant d'unité motrice",
-      "ja": "動力輪部材"
+      "ja": "動力輪部材",
+      "tw": "動力輪元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8260,7 +8635,8 @@
       "de": "Takelagen-Bauteil",
       "en": "Rigging Component",
       "fr": "Composant d'attache",
-      "ja": "索具部材"
+      "ja": "索具部材",
+      "tw": "索具元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8282,7 +8658,8 @@
       "de": "Deck-Bauteil",
       "en": "Deck Component",
       "fr": "Composant de pont",
-      "ja": "甲板部材"
+      "ja": "甲板部材",
+      "tw": "甲板元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8304,7 +8681,8 @@
       "de": "Motorgehäuse-Bauteil",
       "en": "Engine Casing Component",
       "fr": "Composant de protection de moteur",
-      "ja": "機関外装部材"
+      "ja": "機関外装部材",
+      "tw": "引擎外殼元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8326,7 +8704,8 @@
       "de": "Werkzeug-Bauteil",
       "en": "Crafting Tool Component",
       "fr": "Nécessaire de fabrication",
-      "ja": "加工道具"
+      "ja": "加工道具",
+      "tw": "加工工具"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8348,7 +8727,8 @@
       "de": "Kanzelaußenwand-Bauteil",
       "en": "Cockpit Exterior Component",
       "fr": "Composant extérieur de cockpit",
-      "ja": "操縦席外装材"
+      "ja": "操縦席外装材",
+      "tw": "駕駛席外部元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8370,7 +8750,8 @@
       "de": "Kanzelinnenwand-Bauteil",
       "en": "Cockpit Interior Component",
       "fr": "Composant intérieur de cockpit",
-      "ja": "操縦席内装材"
+      "ja": "操縦席内装材",
+      "tw": "駕駛席內部元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8392,7 +8773,8 @@
       "de": "Ballast-Bauteil",
       "en": "Ballast Component",
       "fr": "Composant de lest",
-      "ja": "バラスト部材"
+      "ja": "バラスト部材",
+      "tw": "壓載物元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8414,7 +8796,8 @@
       "de": "Steuerpult-Bauteil",
       "en": "Instrument Panel Component",
       "fr": "Composant d'instrumentation",
-      "ja": "計器部材"
+      "ja": "計器部材",
+      "tw": "儀表元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8436,7 +8819,8 @@
       "de": "Aerodynamo-Bauteil",
       "en": "Aerodynamo Component",
       "fr": "Composant de nez profilé",
-      "ja": "空力部材"
+      "ja": "空力部材",
+      "tw": "空氣動力元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8458,7 +8842,8 @@
       "de": "Steuerbordtragflächen-Bauteil",
       "en": "Starboard Wing Component",
       "fr": "Composant d'aile droite",
-      "ja": "右翼部材"
+      "ja": "右翼部材",
+      "tw": "右翼元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8480,7 +8865,8 @@
       "de": "Backbordtragflächen-Bauteil",
       "en": "Larboard Wing Component",
       "fr": "Composant d'aile gauche",
-      "ja": "左翼部材"
+      "ja": "左翼部材",
+      "tw": "左翼元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8502,7 +8888,8 @@
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
       "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile droite",
-      "ja": "右翼可動部材"
+      "ja": "右翼可動部材",
+      "tw": "右翼可動元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8524,7 +8911,8 @@
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
       "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile gauche",
-      "ja": "左翼可動部材"
+      "ja": "左翼可動部材",
+      "tw": "左翼可動元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8546,7 +8934,8 @@
       "de": "Sprechanlagen-Bauteil",
       "en": "Transmission Component",
       "fr": "Composant de transmission",
-      "ja": "伝達系部材"
+      "ja": "伝達系部材",
+      "tw": "變速元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8568,7 +8957,8 @@
       "de": "Kühler-Bauteil",
       "en": "Heat Vent Component",
       "fr": "Composant de ventilation",
-      "ja": "排熱部材"
+      "ja": "排熱部材",
+      "tw": "散熱元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8590,7 +8980,8 @@
       "de": "Kommunikationsrohr-Bauteil",
       "en": "Speaking Tube Component",
       "fr": "Composant de tuyau acoustique",
-      "ja": "伝声系部材"
+      "ja": "伝声系部材",
+      "tw": "傳聲元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8612,7 +9003,8 @@
       "de": "Beleuchtungs-Bauteil",
       "en": "Lamp Component",
       "fr": "Composant d'éclairage",
-      "ja": "ランプ部材"
+      "ja": "ランプ部材",
+      "tw": "照明元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8634,7 +9026,8 @@
       "de": "Schornstein-Bauteil",
       "en": "Exhaust Outlet Component",
       "fr": "Composant d'échappement",
-      "ja": "排気系部材"
+      "ja": "排気系部材",
+      "tw": "排氣元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8656,7 +9049,8 @@
       "de": "Entsorgungssystem-Bauteil",
       "en": "Disposal Unit Component",
       "fr": "Composant de système d'évacuation",
-      "ja": "緊急廃棄部材"
+      "ja": "緊急廃棄部材",
+      "tw": "廢品緊急處理元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8678,7 +9072,8 @@
       "de": "Erdseim-Tank-Bauteil",
       "en": "Ceruleum Tank Component",
       "fr": "Composant de réservoir",
-      "ja": "青燐タンク部材"
+      "ja": "青燐タンク部材",
+      "tw": "青磷水箱元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8700,7 +9095,8 @@
       "de": "Steuermechanismus-Bauteil",
       "en": "Steering Mechanism Component",
       "fr": "Composant de module de pilotage",
-      "ja": "操縦機具部材"
+      "ja": "操縦機具部材",
+      "tw": "駕駛器元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8722,7 +9118,8 @@
       "de": "Rettungsboots-Bauteil",
       "en": "Escape Flyer Component",
       "fr": "Composant de système d'éjection",
-      "ja": "緊急脱出用具"
+      "ja": "緊急脱出用具",
+      "tw": "緊急逃生工具"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8744,7 +9141,8 @@
       "de": "Reservetank-Bauteil",
       "en": "Spare Tank Component",
       "fr": "Composant de réservoir de secours",
-      "ja": "予備タンク部材"
+      "ja": "予備タンク部材",
+      "tw": "預備水箱元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8766,7 +9164,8 @@
       "de": "Gewichtsreduktions-Bauteil",
       "en": "Refabrication Component",
       "fr": "Composant d'allégement",
-      "ja": "軽量化部材"
+      "ja": "軽量化部材",
+      "tw": "輕量化元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8788,7 +9187,8 @@
       "de": "Isolations-Bauteil",
       "en": "Isolator Component",
       "fr": "Composant de système antivibration",
-      "ja": "免震部材"
+      "ja": "免震部材",
+      "tw": "抗震元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8810,7 +9210,8 @@
       "de": "Hyperleiter-Bauteil",
       "en": "Hyperconductor Component",
       "fr": "Composant d'hyperconducteur",
-      "ja": "高伝導率部材"
+      "ja": "高伝導率部材",
+      "tw": "高傳導率元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8832,7 +9233,8 @@
       "de": "Aerodynamik-Verbesserer-Bauteil",
       "en": "Auxiliary Aerodynamo Component",
       "fr": "Composant d'aileron",
-      "ja": "補助空力部材"
+      "ja": "補助空力部材",
+      "tw": "輔助空氣動力元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8854,7 +9256,8 @@
       "de": "Zierplatten-Bauteil",
       "en": "Decorative Plating Component",
       "fr": "Composant d'ornementation",
-      "ja": "装飾部材"
+      "ja": "装飾部材",
+      "tw": "裝飾元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8876,7 +9279,8 @@
       "de": "Kanzelinnenraum-Bauteil",
       "en": "Hull Interior Component",
       "fr": "Composant de coque",
-      "ja": "エカトルの船体部材"
+      "ja": "エカトルの船体部材",
+      "tw": "長風船體元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8898,7 +9302,8 @@
       "de": "Erdseim-Motor-Bauteil",
       "en": "Propulsion Engine Component",
       "fr": "Composant de moteur",
-      "ja": "エカトルの機関部材"
+      "ja": "エカトルの機関部材",
+      "tw": "長風引擎元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8920,7 +9325,8 @@
       "de": "Motorverstrebungs-Bauteil",
       "en": "Engine Jointing Component",
       "fr": "Composant de jonction de moteur",
-      "ja": "エカトルの機関部接合材"
+      "ja": "エカトルの機関部接合材",
+      "tw": "長風引擎結合部元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8942,7 +9348,8 @@
       "de": "Steuereinheits-Bauteil",
       "en": "Helm Component",
       "fr": "Composant de gouvernail",
-      "ja": "エカトルの操舵装置部材"
+      "ja": "エカトルの操舵装置部材",
+      "tw": "長風舵盤元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8964,7 +9371,8 @@
       "de": "Endstück-Bauteil",
       "en": "Finishing Component",
       "fr": "Composant final",
-      "ja": "エカトルの重要部材"
+      "ja": "エカトルの重要部材",
+      "tw": "長風重要元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -8986,7 +9394,8 @@
       "de": "Bugschmuck-Bauteil",
       "en": "Figurehead Component",
       "fr": "Composant de figure de proue",
-      "ja": "エカトルの羽根飾り"
+      "ja": "エカトルの羽根飾り",
+      "tw": "長風羽飾元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9008,7 +9417,8 @@
       "de": "Haifischflossensuppe",
       "en": "Shark Fin Soup",
       "fr": "Soupe d'aileron",
-      "ja": "フカヒレスープ"
+      "ja": "フカヒレスープ",
+      "tw": "魚翅湯"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9030,7 +9440,8 @@
       "de": "Taramosalata",
       "en": "Haddock Dip",
       "fr": "Tarama",
-      "ja": "タラモサラータ"
+      "ja": "タラモサラータ",
+      "tw": "黑線鱈沙拉"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9052,7 +9463,8 @@
       "de": "Einspänner",
       "en": "Triple Cream Coffee",
       "fr": "Café triple crème",
-      "ja": "アインシュペナー"
+      "ja": "アインシュペナー",
+      "tw": "濃縮康寶藍"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9074,7 +9486,8 @@
       "de": "Speckzopf",
       "en": "Bacon Bread",
       "fr": "Pain en épi au lard",
-      "ja": "ベーコンエピ"
+      "ja": "ベーコンエピ",
+      "tw": "煙肉麥穗麵包"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9096,7 +9509,8 @@
       "de": "Feuerstein-Kaviar",
       "en": "Flint Caviar",
       "fr": "Caviar impérial",
-      "ja": "フリントキャビア"
+      "ja": "フリントキャビア",
+      "tw": "煌黑魚子醬"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9118,7 +9532,8 @@
       "de": "Specksuppe",
       "en": "Bacon Broth",
       "fr": "Bouillon au lard",
-      "ja": "ベーコンスープ"
+      "ja": "ベーコンスープ",
+      "tw": "煙肉湯"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9140,7 +9555,8 @@
       "de": "Aalpastete Spezial",
       "en": "Tailor-made Eel Pie",
       "fr": "Tarte à l'anguille très spéciale",
-      "ja": "秘製イールパイ"
+      "ja": "秘製イールパイ",
+      "tw": "秘製鰻魚派"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9162,7 +9578,8 @@
       "de": "Entenbrühe",
       "en": "Duck Broth",
       "fr": "Fond de canard",
-      "ja": "フォン・ド・カナール"
+      "ja": "フォン・ド・カナール",
+      "tw": "鴨高湯"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9184,7 +9601,8 @@
       "de": "Magitek-Reparaturkit",
       "en": "Magitek Repair Materials",
       "fr": "Kit de réparation d'appareil",
-      "ja": "魔導機械修理材"
+      "ja": "魔導機械修理材",
+      "tw": "魔導機械修理材料"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -9206,7 +9624,8 @@
       "de": "Fernöstliches Frühstück",
       "en": "Oriental Breakfast",
       "fr": "Petit déjeuner oriental",
-      "ja": "オリエンタル・モーニングセット"
+      "ja": "オリエンタル・モーニングセット",
+      "tw": "東方早餐組合"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -9228,7 +9647,8 @@
       "de": "Geburtstagskuchen",
       "en": "Nameday Cake",
       "fr": "Gâteau d'anniversaire",
-      "ja": "バースデーケーキ"
+      "ja": "バースデーケーキ",
+      "tw": "命名日蛋糕"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9250,7 +9670,8 @@
       "de": "Fernöstliches Abendessen",
       "en": "Oriental Supper",
       "fr": "Dîner oriental",
-      "ja": "オリエンタル・ディナーセット"
+      "ja": "オリエンタル・ディナーセット",
+      "tw": "東方晚餐組合"
     },
     "progressDivider": 67,
     "progressModifier": 100,
@@ -9272,7 +9693,8 @@
       "de": "Heiße Schokolade",
       "en": "Hot Chocolate",
       "fr": "Chocolat chaud",
-      "ja": "ホットココア"
+      "ja": "ホットココア",
+      "tw": "熱巧克力"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9294,7 +9716,8 @@
       "de": "Crème brulée",
       "en": "Creme Brulee",
       "fr": "Crème brûlée",
-      "ja": "クレームブリュレ"
+      "ja": "クレームブリュレ",
+      "tw": "焦糖牛奶沙司"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9316,7 +9739,8 @@
       "de": "Mandelcroissant",
       "en": "Almond Cream Croissant",
       "fr": "Croissant amandé",
-      "ja": "クロワッサンアマンド"
+      "ja": "クロワッサンアマンド",
+      "tw": "杏仁牛角麵包"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9338,7 +9762,8 @@
       "de": "Seeigel-Pastete",
       "en": "Urchin Loaf",
       "fr": "Terrine d'oursins",
-      "ja": "アーチンテリーヌ"
+      "ja": "アーチンテリーヌ",
+      "tw": "香烤湖膽"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9360,7 +9785,8 @@
       "de": "Ishgarder Fischtopf",
       "en": "Seafood Stew",
       "fr": "Ragoût du pêcheur",
-      "ja": "トマトシチュー"
+      "ja": "トマトシチュー",
+      "tw": "燉番茄"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9382,7 +9808,8 @@
       "de": "Flockenbeerentorte",
       "en": "Snurbleberry Tart",
       "fr": "Tarte aux lainuchairelles",
-      "ja": "スナーブルベリータルト"
+      "ja": "スナーブルベリータルト",
+      "tw": "鮮紅羅蘭莓派"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9404,7 +9831,8 @@
       "de": "Brioche des Rois",
       "en": "Kingcake",
       "fr": "Brioche des rois",
-      "ja": "ブリオッシュ・デ・ロワ"
+      "ja": "ブリオッシュ・デ・ロワ",
+      "tw": "國王餅"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9426,7 +9854,8 @@
       "de": "Gedünsteter Vergelter",
       "en": "Steamed Staff",
       "fr": "Bâton à l'étouffée",
-      "ja": "嵐神魚の姿蒸し"
+      "ja": "嵐神魚の姿蒸し",
+      "tw": "清蒸風神魚"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -9448,7 +9877,8 @@
       "de": "Würziger Apfelsaft",
       "en": "Spiced Cider",
       "fr": "Cidre aux épices",
-      "ja": "スパイスサイダー"
+      "ja": "スパイスサイダー",
+      "tw": "果香特飲"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9470,7 +9900,8 @@
       "de": "Apfelstrudel",
       "en": "Apple Strudel",
       "fr": "Strudel aux pommes",
-      "ja": "アップルシュトゥルーデル"
+      "ja": "アップルシュトゥルーデル",
+      "tw": "蘋果卷"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9492,7 +9923,8 @@
       "de": "Peperoncino",
       "en": "Peperoncino",
       "fr": "Pâtes aux piments",
-      "ja": "ペペロンチーノ"
+      "ja": "ペペロンチーノ",
+      "tw": "風味拌細麵"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9514,7 +9946,8 @@
       "de": "Boscaiola",
       "en": "Boscaiola",
       "fr": "Pâtes à la forestière",
-      "ja": "ボスカイオーラ"
+      "ja": "ボスカイオーラ",
+      "tw": "山珍番茄麵"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9536,7 +9969,8 @@
       "de": "Loaghtan-Steak",
       "en": "Loaghtan Steak",
       "fr": "Steak de loaghtan",
-      "ja": "ロフタンステーキ"
+      "ja": "ロフタンステーキ",
+      "tw": "洛夫坦山羊排"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9558,7 +9992,8 @@
       "de": "Austern-Confit",
       "en": "Oyster Confit",
       "fr": "Huîtres confites",
-      "ja": "オイスターコンフィ"
+      "ja": "オイスターコンフィ",
+      "tw": "油封牡蠣"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9580,7 +10015,8 @@
       "de": "Anglerfisch-Eintopf",
       "en": "Angler Stew",
       "fr": "Ragoût de lotte",
-      "ja": "アングラーシチュー"
+      "ja": "アングラーシチュー",
+      "tw": "燉鮟鱇"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9602,7 +10038,8 @@
       "de": "Süßer Gnomenfisch",
       "en": "Sweet Gnomefish",
       "fr": "Poisson gnome sucré",
-      "ja": "ヌマムツの甘露煮"
+      "ja": "ヌマムツの甘露煮",
+      "tw": "糖沼鯥"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -9624,7 +10061,8 @@
       "de": "Falsche Kupo-Nuss",
       "en": "Fake Kupo Nut",
       "fr": "Fausse noix de kupo",
-      "ja": "ニセの実"
+      "ja": "ニセの実",
+      "tw": "假果實"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9646,7 +10084,8 @@
       "de": "Trötenkomponente",
       "en": "Horn Component",
       "fr": "Composant de clairon",
-      "ja": "すんごいラッパ部材"
+      "ja": "すんごいラッパ部材",
+      "tw": "超級喇叭元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9668,7 +10107,8 @@
       "de": "Mogry-Werkzeugkomponente",
       "en": "Moogle Tool Component",
       "fr": "Composant de marteau spécial Mog",
-      "ja": "モーグリ用道具部材"
+      "ja": "モーグリ用道具部材",
+      "tw": "莫古力用工具元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9690,7 +10130,8 @@
       "de": "Steinstatuenkomponente",
       "en": "Statue Supplies",
       "fr": "Composant de statue",
-      "ja": "石像修復用部材"
+      "ja": "石像修復用部材",
+      "tw": "石像修復元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9712,7 +10153,8 @@
       "de": "Gedenktafelkomponente",
       "en": "Tablet Supplies",
       "fr": "Composant de plaque commémorative",
-      "ja": "銘板仕上げ部材"
+      "ja": "銘板仕上げ部材",
+      "tw": "名牌加工元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9734,7 +10176,8 @@
       "de": "Übungsmaterial",
       "en": "Training Supplies",
       "fr": "Matériel d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment",
-      "ja": "訓練用部材"
+      "ja": "訓練用部材",
+      "tw": "訓練用元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9756,7 +10199,8 @@
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
       "fr": "Matériel de con<SoftHyphen/>struc<SoftHyphen/>tion",
-      "ja": "再生済み建築資材"
+      "ja": "再生済み建築資材",
+      "tw": "再利用建築資材"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9778,7 +10222,8 @@
       "de": "Fundamentmaterial",
       "en": "Foundation Component",
       "fr": "Matériel pour les fondations",
-      "ja": "基礎工事資材"
+      "ja": "基礎工事資材",
+      "tw": "建築資材"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9800,7 +10245,8 @@
       "de": "Korbkomponente",
       "en": "Basket Component",
       "fr": "Matériel de vannerie",
-      "ja": "編みカゴ部材"
+      "ja": "編みカゴ部材",
+      "tw": "編織籃元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9822,7 +10268,8 @@
       "de": "Werkzeug zur Mauerglättung",
       "en": "Wall Repair Supplies",
       "fr": "Matériel de rénovation de façade",
-      "ja": "壁の補修部材"
+      "ja": "壁の補修部材",
+      "tw": "牆壁修補元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9844,7 +10291,8 @@
       "de": "Komponente für die Werkzeugreparatur",
       "en": "Gathering Tool Component",
       "fr": "Matériel de réparation",
-      "ja": "採集道具補材"
+      "ja": "採集道具補材",
+      "tw": "採集工具修理元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9866,7 +10314,8 @@
       "de": "Werkzeug zur Bodenplattenfärbung",
       "en": "Veneer Component",
       "fr": "Matériel de finition",
-      "ja": "床材加工用品"
+      "ja": "床材加工用品",
+      "tw": "石磚加工用品"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9888,7 +10337,8 @@
       "de": "Ätherdämmendes Gefäß",
       "en": "Aetheric Shielding",
       "fr": "Récipient éthéroscellé",
-      "ja": "絶霊体容器"
+      "ja": "絶霊体容器",
+      "tw": "絕靈容器"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9910,7 +10360,8 @@
       "de": "Formvollendete Steinblock-Vorlage",
       "en": "Stonemasonry Supplies",
       "fr": "Pierre de référence",
-      "ja": "調整された石材"
+      "ja": "調整された石材",
+      "tw": "調整後的石材"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9932,7 +10383,8 @@
       "de": "Rauchbombe",
       "en": "Exploding Kupo Nut",
       "fr": "Noix de kupo fumigène",
-      "ja": "煙幕の実"
+      "ja": "煙幕の実",
+      "tw": "煙霧果實"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9954,7 +10406,8 @@
       "de": "Drachengabe",
       "en": "Austere Offering",
       "fr": "Cadeau pour dragons",
-      "ja": "竜族報酬品"
+      "ja": "竜族報酬品",
+      "tw": "龍族報酬"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9976,7 +10429,8 @@
       "de": "Einzelteil für die Schneidemaschine",
       "en": "Shearing Machine Component",
       "fr": "Composant de machine à inciser",
-      "ja": "裁断機部材"
+      "ja": "裁断機部材",
+      "tw": "剪裁機元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -9998,7 +10452,8 @@
       "de": "Abdichtungskomponente",
       "en": "Water Filter Component",
       "fr": "Composant de fontaine",
-      "ja": "泉水補修材"
+      "ja": "泉水補修材",
+      "tw": "泉水修補元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10020,7 +10475,8 @@
       "de": "Küchenartikel",
       "en": "Mogstew Miscellany",
       "fr": "Matériaux gastronomiques",
-      "ja": "調理不足品"
+      "ja": "調理不足品",
+      "tw": "烹調所需品"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10042,7 +10498,8 @@
       "de": "Mogry-Figur",
       "en": "Moogle Statuette",
       "fr": "Statuette de Mog",
-      "ja": "彫像見本品"
+      "ja": "彫像見本品",
+      "tw": "雕像樣本"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10064,7 +10521,8 @@
       "de": "Miniatur-Luftschiff",
       "en": "Makeshift Toy Airship",
       "fr": "Maquette d'aéronef",
-      "ja": "飛空艇模型"
+      "ja": "飛空艇模型",
+      "tw": "飛空艇模型"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10086,7 +10544,8 @@
       "de": "Schuppenfeile",
       "en": "Dragonscale Rasp",
       "fr": "Racloir en écaille de dragon",
-      "ja": "竜鱗ヤスリ"
+      "ja": "竜鱗ヤスリ",
+      "tw": "龍鱗銼刀"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10108,7 +10567,8 @@
       "de": "Wolkenmeer-Köder",
       "en": "Cloudfish Lure",
       "fr": "Leurre spécial",
-      "ja": "雲海釣餌"
+      "ja": "雲海釣餌",
+      "tw": "雲海釣餌"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10130,7 +10590,8 @@
       "de": "Bestandteil einer Mahlzeit",
       "en": "Ishgardian Cuisine Miscellany",
       "fr": "Élément de plateau-repas",
-      "ja": "晩餐不足品"
+      "ja": "晩餐不足品",
+      "tw": "晚餐所需品"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10152,7 +10613,8 @@
       "de": "Flaschenzug-Ersatzteil",
       "en": "Treadwheel Crane Components",
       "fr": "Matériel de réparation de treuil",
-      "ja": "巻き上げ機部材"
+      "ja": "巻き上げ機部材",
+      "tw": "捲揚機元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10174,7 +10636,8 @@
       "de": "Kleine Belohnung",
       "en": "Moogle Mollifier",
       "fr": "Cadeau personnalisé",
-      "ja": "特製ご褒美"
+      "ja": "特製ご褒美",
+      "tw": "特製獎勵"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -10196,7 +10659,8 @@
       "de": "Himmelseier-Suppe",
       "en": "Heavensegg Soup",
       "fr": "Soupe aux célestœufs",
-      "ja": "ヘヴンスエッグスープ"
+      "ja": "ヘヴンスエッグスープ",
+      "tw": "蒼穹雞蛋湯"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10218,7 +10682,8 @@
       "de": "Pasta Ortolano",
       "en": "Pasta Ortolano",
       "fr": "Pâtes à la maraîchère",
-      "ja": "オルトラーナ"
+      "ja": "オルトラーナ",
+      "tw": "田園番茄麵"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10240,7 +10705,8 @@
       "de": "Himmlischer Eierflip",
       "en": "Heavenly Eggnog",
       "fr": "Lait de poule céleste",
-      "ja": "ヘヴンスエッグノッグ"
+      "ja": "ヘヴンスエッグノッグ",
+      "tw": "蒼穹蛋奶酒"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10262,7 +10728,8 @@
       "de": "Apfel-Flaugnarde",
       "en": "Flaugnarde",
       "fr": "Flaugnarde aux pommes",
-      "ja": "アップルフロニャルド"
+      "ja": "アップルフロニャルド",
+      "tw": "蘋果芙紐多"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10284,7 +10751,8 @@
       "de": "Carbonara",
       "en": "Spaghetti Carbonara",
       "fr": "Spaghettis à la carbonara",
-      "ja": "カルボナーラ"
+      "ja": "カルボナーラ",
+      "tw": "煙肉蛋醬拌麵"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10306,7 +10774,8 @@
       "de": "Pilzomelett",
       "en": "Wildwood Scrambled Eggs",
       "fr": "Œufs brouillés",
-      "ja": "ウー・ブルイエ"
+      "ja": "ウー・ブルイエ",
+      "tw": "嫩炒蛋"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10328,7 +10797,8 @@
       "de": "Pescatole",
       "en": "Spaghetti Pescatore",
       "fr": "Spaghetti pescatore",
-      "ja": "ペスカトーレ"
+      "ja": "ペスカトーレ",
+      "tw": "海鮮拌麵"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10350,7 +10820,8 @@
       "de": "Cordon bleu vom Loaghtan",
       "en": "Loaghtan Cordon Bleu",
       "fr": "Cordon bleu",
-      "ja": "コルドンブルー"
+      "ja": "コルドンブルー",
+      "tw": "藍帶肉排"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10372,7 +10843,8 @@
       "de": "Priester-Omelett",
       "en": "Priestly Omelette",
       "fr": "Omelette sacerdotale",
-      "ja": "プリーストオムレツ"
+      "ja": "プリーストオムレツ",
+      "tw": "祭司蛋包飯"
     },
     "progressDivider": 70,
     "progressModifier": 80,
@@ -10394,7 +10866,8 @@
       "de": "Komponente einer nahöstlichen Antiquität",
       "en": "Near Eastern Antique Component",
       "fr": "Composant d'antiquité proche-orientale",
-      "ja": "近東風の収集品部材"
+      "ja": "近東風の収集品部材",
+      "tw": "近東風格的收藏品元件"
     },
     "progressDivider": 67,
     "progressModifier": 100,
@@ -10416,7 +10889,8 @@
       "de": "Nahöstliche Antiquität",
       "en": "Near Eastern Antique",
       "fr": "Antiquité proche-orientale",
-      "ja": "近東風の収集品"
+      "ja": "近東風の収集品",
+      "tw": "近東風格的收藏品"
     },
     "progressDivider": 67,
     "progressModifier": 100,
@@ -10438,7 +10912,8 @@
       "de": "Komponente eines coerthischen Souvenirs",
       "en": "Coerthan Souvenir Component",
       "fr": "Composant de souvenir du Coerthas",
-      "ja": "寒冷地の名産品部材"
+      "ja": "寒冷地の名産品部材",
+      "tw": "寒冷地帶的特產元件"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -10460,7 +10935,8 @@
       "de": "Coerthisches Souvenir",
       "en": "Coerthan Souvenir",
       "fr": "Souvenir du Coerthas",
-      "ja": "寒冷地の名産品"
+      "ja": "寒冷地の名産品",
+      "tw": "寒冷地帶的特產"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -10482,7 +10958,8 @@
       "de": "Komponente eines Stücks Mahlstrom-Ausrüstung",
       "en": "Maelstrom Materiel Component",
       "fr": "Composant d'équipement militaire du Maelstrom",
-      "ja": "黒渦団の軍需品部材"
+      "ja": "黒渦団の軍需品部材",
+      "tw": "黑渦團軍需品元件"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -10504,7 +10981,8 @@
       "de": "Mahlstrom-Ausrüstung",
       "en": "Maelstrom Materiel",
       "fr": "Équipement militaire du Maelstrom",
-      "ja": "黒渦団の軍需品"
+      "ja": "黒渦団の軍需品",
+      "tw": "黑渦團軍需品"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -10526,7 +11004,8 @@
       "de": "Komponente eines innigen Geschenks",
       "en": "Heartfelt Gift Component",
       "fr": "Composant de cadeau attentionné",
-      "ja": "心尽くしの贈答品部材"
+      "ja": "心尽くしの贈答品部材",
+      "tw": "別具匠心的禮物元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10548,7 +11027,8 @@
       "de": "Inniges Geschenk",
       "en": "Heartfelt Gift",
       "fr": "Cadeau attentionné",
-      "ja": "心尽くしの贈答品"
+      "ja": "心尽くしの贈答品",
+      "tw": "別具匠心的禮物"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10570,7 +11050,8 @@
       "de": "Komponente einer Waisenhaus-Spende",
       "en": "Orphanage Donation Component",
       "fr": "Composant d'article pour orphelinat",
-      "ja": "孤児院の日用品部材"
+      "ja": "孤児院の日用品部材",
+      "tw": "孤兒院的日用品元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10592,7 +11073,8 @@
       "de": "Waisenhaus-Spende",
       "en": "Orphanage Donation",
       "fr": "Article quotidien d'orphelinat",
-      "ja": "孤児院の日用品"
+      "ja": "孤児院の日用品",
+      "tw": "孤兒院的日用品"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10614,7 +11096,8 @@
       "de": "Domanische Onigiri",
       "en": "Doman Rice Balls",
       "fr": "Onigiri domiens",
-      "ja": "ドマ風おにぎり"
+      "ja": "ドマ風おにぎり",
+      "tw": "多瑪飯糰"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -10636,7 +11119,8 @@
       "de": "Udon-Suppe",
       "en": "Doman Udon Broth",
       "fr": "Bouillon oriental",
-      "ja": "ドマ風うどんつゆ"
+      "ja": "ドマ風うどんつゆ",
+      "tw": "多瑪烏龍麵湯底"
     },
     "progressDivider": 85,
     "progressModifier": 100,
@@ -10658,7 +11142,8 @@
       "de": "Sushi",
       "en": "Nigiri-zushi",
       "fr": "Nigirizushi",
-      "ja": "握り寿司"
+      "ja": "握り寿司",
+      "tw": "手握壽司"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -10680,7 +11165,8 @@
       "de": "Domanisches Sukiyaki",
       "en": "Doman Sukiyaki",
       "fr": "Sukiyaki domien",
-      "ja": "ドマ風すき焼き"
+      "ja": "ドマ風すき焼き",
+      "tw": "多瑪壽喜燒"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -10702,7 +11188,8 @@
       "de": "Steppen-Tee",
       "en": "Steppe Tea",
       "fr": "Thé de la steppe",
-      "ja": "ステップティー"
+      "ja": "ステップティー",
+      "tw": "草原奶茶"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -10724,7 +11211,8 @@
       "de": "Kakuni",
       "en": "Pork Kakuni",
       "fr": "Porc braisé à l'orientale",
-      "ja": "豚角煮"
+      "ja": "豚角煮",
+      "tw": "燉豬肉"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -10746,7 +11234,8 @@
       "de": "Schweinefleischeintopf",
       "en": "Pork Stew",
       "fr": "Bouillon de porc",
-      "ja": "豚汁"
+      "ja": "豚汁",
+      "tw": "豬肉醬湯"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -10768,7 +11257,8 @@
       "de": "Othardischer Lachs nach Müllerinart",
       "en": "Sermon-worthy Meuniere",
       "fr": "Saumon seigneurial meunière",
-      "ja": "御鮭様のムニエル"
+      "ja": "御鮭様のムニエル",
+      "tw": "王室鮭魚排"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -10790,7 +11280,8 @@
       "de": "Hinganische Eierspeise",
       "en": "Chawan-mushi",
       "fr": "Flan oriental",
-      "ja": "茶碗蒸し"
+      "ja": "茶碗蒸し",
+      "tw": "蒸蛋羹"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -10812,7 +11303,8 @@
       "de": "Komponente eines abanischen Souvenirs",
       "en": "Gyr Abanian Souvenir Component",
       "fr": "Composant de souvenir de Gyr Abania",
-      "ja": "ギラバニア名産品部材"
+      "ja": "ギラバニア名産品部材",
+      "tw": "基拉巴尼亞的特產元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10834,7 +11326,8 @@
       "de": "Abanische Spezialität",
       "en": "Gyr Abanian Souvenir",
       "fr": "Souvenir de Gyr Abania",
-      "ja": "ギラバニアの名産品"
+      "ja": "ギラバニアの名産品",
+      "tw": "基拉巴尼亞的特產"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10856,7 +11349,8 @@
       "de": "Komponente einer fernöstlichen Antiquität",
       "en": "Far Eastern Antique Component",
       "fr": "Composant d'antiquité orientale",
-      "ja": "東方風の収集品部材"
+      "ja": "東方風の収集品部材",
+      "tw": "東方風格的收藏品元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10878,7 +11372,8 @@
       "de": "Fernöstliche Antiquität",
       "en": "Far Eastern Antique",
       "fr": "Antiquité orientale",
-      "ja": "東方風の収集品"
+      "ja": "東方風の収集品",
+      "tw": "東方風格的收藏品"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -10900,7 +11395,8 @@
       "de": "Komponente eines Gold Saucer-Trostpreises",
       "en": "Gold Saucer Consolation Prize Component",
       "fr": "Composant de lot de consolation du Gold Saucer",
-      "ja": "ゴールドソーサーの景品部材"
+      "ja": "ゴールドソーサーの景品部材",
+      "tw": "金碟遊樂場的紀念品元件"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -10922,7 +11418,8 @@
       "de": "Trostpreis für den Gold Saucer",
       "en": "Gold Saucer Consolation Prize",
       "fr": "Lot de consolation du Gold Saucer",
-      "ja": "ゴールドソーサーの景品"
+      "ja": "ゴールドソーサーの景品",
+      "tw": "金碟遊樂場的紀念品"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -10944,7 +11441,8 @@
       "de": "Komponente für Jagdbedarf für die M",
       "en": "M Tribe Sundry Component",
       "fr": "Composant de produits du quotidien des M",
-      "ja": "メ族の日用品部材"
+      "ja": "メ族の日用品部材",
+      "tw": "梅氏一族的日用品元件"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -10966,7 +11464,8 @@
       "de": "Jagdbedarf",
       "en": "M Tribe Sundries",
       "fr": "Produits du quotidien des M",
-      "ja": "メ族の日用品"
+      "ja": "メ族の日用品",
+      "tw": "梅氏一族的日用品"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -10988,7 +11487,8 @@
       "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
-      "ja": "解放軍の軍需品部材"
+      "ja": "解放軍の軍需品部材",
+      "tw": "解放軍的軍需品元件"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -11010,7 +11510,8 @@
       "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
-      "ja": "解放軍の軍需品"
+      "ja": "解放軍の軍需品",
+      "tw": "解放軍的軍需品"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -11032,7 +11533,8 @@
       "de": "Takoyaki",
       "en": "Tako-yaki",
       "fr": "Takoyaki",
-      "ja": "タコ焼き"
+      "ja": "タコ焼き",
+      "tw": "章魚燒"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -11054,7 +11556,8 @@
       "de": "Futomaki-Rolle",
       "en": "Futo-maki Roll",
       "fr": "Futomaki-zushi",
-      "ja": "太巻き寿司"
+      "ja": "太巻き寿司",
+      "tw": "什錦壽司卷"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -11076,7 +11579,8 @@
       "de": "Oden",
       "en": "Oden",
       "fr": "Oden",
-      "ja": "おでん"
+      "ja": "おでん",
+      "tw": "燉點"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -11098,7 +11602,8 @@
       "de": "Dzo-Steak",
       "en": "Dzo Steak",
       "fr": "Steak de hainag",
-      "ja": "ケナガウシステーキ"
+      "ja": "ケナガウシステーキ",
+      "tw": "犏牛肉排"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -11120,7 +11625,8 @@
       "de": "Purpur-Apfelsaft",
       "en": "Crimson Cider",
       "fr": "Cidre carmin",
-      "ja": "クリムゾンサイダー"
+      "ja": "クリムゾンサイダー",
+      "tw": "紅蓮特飲"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -11142,7 +11648,8 @@
       "de": "Gebratener Lauch",
       "en": "Sauteed Green Leeks",
       "fr": "Sauté de poireaux gyrabaniens",
-      "ja": "グリーンリーキソテー"
+      "ja": "グリーンリーキソテー",
+      "tw": "煎綠韭蔥"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -11164,7 +11671,8 @@
       "de": "Tofu-Pfannkuchen",
       "en": "Tofu Pancakes",
       "fr": "Pancake au tôfu",
-      "ja": "豆腐パンケーキ"
+      "ja": "豆腐パンケーキ",
+      "tw": "豆腐煎餅"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -11186,7 +11694,8 @@
       "de": "Happi-Element",
       "en": "Happi Components",
       "fr": "Composant de happi",
-      "ja": "ハッピ部材"
+      "ja": "ハッピ部材",
+      "tw": "法被元件"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -11208,7 +11717,8 @@
       "de": "Altarelement",
       "en": "Altar Components",
       "fr": "Composant d'autel",
-      "ja": "供物台部材"
+      "ja": "供物台部材",
+      "tw": "供臺元件"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -11230,7 +11740,8 @@
       "de": "Mikoshi-Element",
       "en": "Mikoshi Frippery",
       "fr": "Composant de mikoshi",
-      "ja": "御輿部材"
+      "ja": "御輿部材",
+      "tw": "神轎元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11252,7 +11763,8 @@
       "de": "Scherenteil",
       "en": "Dzo Shear Components",
       "fr": "Élément d'entretien de ciseaux de toilettage",
-      "ja": "毛刈りハサミ部材"
+      "ja": "毛刈りハサミ部材",
+      "tw": "牛毛剪刀元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11274,7 +11786,8 @@
       "de": "Trommelwerkstoff",
       "en": "Drum Parts",
       "fr": "Composant de taiko",
-      "ja": "太鼓部材"
+      "ja": "太鼓部材",
+      "tw": "太鼓元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11296,7 +11809,8 @@
       "de": "Konfettiwerkzeug",
       "en": "Confetti-making Tools",
       "fr": "Outil de papeterie",
-      "ja": "紙吹雪生産道具"
+      "ja": "紙吹雪生産道具",
+      "tw": "紙屑生產工具"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11318,7 +11832,8 @@
       "de": "Kochwerkzeug",
       "en": "Steeping Accessory",
       "fr": "Composant de cuisine namazu",
-      "ja": "ナマズオ焼き用品"
+      "ja": "ナマズオ焼き用品",
+      "tw": "烤鯰魚用品"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11340,7 +11855,8 @@
       "de": "Ritualbogenelement",
       "en": "Ceremonial Bow Components",
       "fr": "Composant d'arc cérémoniel",
-      "ja": "祭弓部材"
+      "ja": "祭弓部材",
+      "tw": "祭弓元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11362,7 +11878,8 @@
       "de": "Utensil für die Pferdezucht",
       "en": "Stable Supplies",
       "fr": "Accessoire d'élevage équin",
-      "ja": "馬番必需品"
+      "ja": "馬番必需品",
+      "tw": "養馬必需品"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11384,7 +11901,8 @@
       "de": "Messerteil",
       "en": "Culinary Knife Component",
       "fr": "Composant de couteau de cuisine",
-      "ja": "愛用の包丁部材"
+      "ja": "愛用の包丁部材",
+      "tw": "常用菜刀的元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11406,7 +11924,8 @@
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
       "fr": "Cadeau de re<SoftHyphen/>mer<SoftHyphen/>cie<SoftHyphen/>ment",
-      "ja": "感謝の贈答品"
+      "ja": "感謝の贈答品",
+      "tw": "謝禮"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11428,7 +11947,8 @@
       "de": "Destillierapparat-Ersatzteil",
       "en": "Elixir Mixing Paraphernalia",
       "fr": "Élément nécessaire à une mixtion",
-      "ja": "素敵な調合用品"
+      "ja": "素敵な調合用品",
+      "tw": "絕妙的調配用品"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11450,7 +11970,8 @@
       "de": "Namazuo-Puppenelement",
       "en": "Effigy Components",
       "fr": "Composant de géant d'osier",
-      "ja": "ナマズオ人形部材"
+      "ja": "ナマズオ人形部材",
+      "tw": "鯰魚精人偶元件"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11472,7 +11993,8 @@
       "de": "Tauschware",
       "en": "Finery Components",
       "fr": "Marchandises commerciales",
-      "ja": "交易品部材"
+      "ja": "交易品部材",
+      "tw": "交易品元件"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -11494,7 +12016,8 @@
       "de": "Reinigungsfetisch",
       "en": "Ritual Implement Components",
       "fr": "Instruments de purification",
-      "ja": "清めの祭具"
+      "ja": "清めの祭具",
+      "tw": "淨化用祭具"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -11516,7 +12039,8 @@
       "de": "Feuerschalenteil",
       "en": "Brazier Components",
       "fr": "Composant de braséro",
-      "ja": "篝火台部材"
+      "ja": "篝火台部材",
+      "tw": "篝火臺元件"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -11538,7 +12062,8 @@
       "de": "Fächerteil",
       "en": "Uchiwa Components",
       "fr": "Élément d'éventail",
-      "ja": "うちわ部材"
+      "ja": "うちわ部材",
+      "tw": "團扇元件"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -11560,7 +12085,8 @@
       "de": "Kleinigkeit",
       "en": "Trinket Components",
       "fr": "Présent modeste",
-      "ja": "粗品部材"
+      "ja": "粗品部材",
+      "tw": "禮品元件"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -11582,7 +12108,8 @@
       "de": "Wels-Köder",
       "en": "Catfish Lure Components",
       "fr": "Accessoire de pêche au poisson-chat",
-      "ja": "ナマズ釣り具"
+      "ja": "ナマズ釣り具",
+      "tw": "鯰魚釣具"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -11604,7 +12131,8 @@
       "de": "Handelsware",
       "en": "Azim Steppe Souvenir Components",
       "fr": "Produit d'inspiration nomade",
-      "ja": "遊牧民風の商材"
+      "ja": "遊牧民風の商材",
+      "tw": "游牧民風格的商品"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -11626,7 +12154,8 @@
       "de": "Ritualgegenstand zur Ahnenverehrung",
       "en": "Hingan Ritual Paraphernalia",
       "fr": "Objet cérémoniel",
-      "ja": "先祖の接待用品"
+      "ja": "先祖の接待用品",
+      "tw": "祖先招待用品"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -11648,7 +12177,8 @@
       "de": "Buuds-Kochutensil",
       "en": "Buuz Cooking Paraphernalia",
       "fr": "Ustensile de cuisine pour buuz",
-      "ja": "ボーズ調理用品"
+      "ja": "ボーズ調理用品",
+      "tw": "蒸包子用品"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -11670,7 +12200,8 @@
       "de": "Tee-Bedarfsartikel",
       "en": "Mol Tea Ceremony Paraphernalia",
       "fr": "Élément de cérémonie du thé",
-      "ja": "茶会必需品"
+      "ja": "茶会必需品",
+      "tw": "茶會必需品"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -11692,7 +12223,8 @@
       "de": "Opfergabe",
       "en": "Substitute Offering",
       "fr": "Offrande piégée",
-      "ja": "供物用品"
+      "ja": "供物用品",
+      "tw": "供品"
     },
     "progressDivider": 69,
     "progressModifier": 100,
@@ -11714,7 +12246,8 @@
       "de": "Festliches Wurfgeschoss",
       "en": "Pristine Fruit Figurine",
       "fr": "Répliques de produits régionaux",
-      "ja": "投擲用特産品"
+      "ja": "投擲用特産品",
+      "tw": "投擲用特產"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11736,7 +12269,8 @@
       "de": "Zubehörteil für ein Naghol-Sprungseil",
       "en": "Land Diving Gear",
       "fr": "Composant de système d'attache",
-      "ja": "ナゴール用品"
+      "ja": "ナゴール用品",
+      "tw": "高空彈跳用品"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11758,7 +12292,8 @@
       "de": "Bezaubernde Korrigane-Puppe",
       "en": "Korrigan Doll",
       "fr": "Poupée envoûtante korrigan",
-      "ja": "魅惑の魔物人形"
+      "ja": "魅惑の魔物人形",
+      "tw": "魅惑的魔物人偶"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -11780,7 +12315,8 @@
       "de": "Komponente abanischer Medizin",
       "en": "Gyr Abanian Remedy Components",
       "fr": "Composants pour remèdes gyrabaniens",
-      "ja": "ギラバニア医薬品部材"
+      "ja": "ギラバニア医薬品部材",
+      "tw": "基拉巴尼亞醫藥品元件"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -11802,7 +12338,8 @@
       "de": "Phiolenset abanischer Medizin",
       "en": "Gyr Abanian Remedies",
       "fr": "Remèdes gyrabaniens",
-      "ja": "ギラバニア医薬品"
+      "ja": "ギラバニア医薬品",
+      "tw": "基拉巴尼亞醫藥品"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -11824,7 +12361,8 @@
       "de": "Komponente einer Haifischharpune",
       "en": "Harpoon Components",
       "fr": "Composants pour harpon anti-requin",
-      "ja": "サメ対策用品部材"
+      "ja": "サメ対策用品部材",
+      "tw": "防鯊用品元件"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -11846,7 +12384,8 @@
       "de": "Haifischharpune",
       "en": "Anti-shark Harpoon",
       "fr": "Harpon anti-requin",
-      "ja": "サメ対策用品"
+      "ja": "サメ対策用品",
+      "tw": "防鯊用品"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -11868,7 +12407,8 @@
       "de": "Komponente coerthischer Winterkleidung",
       "en": "Cold-weather Gear Components",
       "fr": "Composants pour vêtements chauds du Coerthas",
-      "ja": "クルザス防寒品部材"
+      "ja": "クルザス防寒品部材",
+      "tw": "庫爾札斯防寒用品元件"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -11890,7 +12430,8 @@
       "de": "Coerthischer Wintermantel",
       "en": "Coerthan Cold-weather Gear",
       "fr": "Vêtements chauds du Coerthas",
-      "ja": "クルザス防寒品"
+      "ja": "クルザス防寒品",
+      "tw": "庫爾札斯防寒用品"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -11912,7 +12453,8 @@
       "de": "Komponente einer Kostbarkeit aus Sui no Sato",
       "en": "Sui-no-Sato Special Components",
       "fr": "Composants pour spécialité de Sui-no-Sato",
-      "ja": "スイ特産品部材"
+      "ja": "スイ特産品部材",
+      "tw": "翠水鄉特產元件"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -11934,7 +12476,8 @@
       "de": "Kostbarkeit aus Sui no Sato",
       "en": "Sui-no-Sato Special",
       "fr": "Spécialité de Sui-no-Sato ",
-      "ja": "スイ特産品"
+      "ja": "スイ特産品",
+      "tw": "翠水鄉特產"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -11956,7 +12499,8 @@
       "de": "Komponente einer Wolkenmeerperle",
       "en": "Cloud Pearl Components",
       "fr": "Composants pour rareté de la Mer de nuages",
-      "ja": "雲海の珍宝部材"
+      "ja": "雲海の珍宝部材",
+      "tw": "雲海珍寶元件"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -11978,7 +12522,8 @@
       "de": "Wolkenmeerperle",
       "en": "Cloud Pearl",
       "fr": "Rareté de la Mer de nuages",
-      "ja": "雲海の珍宝"
+      "ja": "雲海の珍宝",
+      "tw": "雲海珍寶"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -12000,7 +12545,8 @@
       "de": "Konpeito",
       "en": "Konpeito",
       "fr": "Konpeitô",
-      "ja": "金平糖"
+      "ja": "金平糖",
+      "tw": "金平糖"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12022,7 +12568,8 @@
       "de": "Banh Xeo",
       "en": "Banh Xeo",
       "fr": "Banh xeo",
-      "ja": "バインセオ"
+      "ja": "バインセオ",
+      "tw": "納夏煎餅"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12044,7 +12591,8 @@
       "de": "Matcha-Tee",
       "en": "Matcha",
       "fr": "Matcha",
-      "ja": "抹茶"
+      "ja": "抹茶",
+      "tw": "抹茶"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12066,7 +12614,8 @@
       "de": "Ema Datshi",
       "en": "Ema Datshi",
       "fr": "Ema datshi",
-      "ja": "エマダツィ"
+      "ja": "エマダツィ",
+      "tw": "辣椒焗乳酪"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12088,7 +12637,8 @@
       "de": "Rooibos-Tee",
       "en": "Rooibos Tea",
       "fr": "Thé rooibos",
-      "ja": "ルイボスティー"
+      "ja": "ルイボスティー",
+      "tw": "路易波士紅茶"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12110,7 +12660,8 @@
       "de": "Ingwersalat",
       "en": "Ginger Salad",
       "fr": "Salade au gingembre",
-      "ja": "ジンジャーサラダ"
+      "ja": "ジンジャーサラダ",
+      "tw": "生薑沙拉"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12132,7 +12683,8 @@
       "de": "Laghman",
       "en": "Laghman",
       "fr": "Laghman",
-      "ja": "ラグマン"
+      "ja": "ラグマン",
+      "tw": "拉條子"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12154,7 +12706,8 @@
       "de": "Patlican Imam Bayildi",
       "en": "Imam Bayildi",
       "fr": "Patlican imam bayildi",
-      "ja": "パトゥルジャン・イマム・バユルドゥ"
+      "ja": "パトゥルジャン・イマム・バユルドゥ",
+      "tw": "僧厥茄子鑲肉"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12176,7 +12729,8 @@
       "de": "Papanasi",
       "en": "Papanasi",
       "fr": "Papanasi",
-      "ja": "パパナッシュ"
+      "ja": "パパナッシュ",
+      "tw": "乳酪甜甜圈"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12198,7 +12752,8 @@
       "de": "Lachs-Muffin",
       "en": "Salmon Muffin",
       "fr": "Muffin au saumon",
-      "ja": "サーモンマフィン"
+      "ja": "サーモンマフィン",
+      "tw": "鮭魚鬆餅"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12220,7 +12775,8 @@
       "de": "Shakshouka",
       "en": "Shakshouka",
       "fr": "Chakchouka",
-      "ja": "シャクシュカ"
+      "ja": "シャクシュカ",
+      "tw": "番茄燉蛋"
     },
     "progressDivider": 90,
     "progressModifier": 80,
@@ -12242,7 +12798,8 @@
       "de": "Komponente eines Ishgarder Kochutensils",
       "en": "Ishgardian Culinary Materials",
       "fr": "Matériaux raffinés pour composant de recette ishgardaise",
-      "ja": "イシュガルド料理必需品部材"
+      "ja": "イシュガルド料理必需品部材",
+      "tw": "伊修加爾德菜餚必需品的元件"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -12264,7 +12821,8 @@
       "de": "Ishgarder Kochutensil",
       "en": "Ishgardian Culinary Essentials",
       "fr": "Composant pour recette ishgardaise",
-      "ja": "イシュガルド料理必需品"
+      "ja": "イシュガルド料理必需品",
+      "tw": "伊修加爾德菜餚必需品"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -12286,7 +12844,8 @@
       "de": "Komponente eines Spirituosenzubehörteils",
       "en": "Juice Fermenting Supplies",
       "fr": "Matériaux raffinés pour composant pour eau-de-vie du Bord du gouffre",
-      "ja": "崖っぷち蒸留酒必需品部材"
+      "ja": "崖っぷち蒸留酒必需品部材",
+      "tw": "崖畔亭蒸餾酒必需品的元件"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -12308,7 +12867,8 @@
       "de": "Spirituosenzubehörteil",
       "en": "Fermented Juice",
       "fr": "Composant pour eau-de-vie du Bord du gouffre",
-      "ja": "崖っぷち蒸留酒必需品"
+      "ja": "崖っぷち蒸留酒必需品",
+      "tw": "崖畔亭蒸餾酒必需品"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -12330,7 +12890,8 @@
       "de": "Komponente eines Buuds-Kochutensils",
       "en": "Signature Buuz Cookware Materials",
       "fr": "Matériaux raffinés pour composant pour buuz du Bord du gouffre",
-      "ja": "崖っぷちボーズ必需品部材"
+      "ja": "崖っぷちボーズ必需品部材",
+      "tw": "崖畔亭包子必需品的元件"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -12352,7 +12913,8 @@
       "de": "Klippenhänger-Buuds-Kochutensil",
       "en": "Signature Buuz Cookware",
       "fr": "Composant pour buuz du Bord du gouffre",
-      "ja": "崖っぷちボーズ必需品"
+      "ja": "崖っぷちボーズ必需品",
+      "tw": "崖畔亭包子必需品"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -12374,7 +12936,8 @@
       "de": "Komponente eines Klippenhänger-Einrichtungsgegenstands",
       "en": "Decorative Tavern Furnishing Materials",
       "fr": "Matériaux raffinés pour pièce décorative du Bord du gouffre",
-      "ja": "崖っぷち亭の備品部材"
+      "ja": "崖っぷち亭の備品部材",
+      "tw": "崖畔亭備用品的元件"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -12396,7 +12959,8 @@
       "de": "Klippenhänger-Einrichtungsgegenstand",
       "en": "Hard Place Decorative Furnishings",
       "fr": "Pièce décorative du Bord du gouffre",
-      "ja": "崖っぷち亭の備品"
+      "ja": "崖っぷち亭の備品",
+      "tw": "崖畔亭的備用品"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -12418,7 +12982,8 @@
       "de": "Komponente eines Arkhi-Destillierutensils",
       "en": "Arkhi Brewing Vat Materials",
       "fr": "Matériaux raffinés pour composant pour arkhi du Bord du gouffre",
-      "ja": "アルヒ醸造必需品部材"
+      "ja": "アルヒ醸造必需品部材",
+      "tw": "釀造奶酒必需品的元件"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -12440,7 +13005,8 @@
       "de": "Arkhi-Destillierutensil",
       "en": "Arkhi Brewing Set",
       "fr": "Composant pour arkhi du Bord du gouffre",
-      "ja": "アルヒ醸造必需品"
+      "ja": "アルヒ醸造必需品",
+      "tw": "釀造奶酒的必需品"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -12462,7 +13028,8 @@
       "de": "Cremelachs-Spaghetti",
       "en": "Creamy Salmon Pasta",
       "fr": "Pâtes au saumon et à la crème",
-      "ja": "サーモンクリームパスタ"
+      "ja": "サーモンクリームパスタ",
+      "tw": "鮭魚奶油麵"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12484,7 +13051,8 @@
       "de": "Monarchenlachs nach Müllerinart",
       "en": "King Salmon Meuniere",
       "fr": "Saumon royal meunière",
-      "ja": "キングサーモンムニエル"
+      "ja": "キングサーモンムニエル",
+      "tw": "帝王鮭魚排"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12506,7 +13074,8 @@
       "de": "Toffelsalat",
       "en": "Popoto Salad",
       "fr": "Salade de popotos",
-      "ja": "ポポトサラダ"
+      "ja": "ポポトサラダ",
+      "tw": "新薯沙拉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12528,7 +13097,8 @@
       "de": "Bataviasalat",
       "en": "Robe Lettuce Salad",
       "fr": "Salade de batavia",
-      "ja": "ウィザードレタスサラダ"
+      "ja": "ウィザードレタスサラダ",
+      "tw": "巫師萵苣沙拉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12550,7 +13120,8 @@
       "de": "Pixiebeeren-Tee",
       "en": "Pixieberry Tea",
       "fr": "Thé à la fraise pixie",
-      "ja": "ピクシーベリーティー"
+      "ja": "ピクシーベリーティー",
+      "tw": "仙子莓茶"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12572,7 +13143,8 @@
       "de": "Käsekuchen mit Beeren",
       "en": "Pixieberry Cheesecake",
       "fr": "Gâteau au fromage à la fraise pixie",
-      "ja": "ベリーチーズケーキ"
+      "ja": "ベリーチーズケーキ",
+      "tw": "仙子莓乳酪蛋糕"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12594,7 +13166,8 @@
       "de": "Kukuru-Zwieback",
       "en": "Kukuru Rusk",
       "fr": "Biscottes au beurre kukuru",
-      "ja": "ククルラスク"
+      "ja": "ククルラスク",
+      "tw": "可可麵包乾"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12616,7 +13189,8 @@
       "de": "Sachertorte mit Zitronencreme",
       "en": "Lemon Curd Sachertorte",
       "fr": "Sachertorte à la crème de citron",
-      "ja": "レモンカードザッハトルテ"
+      "ja": "レモンカードザッハトルテ",
+      "tw": "檸檬薩赫蛋糕"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12638,7 +13212,8 @@
       "de": "Edler Rostbraten",
       "en": "Rare Roast Beef",
       "fr": "Rosbif supérieur",
-      "ja": "高級ローストビーフ"
+      "ja": "高級ローストビーフ",
+      "tw": "高階烤牛肉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12660,7 +13235,8 @@
       "de": "Edler Rindereintopf",
       "en": "Exquisite Beef Stew",
       "fr": "Ragoût de hainag de luxe",
-      "ja": "高級ビーフシチュー"
+      "ja": "高級ビーフシチュー",
+      "tw": "高階清燉牛肉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12682,7 +13258,8 @@
       "de": "Entgiftende Brühe",
       "en": "Edible Antidote",
       "fr": "Bouillon antidotique",
-      "ja": "解毒の薬餌"
+      "ja": "解毒の薬餌",
+      "tw": "解毒的藥餌"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -12704,7 +13281,8 @@
       "de": "Proteinreiche Suppe",
       "en": "Nutrient-rich Porridge",
       "fr": "Soupe tonifiante",
-      "ja": "低刺激の薬餌"
+      "ja": "低刺激の薬餌",
+      "tw": "低刺激性藥餌"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -12726,7 +13304,8 @@
       "de": "Stärkende Suppe",
       "en": "Fortifying Soup",
       "fr": "Potage fortifiant",
-      "ja": "回復期の薬餌"
+      "ja": "回復期の薬餌",
+      "tw": "恢復期的藥餌"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -12748,7 +13327,8 @@
       "de": "Berube-Futterkohl",
       "en": "Berube Feed",
       "fr": "Crème au chou de Berube",
-      "ja": "ベルベ風の餌"
+      "ja": "ベルベ風の餌",
+      "tw": "貝魯布風味的食餌"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -12770,7 +13350,8 @@
       "de": "Geschenk für die Pixies",
       "en": "Offering of Sweets",
       "fr": "Cadeau pour les Pixies",
-      "ja": "妖精への贈り物"
+      "ja": "妖精への贈り物",
+      "tw": "給妖靈的禮物"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -12792,7 +13373,8 @@
       "de": "Zun-Klöße",
       "en": "Zun-style Amaro Feed",
       "fr": "Salade de fruits à la zun",
-      "ja": "ズン族の草団子"
+      "ja": "ズン族の草団子",
+      "tw": "勇人族的菜丸子"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -12814,7 +13396,8 @@
       "de": "Miserabelmuscheln al Ajillo",
       "en": "Mejillones al Ajillo",
       "fr": "Moules al ajillo",
-      "ja": "ムセルアヒージョ"
+      "ja": "ムセルアヒージョ",
+      "tw": "蒜炒貽貝"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12836,7 +13419,8 @@
       "de": "Schwarze Paella",
       "en": "Arros Negre",
       "fr": "Arròs negre",
-      "ja": "アロス・ネグロ"
+      "ja": "アロス・ネグロ",
+      "tw": "烏賊墨汁炒飯"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -12858,7 +13442,8 @@
       "de": "Flugblattdruck-Utensil",
       "en": "Flyer Printing Set",
       "fr": "Kit pour dépliants",
-      "ja": "チラシ製作必需品"
+      "ja": "チラシ製作必需品",
+      "tw": "傳單製作必需品"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -12880,7 +13465,8 @@
       "de": "Menü-Komponenten",
       "en": "Kholusian Cuisine Set",
       "fr": "Composant pour nouveau menu",
-      "ja": "新メニュー必需品"
+      "ja": "新メニュー必需品",
+      "tw": "新菜餚必需品"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -12902,7 +13488,8 @@
       "de": "Bühnenkostümteil",
       "en": "Honeybee Trappings",
       "fr": "Composant pour costume de scène",
-      "ja": "舞台衣装必需品"
+      "ja": "舞台衣装必需品",
+      "tw": "舞臺服裝必需品"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -12924,7 +13511,8 @@
       "de": "Luftschiff-Komponente",
       "en": "Airship Fittings",
       "fr": "Élément pour rénovation d'aéronef",
-      "ja": "飛空艇改装必需品"
+      "ja": "飛空艇改装必需品",
+      "tw": "飛空艇改裝必需品"
     },
     "progressDivider": 102,
     "progressModifier": 100,
@@ -12946,7 +13534,8 @@
       "de": "Lustspielhaus-Souvenir",
       "en": "Beehive Souvenir",
       "fr": "Souvenir du cabaret",
-      "ja": "キャバレー土産品"
+      "ja": "キャバレー土産品",
+      "tw": "蜂箱夜總會特產"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -12968,7 +13557,8 @@
       "de": "Himmelsstadt-Hanfmilch",
       "en": "Skybuilders' Hemp Milk",
       "fr": "Lait de chanvre de restauration",
-      "ja": "復興用のヘンプミルク"
+      "ja": "復興用のヘンプミルク",
+      "tw": "重建用的麻乳"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -12990,7 +13580,8 @@
       "de": "Himmelsstadt-Nudeln",
       "en": "Skybuilders' Uncooked Pasta",
       "fr": "Pâtes de restauration",
-      "ja": "復興用の乾麺"
+      "ja": "復興用の乾麺",
+      "tw": "重建用的乾麵"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -13012,7 +13603,8 @@
       "de": "Himmelsstadt-Schwarztee",
       "en": "Skybuilders' Tea",
       "fr": "Thé de restauration",
-      "ja": "復興用の紅茶"
+      "ja": "復興用の紅茶",
+      "tw": "重建用的紅茶"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -13034,7 +13626,8 @@
       "de": "Himmelsstadt-Kräuterbad",
       "en": "Skybuilders' All-purpose Infusion",
       "fr": "Tisane de restauration",
-      "ja": "復興用の薬湯"
+      "ja": "復興用の薬湯",
+      "tw": "重建用的藥湯"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -13056,7 +13649,8 @@
       "de": "Himmelsstadt-Eintopf",
       "en": "Skybuilders' Stew",
       "fr": "Marmite de ragoût de restauration",
-      "ja": "復興用のシチュー"
+      "ja": "復興用のシチュー",
+      "tw": "重建用的燉菜"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -13078,7 +13672,8 @@
       "de": "Genist-Hanfmilch",
       "en": "Grade 2 Skybuilders' Hemp Milk",
       "fr": "Lait de chanvre de restauration (2e phase)",
-      "ja": "第二次復興用のヘンプミルク"
+      "ja": "第二次復興用のヘンプミルク",
+      "tw": "第二期重建用的麻乳"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -13100,7 +13695,8 @@
       "de": "Genist-Brot",
       "en": "Grade 2 Skybuilders' Bread",
       "fr": "Pain de mie de restauration (2e phase)",
-      "ja": "第二次復興用のブレッド"
+      "ja": "第二次復興用のブレッド",
+      "tw": "第二期重建用的麵包"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -13122,7 +13718,8 @@
       "de": "Genist-Schwarztee",
       "en": "Grade 2 Skybuilders' Tea",
       "fr": "Thé de restauration (2e phase)",
-      "ja": "第二次復興用の紅茶"
+      "ja": "第二次復興用の紅茶",
+      "tw": "第二期重建用的紅茶"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -13144,7 +13741,8 @@
       "de": "Genist-Kräuterbad",
       "en": "Grade 2 Skybuilders' All-purpose Infusion",
       "fr": "Tisane de restauration (2e phase)",
-      "ja": "第二次復興用の薬湯"
+      "ja": "第二次復興用の薬湯",
+      "tw": "第二期重建用的藥湯"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -13166,7 +13764,8 @@
       "de": "Genist-Eintopf",
       "en": "Grade 2 Skybuilders' Stew",
       "fr": "Marmite de ragoût de restauration (2e phase)",
-      "ja": "第二次復興用のシチュー"
+      "ja": "第二次復興用のシチュー",
+      "tw": "第二期重建用的燉菜"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -13188,7 +13787,8 @@
       "de": "Sonderbestellte Genist-Torte",
       "en": "Grade 2 Artisanal Skybuilders' Quiche",
       "fr": "Repas sur commande de restauration (2e phase)",
-      "ja": "第二次復興用の特注料理"
+      "ja": "第二次復興用の特注料理",
+      "tw": "第二期重建用的特供菜餚"
     },
     "progressDivider": 140,
     "progressModifier": 100,
@@ -13210,7 +13810,8 @@
       "de": "Werkstätten-Getreidesamenextrakt",
       "en": "Oddly Specific Seed Extract",
       "fr": "Huile de graines d'affinage",
-      "ja": "改良用の種子抽出液"
+      "ja": "改良用の種子抽出液",
+      "tw": "改良用的種子提取液"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -13232,7 +13833,8 @@
       "de": "Werkstätten-Samenmehl",
       "en": "Oddly Specific Seed Flour",
       "fr": "Poudre de graines d'affinage",
-      "ja": "改良用の種子粉"
+      "ja": "改良用の種子粉",
+      "tw": "改良用的種子粉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13254,7 +13856,8 @@
       "de": "Ovim-Hackbällchen",
       "en": "Ovim Meatballs",
       "fr": "Spaghettis aux boulettes de viande d'ovim",
-      "ja": "オヴィムミートボール"
+      "ja": "オヴィムミートボール",
+      "tw": "力山羊肉丸"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13276,7 +13879,8 @@
       "de": "Mors",
       "en": "Mors",
       "fr": "Pichet de mors",
-      "ja": "モルス"
+      "ja": "モルス",
+      "tw": "莫爾斯"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13298,7 +13902,8 @@
       "de": "Zitronenwaffel",
       "en": "Lemon Waffle",
       "fr": "Gaufre au citron",
-      "ja": "レモンワッフル"
+      "ja": "レモンワッフル",
+      "tw": "檸檬華夫餅"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13320,7 +13925,8 @@
       "de": "Honighörnchen",
       "en": "Honey Croissant",
       "fr": "Croissant au miel",
-      "ja": "ハニークロワッサン"
+      "ja": "ハニークロワッサン",
+      "tw": "蜂蜜牛角麵包"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13342,7 +13948,8 @@
       "de": "Würstchen mit Sauerkraut",
       "en": "Sausage and Sauerkraut",
       "fr": "Choucroute garnie",
-      "ja": "ソーセージ・ザワークラウト"
+      "ja": "ソーセージ・ザワークラウト",
+      "tw": "香腸泡菜"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13364,7 +13971,8 @@
       "de": "Krautwickel nach Hochländer Art",
       "en": "Stuffed Highland Cabbage",
       "fr": "Choux des hautes terres farcis",
-      "ja": "高地風挽肉のキャベツ巻き"
+      "ja": "高地風挽肉のキャベツ巻き",
+      "tw": "高地風味菜肉卷"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13386,7 +13994,8 @@
       "de": "Marinierter Hering",
       "en": "Pickled Herring",
       "fr": "Harengs marinés",
-      "ja": "ヘリングマリネ"
+      "ja": "ヘリングマリネ",
+      "tw": "醃鯡魚"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13408,7 +14017,8 @@
       "de": "Heringspastete",
       "en": "Herring Pie",
       "fr": "Tarte au hareng",
-      "ja": "ヘリングパイ"
+      "ja": "ヘリングパイ",
+      "tw": "鯡魚派"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13430,7 +14040,8 @@
       "de": "Bauernfrühstück",
       "en": "Farmer's Breakfast",
       "fr": "Déjeuner rustique",
-      "ja": "ファーマーズブレックファスト"
+      "ja": "ファーマーズブレックファスト",
+      "tw": "農場早餐"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13452,7 +14063,8 @@
       "de": "Seidenpudding",
       "en": "Silkie Pudding",
       "fr": "Flan soyeux",
-      "ja": "シルキープディング"
+      "ja": "シルキープディング",
+      "tw": "烏雞布丁"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13474,7 +14086,8 @@
       "de": "Krabbenküchlein",
       "en": "Crab Cakes",
       "fr": "Gâteau de crabe",
-      "ja": "クラブケーキ"
+      "ja": "クラブケーキ",
+      "tw": "炸蟹餅"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13496,7 +14109,8 @@
       "de": "Chili-Krabbengericht",
       "en": "Chili Crab",
       "fr": "Chili de crabe",
-      "ja": "チリクラブ"
+      "ja": "チリクラブ",
+      "tw": "辣醬炒全蟹"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -13518,7 +14132,8 @@
       "de": "Komponenten für ein spezielles Sammlerwerkzeug",
       "en": "Custom Gathering Tool Components",
       "fr": "Outils de récolte pour dragon",
-      "ja": "ドラゴン用採集道具部材"
+      "ja": "ドラゴン用採集道具部材",
+      "tw": "龍族用採集工具元件"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -13540,7 +14155,8 @@
       "de": "Komponenten für ein spezielles Weberwerkzeug",
       "en": "Custom Weaving Components",
       "fr": "Ustensiles de couture pour dragon",
-      "ja": "ドラゴン用裁縫用具"
+      "ja": "ドラゴン用裁縫用具",
+      "tw": "龍族用縫紉工具"
     },
     "progressDivider": 102,
     "progressModifier": 100,
@@ -13562,7 +14178,8 @@
       "de": "Komponenten für ein spezielles Werkzeug",
       "en": "Custom Crafting Tool Components",
       "fr": "Outils d'artisanat pour dragon",
-      "ja": "ドラゴン用職人道具部材"
+      "ja": "ドラゴン用職人道具部材",
+      "tw": "龍族用工匠工具元件"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -13584,7 +14201,8 @@
       "de": "Handverlesene kulinarische Köstlichkeiten",
       "en": "Handpicked Culinary Essentials",
       "fr": "Sandwichs pour dragon",
-      "ja": "ドラゴンおもてなし料理必需品"
+      "ja": "ドラゴンおもてなし料理必需品",
+      "tw": "龍族用招待菜餚必需品"
     },
     "progressDivider": 104,
     "progressModifier": 100,
@@ -13606,7 +14224,8 @@
       "de": "Druckutensilien",
       "en": "Printing Essentials",
       "fr": "Lot d'imprimerie",
-      "ja": "印刷必需品"
+      "ja": "印刷必需品",
+      "tw": "印刷必需品"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -13628,7 +14247,8 @@
       "de": "Dhalmel-Gratin (Sammlerstück)",
       "en": "Rarefied Dhalmel Gratin",
       "fr": "Gratin de dhalmel collectionnable",
-      "ja": "収集用のアウフラウフ"
+      "ja": "収集用のアウフラウフ",
+      "tw": "收藏用千層長頸駝焗野菜"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -13650,7 +14270,8 @@
       "de": "Mont Sohm Al-Süßspeise (Sammlerstück)",
       "en": "Rarefied Sohm Al Tart",
       "fr": "Sohm Al aux marrons collectionnable",
-      "ja": "収集用のソーム・アル・オ・マロン"
+      "ja": "収集用のソーム・アル・オ・マロン",
+      "tw": "收藏用索姆阿爾蒙布朗"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -13672,7 +14293,8 @@
       "de": "Porciniragout (Sammlerstück)",
       "en": "Rarefied Sauteed Porcini",
       "fr": "Bolets sautés collectionnables",
-      "ja": "収集用のポルチーニソテー"
+      "ja": "収集用のポルチーニソテー",
+      "tw": "收藏用煎牛肝菌"
     },
     "progressDivider": 64,
     "progressModifier": 100,
@@ -13694,7 +14316,8 @@
       "de": "Eier Royal (Sammlerstück)",
       "en": "Rarefied Royal Eggs",
       "fr": "Œufs royaux collectionnables",
-      "ja": "収集用のエッグロワイヤル"
+      "ja": "収集用のエッグロワイヤル",
+      "tw": "收藏用皇家蒸蛋"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -13716,7 +14339,8 @@
       "de": "Peperoncino (Sammlerstück)",
       "en": "Rarefied Peperoncino",
       "fr": "Pâtes aux piments collectionnables",
-      "ja": "収集用のペペロンチーノ"
+      "ja": "収集用のペペロンチーノ",
+      "tw": "收藏用風味拌細麵"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -13738,7 +14362,8 @@
       "de": "Glasierte Glanznüsse (Sammlerstück)",
       "en": "Rarefied Marron Glace",
       "fr": "Marrons glacés collectionnables",
-      "ja": "収集用のマロングラッセ"
+      "ja": "収集用のマロングラッセ",
+      "tw": "收藏用糖漬栗子"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -13760,7 +14385,8 @@
       "de": "Baklava (Sammlerstück)",
       "en": "Rarefied Baklava",
       "fr": "Baklava collectionnable",
-      "ja": "収集用のバクラヴァ"
+      "ja": "収集用のバクラヴァ",
+      "tw": "收藏用果仁蜜餅"
     },
     "progressDivider": 82,
     "progressModifier": 100,
@@ -13782,7 +14408,8 @@
       "de": "Shorlog (Sammlerstück)",
       "en": "Rarefied Shorlog",
       "fr": "Shorlog collectionnable",
-      "ja": "収集用のショルログ"
+      "ja": "収集用のショルログ",
+      "tw": "收藏用牛肉串"
     },
     "progressDivider": 84,
     "progressModifier": 100,
@@ -13804,7 +14431,8 @@
       "de": "Tempura-Platte (Sammlerstück)",
       "en": "Rarefied Tempura Platter",
       "fr": "Assortiment de tenpura collectionnable",
-      "ja": "収集用の天ぷら盛り合わせ"
+      "ja": "収集用の天ぷら盛り合わせ",
+      "tw": "收藏用天婦羅拼盤"
     },
     "progressDivider": 86,
     "progressModifier": 100,
@@ -13826,7 +14454,8 @@
       "de": "Kakipudding (Sammlerstück)",
       "en": "Rarefied Persimmon Pudding",
       "fr": "Flan aux kakis collectionnable",
-      "ja": "収集用のパーシモンプディング"
+      "ja": "収集用のパーシモンプディング",
+      "tw": "收藏用柿子布丁"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -13848,7 +14477,8 @@
       "de": "Chirashi-Sushi (Sammlerstück)",
       "en": "Rarefied Chirashi-zushi",
       "fr": "Chirashi-zushi collectionnable",
-      "ja": "収集用のちらし寿司"
+      "ja": "収集用のちらし寿司",
+      "tw": "收藏用散壽司"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -13870,7 +14500,8 @@
       "de": "Gegrillte Ralle (Sammlerstück)",
       "en": "Rarefied Grilled Rail",
       "fr": "Tranche de râle grillée collectionnable",
-      "ja": "収集用のレイルのグリル"
+      "ja": "収集用のレイルのグリル",
+      "tw": "收藏用秧雞烤肉"
     },
     "progressDivider": 102,
     "progressModifier": 100,
@@ -13892,7 +14523,8 @@
       "de": "Tintenschwarze Spaghetti (Sammlerstück)",
       "en": "Rarefied Spaghetti al Nero",
       "fr": "Spaghetti al nero collectionnables",
-      "ja": "収集用のスパゲッティ・ネーロ"
+      "ja": "収集用のスパゲッティ・ネーロ",
+      "tw": "收藏用黑色肉醬面"
     },
     "progressDivider": 104,
     "progressModifier": 100,
@@ -13914,7 +14546,8 @@
       "de": "Ockertoffel-Gratin (Sammlerstück)",
       "en": "Rarefied Popotoes au Gratin",
       "fr": "Gratin de popotos brunes collectionnable",
-      "ja": "収集用のラセットポポトグラタン"
+      "ja": "収集用のラセットポポトグラタン",
+      "tw": "收藏用焗黃新薯"
     },
     "progressDivider": 106,
     "progressModifier": 100,
@@ -13936,7 +14569,8 @@
       "de": "Sahne-Espresso (Sammlerstück)",
       "en": "Rarefied Espresso con Panna",
       "fr": "Espresso con panna collectionnable",
-      "ja": "収集用のエスプレッソ・コン・パンナ"
+      "ja": "収集用のエスプレッソ・コン・パンナ",
+      "tw": "收藏用濃縮康寶藍"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -13958,7 +14592,8 @@
       "de": "Werkstattzubehör",
       "en": "Workshop Supplies",
       "fr": "Composants d'atelier mécanique",
-      "ja": "作業場の必需品"
+      "ja": "作業場の必需品",
+      "tw": "工作區的必需品"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -13980,7 +14615,8 @@
       "de": "Brauereikomponenten",
       "en": "Brewery Supplies",
       "fr": "Composants de brasserie",
-      "ja": "醸造設備の必需品"
+      "ja": "醸造設備の必需品",
+      "tw": "釀造設備的必需品"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14002,7 +14638,8 @@
       "de": "Geschützkomponenten",
       "en": "Crystal Cannon Supplies",
       "fr": "Composants de canon",
-      "ja": "主砲の重要部材"
+      "ja": "主砲の重要部材",
+      "tw": "主炮的重要元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14024,7 +14661,8 @@
       "de": "Komponenten für eine Werkstattserweiterung",
       "en": "Workshop Expansion Supplies",
       "fr": "Composants d'atelier annexe",
-      "ja": "ガレージ拡張用の部材"
+      "ja": "ガレージ拡張用の部材",
+      "tw": "用於擴張據點的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14046,7 +14684,8 @@
       "de": "Fließbandkomponenten",
       "en": "Automaton Worker Supplies",
       "fr": "Composants de chaîne de montage",
-      "ja": "オートメーション必要部材"
+      "ja": "オートメーション必要部材",
+      "tw": "自動化需要的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14068,7 +14707,8 @@
       "de": "Reparaturwerkzeug",
       "en": "Armament Repair Kit",
       "fr": "Composant de réparation",
-      "ja": "武具補修材"
+      "ja": "武具補修材",
+      "tw": "武器修理的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14090,7 +14730,8 @@
       "de": "Pflegeprodukt für den Bart",
       "en": "Grooming Kit",
       "fr": "Ustensile d'entretien de barbe",
-      "ja": "ヒゲのお手入れ用具"
+      "ja": "ヒゲのお手入れ用具",
+      "tw": "保養鬍子的工具"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14112,7 +14753,8 @@
       "de": "Zubehörteil des Zwergenpanzers",
       "en": "Core Tank Component",
       "fr": "Pièce complexe d'automatank",
-      "ja": "車体重要部材"
+      "ja": "車体重要部材",
+      "tw": "車身重要的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14134,7 +14776,8 @@
       "de": "Experimentelles Achsenzubehörteil",
       "en": "Axle Component",
       "fr": "Composant d'essieu expérimental",
-      "ja": "摩耗軽減部材"
+      "ja": "摩耗軽減部材",
+      "tw": "減輕磨損的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14156,7 +14799,8 @@
       "de": "Schreibutensil",
       "en": "Blueprint Supplies",
       "fr": "Ustensile de dessin",
-      "ja": "ドワーフ製図用具"
+      "ja": "ドワーフ製図用具",
+      "tw": "矮人族繪圖的工具"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14178,7 +14822,8 @@
       "de": "Hilfsmittel für die Stahlplattenproduktion",
       "en": "Steel Plate Component",
       "fr": "Composant de plaque de métal",
-      "ja": "鋼板増産部材"
+      "ja": "鋼板増産部材",
+      "tw": "鋼板增產的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14200,7 +14845,8 @@
       "de": "Fassbestandteil",
       "en": "Cask Component",
       "fr": "Composant de fût",
-      "ja": "酒樽部材"
+      "ja": "酒樽部材",
+      "tw": "酒桶的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14222,7 +14868,8 @@
       "de": "Hilfsmittel für die Motorwartung",
       "en": "Engine Component",
       "fr": "Composant d'amélioration de moteur",
-      "ja": "エンジン保全部材"
+      "ja": "エンジン保全部材",
+      "tw": "保護引擎的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14244,7 +14891,8 @@
       "de": "Utensil zum Experimentieren mit Zwergensprit",
       "en": "Filtration Supplies",
       "fr": "Ustensile d'expérience de raffinage",
-      "ja": "精製実験用品"
+      "ja": "精製実験用品",
+      "tw": "提煉實驗的用品"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14266,7 +14914,8 @@
       "de": "Kühlmittel",
       "en": "Cooling Device Component",
       "fr": "Article refroidissant",
-      "ja": "冷却機構部材"
+      "ja": "冷却機構部材",
+      "tw": "冷卻裝置的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14288,7 +14937,8 @@
       "de": "Barzubehörteil",
       "en": "Tavern Materials",
       "fr": "Article pour la taverne",
-      "ja": "酒場必需品"
+      "ja": "酒場必需品",
+      "tw": "酒館的必需品"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14310,7 +14960,8 @@
       "de": "Hitzebeständiger Bestandteil",
       "en": "Heat-resistant Component",
       "fr": "Article réfractaire",
-      "ja": "耐熱性部材"
+      "ja": "耐熱性部材",
+      "tw": "耐熱性的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14332,7 +14983,8 @@
       "de": "Handelsgut",
       "en": "Bespoke Barter Item",
       "fr": "Objet pour le marchand mord",
-      "ja": "代金代わりの商品"
+      "ja": "代金代わりの商品",
+      "tw": "充當貨款的商品"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14354,7 +15006,8 @@
       "de": "Zielscheibe",
       "en": "Test-fire Target Dummy",
       "fr": "Cible de test",
-      "ja": "試射用標的"
+      "ja": "試射用標的",
+      "tw": "試射用的靶子"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14376,7 +15029,8 @@
       "de": "Bestandteil der Panzerung des Zwergenpanzers",
       "en": "Experimental Plating Component",
       "fr": "Pièce de renforcement",
-      "ja": "試作装甲用部材"
+      "ja": "試作装甲用部材",
+      "tw": "試做裝甲的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14398,7 +15052,8 @@
       "de": "Ronitts Muntermacher",
       "en": "Unfailing Eye Opener",
       "fr": "Objet pour un réveil brutal",
-      "ja": "目覚めの秘密道具"
+      "ja": "目覚めの秘密道具",
+      "tw": "驅散睡意的秘密道具"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14420,7 +15075,8 @@
       "de": "Auffälliges Zubehörteil",
       "en": "Eye-catching Custom Option",
       "fr": "Option de personnalisation criarde",
-      "ja": "ド派手な外装オプション"
+      "ja": "ド派手な外装オプション",
+      "tw": "氣派華麗的外裝元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14442,7 +15098,8 @@
       "de": "Reparaturwerkstoff für Eisenbärte",
       "en": "Automaton Repair Component",
       "fr": "Composant de réparation d'automate",
-      "ja": "オートマトン修理部材"
+      "ja": "オートマトン修理部材",
+      "tw": "修理自走人偶的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14464,7 +15121,8 @@
       "de": "Unauffälliges Zubehörteil",
       "en": "Low-profile Custom Option",
       "fr": "Option de personnalisation discrète",
-      "ja": "低視認性外装オプション"
+      "ja": "低視認性外装オプション",
+      "tw": "隱秘型外裝的元件"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14486,7 +15144,8 @@
       "de": "Werkstätten-Öl",
       "en": "Oddly Specific Oil",
       "fr": "Huile d'affinage",
-      "ja": "改良用のオイル"
+      "ja": "改良用のオイル",
+      "tw": "改良用油脂"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14508,7 +15167,8 @@
       "de": "Werkstätten-Klebstoff",
       "en": "Oddly Specific Paste",
       "fr": "Pâte d'affinage",
-      "ja": "改良用のペースト"
+      "ja": "改良用のペースト",
+      "tw": "改良用黏著劑"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14530,7 +15190,8 @@
       "de": "Federfall-Hanfmilch",
       "en": "Grade 3 Skybuilders' Hemp Milk",
       "fr": "Lait de chanvre de restauration (3e phase)",
-      "ja": "第三次復興用のヘンプミルク"
+      "ja": "第三次復興用のヘンプミルク",
+      "tw": "第三期重建用的麻乳"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -14552,7 +15213,8 @@
       "de": "Federfall-Sesamkeks",
       "en": "Grade 3 Skybuilders' Sesame Cookie",
       "fr": "Biscuit au sésame de restauration (3e phase)",
-      "ja": "第三次復興用のセサミクッキー"
+      "ja": "第三次復興用のセサミクッキー",
+      "tw": "第三期重建用的芝麻餅乾"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -14574,7 +15236,8 @@
       "de": "Federfall-Schwarztee",
       "en": "Grade 3 Skybuilders' Tea",
       "fr": "Thé de restauration (3e phase)",
-      "ja": "第三次復興用の紅茶"
+      "ja": "第三次復興用の紅茶",
+      "tw": "第三期重建用的紅茶"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -14596,7 +15259,8 @@
       "de": "Federfall-Kräuterbad",
       "en": "Grade 3 Skybuilders' All-purpose Infusion",
       "fr": "Tisane de restauration (3e phase)",
-      "ja": "第三次復興用の薬湯"
+      "ja": "第三次復興用の薬湯",
+      "tw": "第三期重建用的藥湯"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14618,7 +15282,8 @@
       "de": "Federfall-Eintopf",
       "en": "Grade 3 Skybuilders' Stew",
       "fr": "Marmite de ragoût de restauration (3e phase)",
-      "ja": "第三次復興用のシチュー"
+      "ja": "第三次復興用のシチュー",
+      "tw": "第三期重建用的燉菜"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -14640,7 +15305,8 @@
       "de": "Sonderbestellter Federfall-Speiseteller",
       "en": "Grade 3 Artisanal Skybuilders' Luncheon",
       "fr": "Assiette-repas sur commande de restauration (3e phase)",
-      "ja": "第三次復興用の特注定食プレート"
+      "ja": "第三次復興用の特注定食プレート",
+      "tw": "第三期重建用的特供套餐"
     },
     "progressDivider": 140,
     "progressModifier": 100,
@@ -14662,7 +15328,8 @@
       "de": "Limonade (Sammlerstück)",
       "en": "Rarefied Lemonade",
       "fr": "Limonade collectionnable",
-      "ja": "収集用のレモネード"
+      "ja": "収集用のレモネード",
+      "tw": "收藏用檸檬水"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -14684,7 +15351,8 @@
       "de": "Himmelsang-Hanfmilch",
       "en": "Grade 4 Skybuilders' Hemp Milk",
       "fr": "Lait de chanvre de restauration (4e phase)",
-      "ja": "第四次復興用のヘンプミルク"
+      "ja": "第四次復興用のヘンプミルク",
+      "tw": "第四期重建用的麻乳"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -14706,7 +15374,8 @@
       "de": "Himmelsang-Sesamkeks",
       "en": "Grade 4 Skybuilders' Sesame Cookie",
       "fr": "Biscuit au sésame de restauration (4e phase)",
-      "ja": "第四次復興用のセサミクッキー"
+      "ja": "第四次復興用のセサミクッキー",
+      "tw": "第四期重建用的芝麻餅乾"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -14728,7 +15397,8 @@
       "de": "Himmelsang-Schwarztee",
       "en": "Grade 4 Skybuilders' Tea",
       "fr": "Thé de restauration (4e phase)",
-      "ja": "第四次復興用の紅茶"
+      "ja": "第四次復興用の紅茶",
+      "tw": "第四期重建用的紅茶"
     },
     "progressDivider": 70,
     "progressModifier": 100,
@@ -14750,7 +15420,8 @@
       "de": "Himmelsang-Kräuterbad",
       "en": "Grade 4 Skybuilders' All-purpose Infusion",
       "fr": "Tisane de restauration (4e phase)",
-      "ja": "第四次復興用の薬湯"
+      "ja": "第四次復興用の薬湯",
+      "tw": "第四期重建用的藥湯"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -14772,7 +15443,8 @@
       "de": "Himmelsang-Eintopf",
       "en": "Grade 4 Skybuilders' Stew",
       "fr": "Marmite de ragoût de restauration (4e phase)",
-      "ja": "第四次復興用のシチュー"
+      "ja": "第四次復興用のシチュー",
+      "tw": "第四期重建用的燉菜"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -14794,7 +15466,8 @@
       "de": "Sonderbestelltes Himmelsang-Sorbet",
       "en": "Grade 4 Artisanal Skybuilders' Sorbet",
       "fr": "Sorbet sur commande de restauration (4e phase)",
-      "ja": "第四次復興用の特注ソルベ"
+      "ja": "第四次復興用の特注ソルベ",
+      "tw": "第四期重建用的特供雪酪"
     },
     "progressDivider": 140,
     "progressModifier": 100,
@@ -14816,7 +15489,8 @@
       "de": "Pizza",
       "en": "Pizza",
       "fr": "Pizza",
-      "ja": "ピッツァ"
+      "ja": "ピッツァ",
+      "tw": "披薩"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14838,7 +15512,8 @@
       "de": "Dunstspinat-Quiche",
       "en": "Mist Spinach Quiche",
       "fr": "Quiche aux épinards brume",
-      "ja": "ミストスピナッチキッシュ"
+      "ja": "ミストスピナッチキッシュ",
+      "tw": "迷霧菠菜乳蛋餅"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14860,7 +15535,8 @@
       "de": "Bandnudeln an Hähnchen-Sahnesoße",
       "en": "Chicken Fettuccine",
       "fr": "Fettuccine au poulet",
-      "ja": "チキンフェットゥチーネ"
+      "ja": "チキンフェットゥチーネ",
+      "tw": "奶油雞肉寬麵"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14882,7 +15558,8 @@
       "de": "Geräucherte  Hähnchenkeule",
       "en": "Smoked Chicken",
       "fr": "Cuisse de poulet fumée",
-      "ja": "スモークチキン"
+      "ja": "スモークチキン",
+      "tw": "煙燻雞肉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14904,7 +15581,8 @@
       "de": "Goldananassaft",
       "en": "Golden Pineapple Juice",
       "fr": "Jus d'ananas doré",
-      "ja": "ゴールドパインジュース"
+      "ja": "ゴールドパインジュース",
+      "tw": "黃金鳳梨汁"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14926,7 +15604,8 @@
       "de": "Goldananassalat",
       "en": "Pineapple Salad",
       "fr": "Salade d'ananas",
-      "ja": "パインサラダ"
+      "ja": "パインサラダ",
+      "tw": "鳳梨沙拉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14948,7 +15627,8 @@
       "de": "Zefir",
       "en": "Zefir",
       "fr": "Zéfirs",
-      "ja": "ゼフィール"
+      "ja": "ゼフィール",
+      "tw": "軟果糕"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14970,7 +15650,8 @@
       "de": "Toffelsalat mit Apfel",
       "en": "Twilight Popoto Salad",
       "fr": "Salade de popotos aux pommes",
-      "ja": "アップルポポトサラダ"
+      "ja": "アップルポポトサラダ",
+      "tw": "蘋果新薯沙拉"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -14992,7 +15673,8 @@
       "de": "Bohnencurry",
       "en": "Broad Bean Curry",
       "fr": "Curry aux fèves",
-      "ja": "ビーンカレー"
+      "ja": "ビーンカレー",
+      "tw": "豆子咖哩"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -15014,7 +15696,8 @@
       "de": "Zitronenmuffin",
       "en": "Lemon Muffin",
       "fr": "Muffin au citron",
-      "ja": "レモンマフィン"
+      "ja": "レモンマフィン",
+      "tw": "檸檬鬆餅"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -15036,7 +15719,8 @@
       "de": "Haifischtran zur Himmelsstahl-Werkzeug-Vollendung",
       "en": "Oddly Delicate Shark Oil",
       "fr": "Huile de requin d'affinage final",
-      "ja": "最終改良用のシャークオイル"
+      "ja": "最終改良用のシャークオイル",
+      "tw": "最終改良用鯊油"
     },
     "progressDivider": 140,
     "progressModifier": 100,
@@ -15058,7 +15742,8 @@
       "de": "Tertiärbauteil für Gourmet-Prachtwerkzeuge",
       "en": "Resplendent Culinarian's Component A",
       "fr": "Composant pour outil resplendissant I (cuisinier)",
-      "ja": "リスプレンデントツールの一次加工部材:調理"
+      "ja": "リスプレンデントツールの一次加工部材:調理",
+      "tw": "輝煌工具的第一次加工元件：烹調"
     },
     "progressDivider": 140,
     "progressModifier": 100,
@@ -15080,7 +15765,8 @@
       "de": "Sekundärbauteil für Gourmet-Prachtwerkzeuge",
       "en": "Resplendent Culinarian's Component B",
       "fr": "Composant pour outil resplendissant II (cuisinier)",
-      "ja": "リスプレンデントツールの二次加工部材:調理"
+      "ja": "リスプレンデントツールの二次加工部材:調理",
+      "tw": "輝煌工具的第二次加工元件：烹調"
     },
     "progressDivider": 140,
     "progressModifier": 100,
@@ -15102,7 +15788,8 @@
       "de": "Primärbauteil für Gourmet-Prachtwerkzeuge",
       "en": "Resplendent Culinarian's Component C",
       "fr": "Composant pour outil resplendissant III (cuisinier)",
-      "ja": "リスプレンデントツールの三次加工部材:調理"
+      "ja": "リスプレンデントツールの三次加工部材:調理",
+      "tw": "輝煌工具的第三次加工元件：烹調"
     },
     "progressDivider": 140,
     "progressModifier": 100,
@@ -15124,7 +15811,8 @@
       "de": "Alltägliche Bedarfsgüter",
       "en": "Patient Necessities",
       "fr": "Articles du quotidien",
-      "ja": "記念病院の日用品"
+      "ja": "記念病院の日用品",
+      "tw": "紀念醫院的日用品"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -15146,7 +15834,8 @@
       "de": "Medizinische Versorgungsgüter",
       "en": "Medical Supplies",
       "fr": "Matériel médical",
-      "ja": "記念病院の医療品"
+      "ja": "記念病院の医療品",
+      "tw": "紀念醫院的醫療用品"
     },
     "progressDivider": 102,
     "progressModifier": 100,
@@ -15168,7 +15857,8 @@
       "de": "Rehabilitations-Hilfsmittel",
       "en": "Rehabilitation Aids",
       "fr": "Matériel de rééducation",
-      "ja": "記念病院の機能回復訓練用品"
+      "ja": "記念病院の機能回復訓練用品",
+      "tw": "紀念醫院的康復訓練用品"
     },
     "progressDivider": 103,
     "progressModifier": 100,
@@ -15190,7 +15880,8 @@
       "de": "Teestunden-Utensilien",
       "en": "High Tea Essentials",
       "fr": "Articles de goûter dînatoire",
-      "ja": "記念病院の茶会用品"
+      "ja": "記念病院の茶会用品",
+      "tw": "紀念醫院的茶會用品"
     },
     "progressDivider": 105,
     "progressModifier": 100,
@@ -15212,7 +15903,8 @@
       "de": "Künstlerbedarf",
       "en": "Art Supplies",
       "fr": "Matériel créatif",
-      "ja": "記念病院の絵画道具"
+      "ja": "記念病院の絵画道具",
+      "tw": "紀念醫院的繪畫道具"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -15234,7 +15926,8 @@
       "de": "Exegetenbrot (Sammlerstück)",
       "en": "Rarefied Archon Loaf",
       "fr": "Sagepain collectionnable",
-      "ja": "収集用の賢人パン"
+      "ja": "収集用の賢人パン",
+      "tw": "收藏用賢人麵包"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -15256,7 +15949,8 @@
       "de": "Königskrabbenkuchen (Sammlerstück)",
       "en": "Rarefied King Crab Cake",
       "fr": "Gâteau de crabe géant collectionnable",
-      "ja": "収集用のキングクラブケーキ"
+      "ja": "収集用のキングクラブケーキ",
+      "tw": "收藏用炸帝王蟹餅"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -15278,7 +15972,8 @@
       "de": "Glückskarottensaft (Sammlerstück)",
       "en": "Rarefied Happiness Juice",
       "fr": "Jus de bonheur collectionnable",
-      "ja": "収集用のハピネスジュース"
+      "ja": "収集用のハピネスジュース",
+      "tw": "收藏用開心汁"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -15300,7 +15995,8 @@
       "de": "Riesentaramosalat (Sammlerstück)",
       "en": "Rarefied Giant Haddock Dip",
       "fr": "Tarama géant collectionnable",
-      "ja": "収集用のジャイアントタラモサラータ"
+      "ja": "収集用のジャイアントタラモサラータ",
+      "tw": "收藏用巨人魚子泥沙拉"
     },
     "progressDivider": 127,
     "progressModifier": 100,
@@ -15322,7 +16018,8 @@
       "de": "Riesentoffelpuffer (Sammlerstück)",
       "en": "Rarefied Giant Popoto Pancakes",
       "fr": "Crique géante collectionnable",
-      "ja": "収集用のジャイアントポポトパンケーキ"
+      "ja": "収集用のジャイアントポポトパンケーキ",
+      "tw": "收藏用巨人新薯煎餅"
     },
     "progressDivider": 129,
     "progressModifier": 100,
@@ -15344,7 +16041,8 @@
       "de": "Süßstoff",
       "en": "Panaloaf Sweetener",
       "fr": "Édulcorant truculent",
-      "ja": "特製の甘味料"
+      "ja": "特製の甘味料",
+      "tw": "特製甜味素"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -15366,7 +16064,8 @@
       "de": "Hefe",
       "en": "Panaloaf Yeast",
       "fr": "Levure boulangère",
-      "ja": "特製の酵母"
+      "ja": "特製の酵母",
+      "tw": "特製酵母"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -15388,7 +16087,8 @@
       "de": "Ätherisches Öl",
       "en": "Panaloaf Oil",
       "fr": "Huile aromatisée",
-      "ja": "特製の油脂"
+      "ja": "特製の油脂",
+      "tw": "特製油脂"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -15410,7 +16110,8 @@
       "de": "Ascorbinsäure",
       "en": "Ascorbic Additive",
       "fr": "Additif vitaminé",
-      "ja": "特製の添加物"
+      "ja": "特製の添加物",
+      "tw": "特製新增劑"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -15432,7 +16133,8 @@
       "de": "Goldenes Gewürz",
       "en": "Golden Spice",
       "fr": "Mélange d'épices pour curry éorzéen",
-      "ja": "黄金のスパイス"
+      "ja": "黄金のスパイス",
+      "tw": "黃金香料"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -15454,7 +16156,8 @@
       "de": "Zutat für Fischkuchen",
       "en": "Sharlayan Fishcake Ingredient",
       "fr": "Kit pour boulettes de poisson",
-      "ja": "フィッシュボール必需品"
+      "ja": "フィッシュボール必需品",
+      "tw": "炸魚餅必需品"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -15476,7 +16179,8 @@
       "de": "Exegetenburger",
       "en": "Archon Burger",
       "fr": "Sageburger",
-      "ja": "賢人バーガー"
+      "ja": "賢人バーガー",
+      "tw": "賢人漢堡"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15498,7 +16202,8 @@
       "de": "Bœuf Stroganoff",
       "en": "Beef Stroganoff",
       "fr": "Bœuf Stroganov",
-      "ja": "ビーフストロガノフ"
+      "ja": "ビーフストロガノフ",
+      "tw": "奶汁牛肉"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15520,7 +16225,8 @@
       "de": "Kürbis-Ratatouille",
       "en": "Pumpkin Ratatouille",
       "fr": "Ratatouille à la citrouille",
-      "ja": "パンプキンラタトゥイユ"
+      "ja": "パンプキンラタトゥイユ",
+      "tw": "南瓜香燴時蔬"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15542,7 +16248,8 @@
       "de": "Kürbissuppe",
       "en": "Pumpkin Potage",
       "fr": "Potage à la citrouille",
-      "ja": "パンプキンポタージュ"
+      "ja": "パンプキンポタージュ",
+      "tw": "南瓜濃湯"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15564,7 +16271,8 @@
       "de": "Pfirsichsaft",
       "en": "Peach Juice",
       "fr": "Jus de pêche",
-      "ja": "ピーチジュース"
+      "ja": "ピーチジュース",
+      "tw": "白桃汁"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15586,7 +16294,8 @@
       "de": "Pfirsichtörtchen",
       "en": "Peach Tart",
       "fr": "Tarte à la pêche",
-      "ja": "ピーチタルト"
+      "ja": "ピーチタルト",
+      "tw": "白桃塔"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15608,7 +16317,8 @@
       "de": "Lykon-Keks",
       "en": "Sykon Cookie",
       "fr": "Biscuit au sycon",
-      "ja": "シューコンクッキー"
+      "ja": "シューコンクッキー",
+      "tw": "無花果餅乾"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15630,7 +16340,8 @@
       "de": "Tee nach thavnairischer Art",
       "en": "Thavnairian Chai",
       "fr": "Chai thavnairois",
-      "ja": "サベネアンチャイ"
+      "ja": "サベネアンチャイ",
+      "tw": "薩維奈奶茶"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15652,7 +16363,8 @@
       "de": "Muschelsalat",
       "en": "Scallop Salad",
       "fr": "Coquilles Saint-Jacques",
-      "ja": "スカロップサラダ"
+      "ja": "スカロップサラダ",
+      "tw": "扇貝沙拉"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15674,7 +16386,8 @@
       "de": "Meeresfrüchtecurry",
       "en": "Scallop Curry",
       "fr": "Curry aux coquilles Saint-Jacques",
-      "ja": "スカロップカレー"
+      "ja": "スカロップカレー",
+      "tw": "扇貝咖哩"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15696,7 +16409,8 @@
       "de": "Lykon à la Barvarois (Sammlerstück)",
       "en": "Rarefied Sykon Bavarois",
       "fr": "Bavarois aux sycon collectionnable",
-      "ja": "収集用のババロア・オ・シューコン"
+      "ja": "収集用のババロア・オ・シューコン",
+      "tw": "收藏用無花果凍糕"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -15718,7 +16432,8 @@
       "de": "Akademisches Schreibset",
       "en": "Aetheroconductive Quill",
       "fr": "Matériel d'écriture scolaire",
-      "ja": "留学生用の筆記具"
+      "ja": "留学生用の筆記具",
+      "tw": "留学生用の筆記具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -15740,7 +16455,8 @@
       "de": "Akademisches Magie-Rüstzeug",
       "en": "Aetheroconductive Focus",
       "fr": "Fournitures scolaires magiques",
-      "ja": "留学生用の魔器"
+      "ja": "留学生用の魔器",
+      "tw": "留学生用の魔器"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -15762,7 +16478,8 @@
       "de": "Ätherothermosdose",
       "en": "Luncheon Coffer",
       "fr": "Boîte à déjeuner magique",
-      "ja": "魔法のランチボックス"
+      "ja": "魔法のランチボックス",
+      "tw": "魔法のランチボックス"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -15784,7 +16501,8 @@
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
       "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
-      "ja": "特訓用の魔法人形"
+      "ja": "特訓用の魔法人形",
+      "tw": "特訓用の魔法人形"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -15806,7 +16524,8 @@
       "de": "Akademische Ausstattung",
       "en": "School Supplies",
       "fr": "Affaires de soutien scolaire",
-      "ja": "学習支援用の支給品"
+      "ja": "学習支援用の支給品",
+      "tw": "学習支援用の支給品"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -15828,7 +16547,8 @@
       "de": "Calamari Ripieni",
       "en": "Calamari Ripieni",
       "fr": "Khalamar ripieni",
-      "ja": "カラマリ・リピエーニ"
+      "ja": "カラマリ・リピエーニ",
+      "tw": "鑲烤墨魚"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15850,7 +16570,8 @@
       "de": "Kalamarakia Tiganita",
       "en": "Kalamarakia Tiganita",
       "fr": "Khalamarkia tiganita",
-      "ja": "カラマラキア・ティガニタ"
+      "ja": "カラマラキア・ティガニタ",
+      "tw": "炸墨魚圈"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15872,7 +16593,8 @@
       "de": "Melonenpastete",
       "en": "Melon Pie",
       "fr": "Tarte au melon",
-      "ja": "メロンパイ"
+      "ja": "メロンパイ",
+      "tw": "メロンパイ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15894,7 +16616,8 @@
       "de": "Melonensaft",
       "en": "Melon Juice",
       "fr": "Jus de melon",
-      "ja": "メロンジュース"
+      "ja": "メロンジュース",
+      "tw": "メロンジュース"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15916,7 +16639,8 @@
       "de": "Dämmermöhrenraspel",
       "en": "Sunset Carrot Nibbles",
       "fr": "Carottes du couchant râpées",
-      "ja": "サンセットカロットラペ"
+      "ja": "サンセットカロットラペ",
+      "tw": "サンセットカロットラペ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15938,7 +16662,8 @@
       "de": "Karottenpudding",
       "en": "Carrot Pudding",
       "fr": "Flan aux carottes",
-      "ja": "カロットプディング"
+      "ja": "カロットプディング",
+      "tw": "カロットプディング"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15960,7 +16685,8 @@
       "de": "Gyros",
       "en": "Gyros",
       "fr": "Gyros",
-      "ja": "ギロピタ"
+      "ja": "ギロピタ",
+      "tw": "ギロピタ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -15982,7 +16708,8 @@
       "de": "Loaghtan-Rumpfsteak",
       "en": "Loaghtan Rump Steak",
       "fr": "Rumsteck de loagthan",
-      "ja": "ロフタンのランプステーキ"
+      "ja": "ロフタンのランプステーキ",
+      "tw": "ロフタンのランプステーキ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -16004,7 +16731,8 @@
       "de": "Piennolo-Tomatensalat",
       "en": "Piennolo Tomato Salad",
       "fr": "Salade de tomates piennolo",
-      "ja": "ピエンノロトマトサラダ"
+      "ja": "ピエンノロトマトサラダ",
+      "tw": "ピエンノロトマトサラダ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -16026,7 +16754,8 @@
       "de": "Garleische Pizza",
       "en": "Garlean Pizza",
       "fr": "Pizza garlemaldaise",
-      "ja": "ガレアンピッツァ"
+      "ja": "ガレアンピッツァ",
+      "tw": "ガレアンピッツァ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -16048,7 +16777,8 @@
       "de": "Königsigel-Pasta",
       "en": "Urchin Pasta",
       "fr": "Pâtes aux oursins royaux et à la crème",
-      "ja": "アーチンテリーヌパスタ"
+      "ja": "アーチンテリーヌパスタ",
+      "tw": "アーチンテリーヌパスタ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -16070,7 +16800,8 @@
       "de": "Königsigel-Pastete",
       "en": "King Urchin Loaf",
       "fr": "Terrine d'oursins royaux",
-      "ja": "キングアーチンテリーヌ"
+      "ja": "キングアーチンテリーヌ",
+      "tw": "キングアーチンテリーヌ"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -16092,7 +16823,8 @@
       "de": "Otterborn-Kunstharz",
       "en": "Water Otter Fountain Resin",
       "fr": "Résine synthétique pour la fontaine ressourçante",
-      "ja": "ウソウソの泉の建築用合成樹脂"
+      "ja": "ウソウソの泉の建築用合成樹脂",
+      "tw": "ウソウソの泉の建築用合成樹脂"
     },
     "progressDivider": 180,
     "progressModifier": 100,
@@ -16114,7 +16846,8 @@
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",
-      "ja": "アイルプリズム"
+      "ja": "アイルプリズム",
+      "tw": "アイルプリズム"
     },
     "progressDivider": 130,
     "progressModifier": 80,

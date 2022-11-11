@@ -142,6 +142,7 @@
 
         function getCustomizedRecipeName() {
             var d = {
+                "tw": "自定義配方",
                 "cn": "自定义配方",
                 "de": "Customized",
                 "en": "Customized",

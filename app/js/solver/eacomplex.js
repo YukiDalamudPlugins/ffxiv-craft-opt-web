@@ -32,7 +32,7 @@ ALGORITHMS['eaComplex'] = {
     function isFitnessInvalid(ind) {
       return !ind.fitness.valid();
     }
-    
+
     function indComp(a, b) {
       return b.fitness.compare(a.fitness);
     }
@@ -93,7 +93,7 @@ ALGORITHMS['eaComplex'] = {
       var survivors = toolbox.selectSurvivors(subPop.length - offspring.length, subPop);
       survivors = survivors.concat(offspring);
       nextPop = nextPop.concat(survivors);
-      
+
       // After saving the data, sort it by fitness
       survivors.sort(indComp);
 
@@ -115,13 +115,13 @@ ALGORITHMS['eaComplex'] = {
         highestFitness = survivors[0].fitness.weightedValues()[0]
         winningSub = i; // funny logging meme
       }
-      
+
 
     }
     //console.log('Winning subpop: %s at fitness: %s'.sprintf(winningSub+1, state.lastFitnesses[winningSub]));
     //console.log('Last fitnesses: %s'.sprintf(state.lastFitnesses));
     //console.log('Stagnation incr: %s'.sprintf(state.stagnationCounters));
-    
+
     // Set the leaderboard: leading subpops get to stay for longer before wiping due to stagnation
     // This leaderboard has the indices of subpops sorted by fitness in ascending order
     var fitnessCopy = state.lastFitnesses.slice();

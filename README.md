@@ -1,13 +1,8 @@
-# 《最终幻想14》生产模拟器 v6.21
-本项目是一个分支项目，主要针对《最终幻想14》国服和国际服的内容，对生产模拟器（FFXIV Crafting Optimizer）进行汉化、优化和修改。
+# FFXIV Crafting Optimizer Website v6.21
 
-国服、国际服通用项目（适配游戏客户端 国服 v6.15 / 国际服 v6.21）：[国内访问](https://yyyy.games/crafter/) / [国外访问](http://ffxiv.tk/crafter/)
+This project contains the source for the [FFXIV Crafting Optimizer Website](https://craft.ffxiv.sheiun.me). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
 
-# FFXIV Crafting Optimizer Website
-
-This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
-
-### Running the app during development
+## Running the app during development
 
 You can pick one of these options:
 
@@ -25,6 +20,6 @@ The node.js, browser-sync and Docker methods options will serve the website on p
 
 Note that if you're using Docker on Windows or OS X via VirtualBox, you'll have to use the IP address of the Linux VM (usually 192.168.99.100) that is hosting Docker, instead of `localhost`. The Dockerfile.dev method will mount the app source as a volume so changes will be reflected when the browser is refreshed.
 
-### Translations
+## Translations
 
 Localization files can be found in `app/locale`. The `app/locale/en.json` file is purposefully missing because the English strings are used as the translation keys. Strings which require interpolation are defined in app.js so that they can be displayed immediately as a fallback until the actual locale json file finishes loading.

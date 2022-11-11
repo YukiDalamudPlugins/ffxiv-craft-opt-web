@@ -8,6 +8,7 @@
       en: 'English',
       de: 'Deutsch',
       fr: 'Français',
+      tw: '正體中文',
       cn: '简体中文',
       ko: '한국어',
       ar: 'عربى',

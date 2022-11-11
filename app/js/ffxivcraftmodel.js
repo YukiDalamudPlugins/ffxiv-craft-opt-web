@@ -245,7 +245,7 @@ function probGoodForSynth(synth) {
 }
 
 function probExcellentForSynth(synth) {
-    return 0.04;
+    return 0.1;
 }
 
 function getEffectiveCrafterLevel(synth) {

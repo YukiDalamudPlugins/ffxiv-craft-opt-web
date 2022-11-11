@@ -458,7 +458,7 @@
         remainderCPFitnessValue: 10,
         remainderDurFitnessValue: 100,
         maxStagnationCounter: 20,
-        generations: 100
+        generations: 500
       };
 
       $scope.macroOptions = {

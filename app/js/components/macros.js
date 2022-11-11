@@ -139,7 +139,7 @@
 
         if (macroLineCount === MAX_LINES - 1) {
           if (lines.length - (j + 1) > 1) {
-            macroString += '/echo 宏 #' + macroIndex + ' 已完成！' + soundEffect(options.stepSoundEffect, options.stepSoundEnabled) + '\n';
+            macroString += '/echo Macro #' + macroIndex + ' 已完成！' + soundEffect(options.stepSoundEffect, options.stepSoundEnabled) + '\n';
             macroList.push({text: macroString, time: macroTime});
 
             macroString = '';
@@ -157,7 +157,7 @@
 
       if (macroLineCount > 0) {
         if (macroLineCount < MAX_LINES) {
-          macroString += '/echo 宏 #' + macroIndex + ' 已完成！' + soundEffect(options.finishSoundEffect, options.stepSoundEnabled) + '\n';
+          macroString += '/echo Macro #' + macroIndex + ' 已完成！' + soundEffect(options.finishSoundEffect, options.stepSoundEnabled) + '\n';
         }
         macroList.push({text: macroString, time: macroTime});
       }
