@@ -2,7 +2,7 @@
     "Locale_Mark": "_zh",
     "Official Version": "返回正式版",
     "Beta Version": "訪問測試版",
-    "FFXIV Crafting Optimizer": "FFXIV 製作優化器 v6.21",
+    "FFXIV Crafting Optimizer": "FFXIV 製作優化器 v6.31",
     "Basic Synthesis": "製作",
     "Basic Touch": "加工",
     "Master's Mend": "精修",
@@ -261,14 +261,11 @@
     "USING_SOLVER_STEP_3": "最佳結果會顯示在「優化結果」區域中。",
     "USING_SOLVER_STEP_4": "如果「優化結果」優於「初步猜測」，您可以單擊「在模擬器中編輯結果」來將您的原始工序替換掉。",
     "USING_SOLVER_STEP_5": "在運行日誌中可以查看「求解器」返回的模擬結果。",
-
     "MACRO_IMPORT": "匯入巨集指令",
     "MACRO_IMPORT_INFO": "<b>請把巨集指令粘貼到下面的框中</b>。您也可以把多個巨集指令按順序粘貼在這裡並一次性匯入，不包含「<samp>/ac</samp>」或者「<samp>/action</samp>」的指令行會被自動過濾。",
-
     "CHARACTER_IMPORT": "匯入角色信息",
     "NAME": "角色名稱",
     "CHARACTER_DATA": "本功能僅支持國際服，角色信息來源：",
-
     "NEW_SYNTH_NAME": "請輸入新的配置名稱：",
     "DELETE_SYNTH": "您確定要刪除以下配置嗎：",
     "CONFIRM_NOT_SAVE": "您尚未保存當前所做的更改，確定繼續嗎？",
@@ -282,6 +279,5 @@
     "ERROR_SYNTH_EMPTY": "錯誤：空的工序程式。",
     "ERROR_SYNTH_INVALID": "錯誤：無效的工序程式。",
     "SYNTH_SEQUENCE_CODE": "工序程式：",
-
     "UNNAMED": "未命名"
 }
