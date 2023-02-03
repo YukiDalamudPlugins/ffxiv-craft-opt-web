@@ -13691,7 +13691,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "仿制伊修加德方窗",
+      "cn": "仿制雪峰方窗",
       "de": "Coerthas-Fensterimitation",
       "en": "Imitation Highland Window",
       "fr": "Imitation de fenêtre coerthienne",
@@ -13760,7 +13760,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Wondrous Windoor",
+      "cn": "奇妙门窗",
       "de": "Wundertürfenster",
       "en": "Wondrous Windoor",
       "fr": "Porte à fenêtre en trompe-l'œil",
@@ -13783,7 +13783,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Korpokkur Chronometer",
+      "cn": "叶小妖挂钟",
       "de": "Korpokkur-Chronometer",
       "en": "Korpokkur Chronometer",
       "fr": "Horloge korpokkur",
@@ -13806,7 +13806,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Natural Wooden Beam",
+      "cn": "原生态木制横梁",
       "de": "Naturholzbalken",
       "en": "Natural Wooden Beam",
       "fr": "Poutre en bois naturel",
@@ -13829,7 +13829,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Bamboo Fence",
+      "cn": "竹制篱笆墙",
       "de": "Bambus-Paravent",
       "en": "Bamboo Fence",
       "fr": "Palissade en bambou",
@@ -13852,7 +13852,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Camping Furniture",
+      "cn": "野营套装",
       "de": "Campingausstattung",
       "en": "Camping Furniture",
       "fr": "Meubles de camping",
@@ -13864,6 +13864,75 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5489,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Faerie Door",
+      "de": "Feentürchen",
+      "en": "Faerie Door",
+      "fr": "Porte féérique",
+      "ja": "フェアリードア",
+      "tw": "フェアリードア"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5504,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Rattan Sofa",
+      "de": "Tropisches Sofa",
+      "en": "Rattan Sofa",
+      "fr": "Canapé tropical",
+      "ja": "トロピカルソファ",
+      "tw": "トロピカルソファ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5507,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Faerie Round Table",
+      "de": "Feen-Rundtisch",
+      "en": "Faerie Round Table",
+      "fr": "Table ronde féérique",
+      "ja": "フェアリーラウンドテーブル",
+      "tw": "フェアリーラウンドテーブル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5513,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -25572,8 +25641,8 @@
     "qualityModifier": 70,
     "recipeId": 34803,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25595,8 +25664,8 @@
     "qualityModifier": 70,
     "recipeId": 34804,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25618,8 +25687,8 @@
     "qualityModifier": 70,
     "recipeId": 34808,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25641,8 +25710,8 @@
     "qualityModifier": 70,
     "recipeId": 34809,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25664,8 +25733,8 @@
     "qualityModifier": 70,
     "recipeId": 34865,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25687,8 +25756,8 @@
     "qualityModifier": 70,
     "recipeId": 34866,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25710,8 +25779,8 @@
     "qualityModifier": 70,
     "recipeId": 34867,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25733,8 +25802,8 @@
     "qualityModifier": 70,
     "recipeId": 34868,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25756,8 +25825,8 @@
     "qualityModifier": 70,
     "recipeId": 34869,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25779,8 +25848,8 @@
     "qualityModifier": 70,
     "recipeId": 34893,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25940,8 +26009,8 @@
     "qualityModifier": 70,
     "recipeId": 34971,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25963,8 +26032,8 @@
     "qualityModifier": 70,
     "recipeId": 34975,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25986,8 +26055,8 @@
     "qualityModifier": 70,
     "recipeId": 34977,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 70,
@@ -26065,7 +26134,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Spear",
+      "cn": "复兴长枪",
       "de": "Rinascita-Speer",
       "en": "Rinascita Spear",
       "fr": "Hast de la rinascita",
@@ -26078,8 +26147,8 @@
     "qualityModifier": 70,
     "recipeId": 35029,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26088,7 +26157,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Composite Bow",
+      "cn": "复兴复合弓",
       "de": "Rinascita-Kompositbogen",
       "en": "Rinascita Composite Bow",
       "fr": "Arc composite de la rinascita",
@@ -26101,8 +26170,8 @@
     "qualityModifier": 70,
     "recipeId": 35030,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26111,7 +26180,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Cane",
+      "cn": "复兴牧杖",
       "de": "Rinascita-Stock",
       "en": "Rinascita Cane",
       "fr": "Canne de la rinascita",
@@ -26124,8 +26193,8 @@
     "qualityModifier": 70,
     "recipeId": 35034,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26134,7 +26203,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Fending",
+      "cn": "复兴御敌手镯",
       "de": "Rinascita-Armreif der Verteidigung",
       "en": "Rinascita Bracelet of Fending",
       "fr": "Bracelet de protecteur de la rinascita",
@@ -26147,8 +26216,8 @@
     "qualityModifier": 70,
     "recipeId": 35091,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26157,7 +26226,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Slaying",
+      "cn": "复兴强攻手镯",
       "de": "Rinascita-Armreif des Schlachtens",
       "en": "Rinascita Bracelet of Slaying",
       "fr": "Bracelet d'attaquant de la rinascita",
@@ -26170,8 +26239,8 @@
     "qualityModifier": 70,
     "recipeId": 35092,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26180,7 +26249,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Aiming",
+      "cn": "复兴精准手镯",
       "de": "Rinascita-Armreif des Zielens",
       "en": "Rinascita Bracelet of Aiming",
       "fr": "Bracelet de pisteur de la rinascita",
@@ -26193,8 +26262,8 @@
     "qualityModifier": 70,
     "recipeId": 35093,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26203,7 +26272,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Healing",
+      "cn": "复兴治愈手镯",
       "de": "Rinascita-Armreif der Heilung",
       "en": "Rinascita Bracelet of Healing",
       "fr": "Bracelet de soigneur de la rinascita",
@@ -26216,8 +26285,8 @@
     "qualityModifier": 70,
     "recipeId": 35094,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26226,7 +26295,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Casting",
+      "cn": "复兴咏咒手镯",
       "de": "Rinascita-Armreif der Magie",
       "en": "Rinascita Bracelet of Casting",
       "fr": "Bracelet d'incantateur de la rinascita",
@@ -26239,8 +26308,8 @@
     "qualityModifier": 70,
     "recipeId": 35095,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26249,7 +26318,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Fending",
+      "cn": "复兴御敌戒指",
       "de": "Rinascita-Ring der Verteidigung",
       "en": "Rinascita Ring of Fending",
       "fr": "Bague de protecteur de la rinascita",
@@ -26262,8 +26331,8 @@
     "qualityModifier": 70,
     "recipeId": 35096,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26272,7 +26341,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Slaying",
+      "cn": "复兴强攻戒指",
       "de": "Rinascita-Ring des Schlachtens",
       "en": "Rinascita Ring of Slaying",
       "fr": "Bague d'attaquant de la rinascita",
@@ -26285,8 +26354,8 @@
     "qualityModifier": 70,
     "recipeId": 35097,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26295,7 +26364,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Aiming",
+      "cn": "复兴精准戒指",
       "de": "Rinascita-Ring des Zielens",
       "en": "Rinascita Ring of Aiming",
       "fr": "Bague de pisteur de la rinascita",
@@ -26308,8 +26377,8 @@
     "qualityModifier": 70,
     "recipeId": 35098,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26318,7 +26387,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Healing",
+      "cn": "复兴治愈戒指",
       "de": "Rinascita-Ring der Heilung",
       "en": "Rinascita Ring of Healing",
       "fr": "Bague de soigneur de la rinascita",
@@ -26331,8 +26400,8 @@
     "qualityModifier": 70,
     "recipeId": 35099,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26341,7 +26410,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Casting",
+      "cn": "复兴咏咒戒指",
       "de": "Rinascita-Ring der Magie",
       "en": "Rinascita Ring of Casting",
       "fr": "Bague d'incantateur de la rinascita",
@@ -26354,8 +26423,8 @@
     "qualityModifier": 70,
     "recipeId": 35100,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26364,7 +26433,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Paldao Lumber",
+      "cn": "仁面木木材",
       "de": "Paldao-Bauholz",
       "en": "Paldao Lumber",
       "fr": "Madrier de paldao",
@@ -26377,8 +26446,8 @@
     "qualityModifier": 70,
     "recipeId": 35102,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26387,7 +26456,7 @@
     "level": 611,
     "maxQuality": 13620,
     "name": {
-      "cn": "Water Otter Fountain Lumber",
+      "cn": "獭獭喷泉建造用部件",
       "de": "Otterborn-Bauholz",
       "en": "Water Otter Fountain Lumber",
       "fr": "Matériaux pour la fontaine ressourçante",
@@ -26400,8 +26469,8 @@
     "qualityModifier": 100,
     "recipeId": 35127,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 80,
@@ -26410,7 +26479,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Spear",
+      "cn": "梦羽妖灵王长枪",
       "de": "Feenkönig-Speer",
       "en": "The Fae's Crown Spear",
       "fr": "Hast du Monarque féérique",
@@ -26433,7 +26502,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Longbow",
+      "cn": "梦羽妖灵王长弓",
       "de": "Feenkönig-Langbogen",
       "en": "The Fae's Crown Longbow",
       "fr": "Arc long du Monarque féérique",
@@ -26456,7 +26525,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Cane",
+      "cn": "梦羽妖灵王牧杖",
       "de": "Feenkönig-Stock",
       "en": "The Fae's Crown Cane",
       "fr": "Canne du Monarque féérique",
@@ -26479,7 +26548,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Rod",
+      "cn": "梦羽妖灵王法杖",
       "de": "Feenkönig-Stab",
       "en": "The Fae's Crown Rod",
       "fr": "Sceptre du Monarque féérique",
@@ -26502,7 +26571,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Island Prism",
+      "cn": "海岛幻象棱晶",
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",
@@ -26515,7 +26584,398 @@
     "qualityModifier": 70,
     "recipeId": 35153,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Sheep Equipment",
+      "de": "Hirten-Werkzeug",
+      "en": "Sheep Equipment",
+      "fr": "Outils de berger",
+      "ja": "羊のお世話道具",
+      "tw": "羊のお世話道具"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35361,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Mountain Garb",
+      "de": "Kälteschutzmütze",
+      "en": "Mountain Garb",
+      "fr": "Chapka",
+      "ja": "山岳部の防寒用品",
+      "tw": "山岳部の防寒用品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35362,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Classic Voeburtite Cuisine",
+      "de": "Voeburtische Spezialität",
+      "en": "Classic Voeburtite Cuisine",
+      "fr": "Plat de Voeburt",
+      "ja": "フッブート風の郷土料理",
+      "tw": "フッブート風の郷土料理"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35363,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 84,
+    "difficulty": 2900,
+    "durability": 60,
+    "level": 530,
+    "maxQuality": 5280,
+    "name": {
+      "cn": "Traditional Voeburtite Handicraft",
+      "de": "Voeburtisches Kunsthandwerk",
+      "en": "Traditional Voeburtite Handicraft",
+      "fr": "Mouton fait-main",
+      "ja": "フッブート風の工芸品",
+      "tw": "フッブート風の工芸品"
+    },
+    "progressDivider": 124,
+    "progressModifier": 100,
+    "qualityDivider": 108,
+    "qualityModifier": 100,
+    "recipeId": 35364,
+    "stars": 0,
+    "suggestedControl": 2388,
+    "suggestedCraftsmanship": 2507
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Lovely Box of Pretty Things",
+      "de": "Dankesgeschenk",
+      "en": "Lovely Box of Pretty Things",
+      "fr": "Boîte de jolis cadeaux",
+      "ja": "かわいらしい返礼品",
+      "tw": "かわいらしい返礼品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35365,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Fishing Rod",
+      "de": "Ermittler-Angelrute",
+      "en": "Indagator's Fishing Rod",
+      "fr": "Canne à pêche d'indagator",
+      "ja": "インダガトル・フィッシングロッド",
+      "tw": "インダガトル・フィッシングロッド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35427,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Grinding Wheel",
+      "de": "Ermittler-Schleifrad",
+      "en": "Indagator's Grinding Wheel",
+      "fr": "Meule d'indagator",
+      "ja": "インダガトル・グラインディングホイール",
+      "tw": "インダガトル・グラインディングホイール"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35431,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Spinning Wheel",
+      "de": "Ermittler-Spinnrad",
+      "en": "Indagator's Spinning Wheel",
+      "fr": "Rouet d'indagator",
+      "ja": "インダガトル・スピニングホイール",
+      "tw": "インダガトル・スピニングホイール"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35433,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Earrings of Crafting",
+      "de": "Ermittler-Ohrringe des Handwerks",
+      "en": "Indagator's Earrings of Crafting",
+      "fr": "Boucles d'oreilles des créations d'indagator",
+      "ja": "インダガトル・クラフターイヤリング",
+      "tw": "インダガトル・クラフターイヤリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35448,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Necklace of Crafting",
+      "de": "Ermittler-Halsband des Handwerks",
+      "en": "Indagator's Necklace of Crafting",
+      "fr": "Collier des créations d'indagator",
+      "ja": "インダガトル・クラフターネックレス",
+      "tw": "インダガトル・クラフターネックレス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35449,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Bracelet of Crafting",
+      "de": "Ermittler-Armreif des Handwerks",
+      "en": "Indagator's Bracelet of Crafting",
+      "fr": "Bracelet des créations d'indagator",
+      "ja": "インダガトル・クラフターブレスレット",
+      "tw": "インダガトル・クラフターブレスレット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35450,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Ring of Crafting",
+      "de": "Ermittler-Ring des Handwerks",
+      "en": "Indagator's Ring of Crafting",
+      "fr": "Bague des créations d'indagator",
+      "ja": "インダガトル・クラフターリング",
+      "tw": "インダガトル・クラフターリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35451,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Partisan",
+      "de": "Lupercus-Partisane",
+      "en": "Rubellux Partisan",
+      "fr": "Pertuisane Rubeus",
+      "ja": "ルベルクス・パルチザン",
+      "tw": "ルベルクス・パルチザン"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35462,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Bow",
+      "de": "Lupercus-Bogen",
+      "en": "Rubellux Bow",
+      "fr": "Arc Rubeus",
+      "ja": "ルベルクス・ボウ",
+      "tw": "ルベルクス・ボウ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35463,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Cane",
+      "de": "Lupercus-Stock",
+      "en": "Rubellux Cane",
+      "fr": "Canne Rubeus",
+      "ja": "ルベルクス・ケーン",
+      "tw": "ルベルクス・ケーン"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35467,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Rod",
+      "de": "Lupercus-Stab",
+      "en": "Rubellux Rod",
+      "fr": "Sceptre Rubeus",
+      "ja": "ルベルクス・ロッド",
+      "tw": "ルベルクス・ロッド"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35468,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7920,
+    "durability": 60,
+    "level": 621,
+    "maxQuality": 17240,
+    "name": {
+      "cn": "Smaller Water Otter Fountain Lumber",
+      "de": "Material für einen Garten-Otterborn",
+      "en": "Smaller Water Otter Fountain Lumber",
+      "fr": "Matériaux pour fontaine ressourçante de jardin",
+      "ja": "家庭用ウソウソの泉の部材",
+      "tw": "家庭用ウソウソの泉の部材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35491,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   }
 ]

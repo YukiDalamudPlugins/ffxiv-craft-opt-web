@@ -12771,7 +12771,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Red Sweet Pea Necklace",
+      "cn": "红色香豌豆花项链",
       "de": "Rotes Duftwicken-Halsband",
       "en": "Red Sweet Pea Necklace",
       "fr": "Collier pois de senteur rouge",
@@ -12794,7 +12794,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Blue Sweet Pea Necklace",
+      "cn": "蓝色香豌豆花项链",
       "de": "Blaues Duftwicken-Halsband",
       "en": "Blue Sweet Pea Necklace",
       "fr": "Collier pois de senteur bleu",
@@ -12817,7 +12817,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Yellow Sweet Pea Necklace",
+      "cn": "黄色香豌豆花项链",
       "de": "Gelbes Duftwicken-Halsband",
       "en": "Yellow Sweet Pea Necklace",
       "fr": "Collier pois de senteur jaune",
@@ -12840,7 +12840,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Green Sweet Pea Necklace",
+      "cn": "绿色香豌豆花项链",
       "de": "Grünes Duftwicken-Halsband",
       "en": "Green Sweet Pea Necklace",
       "fr": "Collier pois de senteur vert",
@@ -12863,7 +12863,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Orange Sweet Pea Necklace",
+      "cn": "橙色香豌豆花项链",
       "de": "Oranges Duftwicken-Halsband",
       "en": "Orange Sweet Pea Necklace",
       "fr": "Collier pois de senteur orange",
@@ -12886,7 +12886,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Purple Sweet Pea Necklace",
+      "cn": "紫色香豌豆花项链",
       "de": "Violettes Duftwicken-Halsband",
       "en": "Purple Sweet Pea Necklace",
       "fr": "Collier pois de senteur violet",
@@ -12909,7 +12909,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "White Sweet Pea Necklace",
+      "cn": "白色香豌豆花项链",
       "de": "Weißes Duftwicken-Halsband",
       "en": "White Sweet Pea Necklace",
       "fr": "Collier pois de senteur blanc",
@@ -12932,7 +12932,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Black Sweet Pea Necklace",
+      "cn": "黑色香豌豆花项链",
       "de": "Schwarzes Duftwicken-Halsband",
       "en": "Black Sweet Pea Necklace",
       "fr": "Collier pois de senteur noir",
@@ -12955,7 +12955,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Rainbow Sweet Pea Necklace",
+      "cn": "混色香豌豆花项链",
       "de": "Mehrfarbiges Duftwicken-Halsband",
       "en": "Rainbow Sweet Pea Necklace",
       "fr": "Collier pois de senteur multicolore",
@@ -12978,7 +12978,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hanging Planter Branch",
+      "cn": "树枝盆栽挂架",
       "de": "Hängendes Blumentopfset",
       "en": "Hanging Planter Branch",
       "fr": "Branche à jardinières",
@@ -12990,6 +12990,282 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5477,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Red Morning Glory Corsage",
+      "de": "Rote Trichterwinden-Haarspange",
+      "en": "Red Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour rouges",
+      "ja": "モーニンググローリーオーナメント:レッド",
+      "tw": "モーニンググローリーオーナメント:レッド"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5491,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Blue Morning Glory Corsage",
+      "de": "Blaue Trichterwinden-Haarspange",
+      "en": "Blue Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour bleues",
+      "ja": "モーニンググローリーオーナメント:ブルー",
+      "tw": "モーニンググローリーオーナメント:ブルー"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5492,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Yellow Morning Glory Corsage",
+      "de": "Gelbe Trichterwinden-Haarspange",
+      "en": "Yellow Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour jaunes",
+      "ja": "モーニンググローリーオーナメント:イエロー",
+      "tw": "モーニンググローリーオーナメント:イエロー"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5493,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Green Morning Glory Corsage",
+      "de": "Grüne Trichterwinden-Haarspange",
+      "en": "Green Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour vertes",
+      "ja": "モーニンググローリーオーナメント:グリーン",
+      "tw": "モーニンググローリーオーナメント:グリーン"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5494,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Orange Morning Glory Corsage",
+      "de": "Orange Trichterwinden-Haarspange",
+      "en": "Orange Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour oranges",
+      "ja": "モーニンググローリーオーナメント:オレンジ",
+      "tw": "モーニンググローリーオーナメント:オレンジ"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5495,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Purple Morning Glory Corsage",
+      "de": "Violette Trichterwinden-Haarspange",
+      "en": "Purple Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour violettes",
+      "ja": "モーニンググローリーオーナメント:パープル",
+      "tw": "モーニンググローリーオーナメント:パープル"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5496,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "White Morning Glory Corsage",
+      "de": "Weiße Trichterwinden-Haarspange",
+      "en": "White Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour blanches",
+      "ja": "モーニンググローリーオーナメント:ホワイト",
+      "tw": "モーニンググローリーオーナメント:ホワイト"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5497,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Black Morning Glory Corsage",
+      "de": "Schwarze Trichterwinden-Haarspange",
+      "en": "Black Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour noires",
+      "ja": "モーニンググローリーオーナメント:ブラック",
+      "tw": "モーニンググローリーオーナメント:ブラック"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5498,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "cn": "Rainbow Morning Glory Corsage",
+      "de": "Mehrfarbige Trichterwinden-Haarspange",
+      "en": "Rainbow Morning Glory Corsage",
+      "fr": "Barrette belles-de-jour multicolores",
+      "ja": "モーニンググローリーオーナメント:ブレンド",
+      "tw": "モーニンググローリーオーナメント:ブレンド"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "recipeId": 5499,
+    "stars": 0,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Hyper-potion",
+      "de": "Hypertrank",
+      "en": "Hyper-potion",
+      "fr": "Hyper potion",
+      "ja": "ハイパーポーション",
+      "tw": "ハイパーポーション"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5500,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Flower Boucage",
+      "de": "Blumiger Vogelkäfig",
+      "en": "Flower Boucage",
+      "fr": "Cage ornée de fleurs",
+      "ja": "フラワーアレンジドケージ",
+      "tw": "フラワーアレンジドケージ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5505,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Timeworn Thaumaturgic Array",
+      "de": "Antikes Thaumaturgenset",
+      "en": "Timeworn Thaumaturgic Array",
+      "fr": "Matériel d'occultisme ancien",
+      "ja": "古めいた呪術道具",
+      "tw": "古めいた呪術道具"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5509,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -25641,8 +25917,8 @@
     "qualityModifier": 70,
     "recipeId": 34810,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25664,8 +25940,8 @@
     "qualityModifier": 70,
     "recipeId": 34811,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25687,8 +25963,8 @@
     "qualityModifier": 70,
     "recipeId": 34885,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25710,8 +25986,8 @@
     "qualityModifier": 70,
     "recipeId": 34886,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25733,8 +26009,8 @@
     "qualityModifier": 70,
     "recipeId": 34887,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25756,8 +26032,8 @@
     "qualityModifier": 70,
     "recipeId": 34888,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25779,8 +26055,8 @@
     "qualityModifier": 70,
     "recipeId": 34889,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25802,8 +26078,8 @@
     "qualityModifier": 70,
     "recipeId": 34896,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25825,8 +26101,8 @@
     "qualityModifier": 70,
     "recipeId": 34897,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25848,8 +26124,8 @@
     "qualityModifier": 70,
     "recipeId": 34898,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25871,8 +26147,8 @@
     "qualityModifier": 70,
     "recipeId": 34899,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -25894,8 +26170,8 @@
     "qualityModifier": 70,
     "recipeId": 34900,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -26193,8 +26469,8 @@
     "qualityModifier": 70,
     "recipeId": 35019,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -26203,7 +26479,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Index",
+      "cn": "复兴魔导书",
       "de": "Rinascita-Index",
       "en": "Rinascita Index",
       "fr": "Index de la rinascita",
@@ -26216,8 +26492,8 @@
     "qualityModifier": 70,
     "recipeId": 35036,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26226,7 +26502,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Codex",
+      "cn": "复兴魔导典",
       "de": "Rinascita-Kodex",
       "en": "Rinascita Codex",
       "fr": "Codex de la rinascita",
@@ -26239,8 +26515,8 @@
     "qualityModifier": 70,
     "recipeId": 35037,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26249,7 +26525,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Strength Alkahest",
+      "cn": "7级刚力之幻水",
       "de": "Visionslösung der Stärke VII",
       "en": "Grade 7 Strength Alkahest",
       "fr": "Eau chimérique de force VII",
@@ -26262,8 +26538,8 @@
     "qualityModifier": 70,
     "recipeId": 35107,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26272,7 +26548,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Dexterity Alkahest",
+      "cn": "7级巧力之幻水",
       "de": "Visionslösung der Geschicklichkeit VII",
       "en": "Grade 7 Dexterity Alkahest",
       "fr": "Eau chimérique de dextérité VII",
@@ -26285,8 +26561,8 @@
     "qualityModifier": 70,
     "recipeId": 35108,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26295,7 +26571,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Vitality Alkahest",
+      "cn": "7级耐力之幻水",
       "de": "Visionslösung der Konstitution VII",
       "en": "Grade 7 Vitality Alkahest",
       "fr": "Eau chimérique de vitalité VII",
@@ -26308,8 +26584,8 @@
     "qualityModifier": 70,
     "recipeId": 35109,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26318,7 +26594,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Intelligence Alkahest",
+      "cn": "7级智力之幻水",
       "de": "Visionslösung der Intelligenz VII",
       "en": "Grade 7 Intelligence Alkahest",
       "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VII",
@@ -26331,8 +26607,8 @@
     "qualityModifier": 70,
     "recipeId": 35110,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26341,7 +26617,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Mind Alkahest",
+      "cn": "7级意力之幻水",
       "de": "Visionslösung der Willenskraft VII",
       "en": "Grade 7 Mind Alkahest",
       "fr": "Eau chimérique d'esprit VII",
@@ -26354,8 +26630,8 @@
     "qualityModifier": 70,
     "recipeId": 35111,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26364,7 +26640,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Strength",
+      "cn": "7级刚力之幻药",
       "de": "Visionsremedium der Stärke VII",
       "en": "Grade 7 Tincture of Strength",
       "fr": "Philtre chimérique de force VII",
@@ -26377,8 +26653,8 @@
     "qualityModifier": 70,
     "recipeId": 35112,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26387,7 +26663,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Dexterity",
+      "cn": "7级巧力之幻药",
       "de": "Visionsremedium der Geschicklichkeit VII",
       "en": "Grade 7 Tincture of Dexterity",
       "fr": "Philtre chimérique de dextérité VII",
@@ -26400,8 +26676,8 @@
     "qualityModifier": 70,
     "recipeId": 35113,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26410,7 +26686,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Vitality",
+      "cn": "7级耐力之幻药",
       "de": "Visionsremedium der Konstitution VII",
       "en": "Grade 7 Tincture of Vitality",
       "fr": "Philtre chimérique de vitalité VII",
@@ -26423,8 +26699,8 @@
     "qualityModifier": 70,
     "recipeId": 35114,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26433,7 +26709,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Intelligence",
+      "cn": "7级智力之幻药",
       "de": "Visionsremedium der Intelligenz VII",
       "en": "Grade 7 Tincture of Intelligence",
       "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VII",
@@ -26446,8 +26722,8 @@
     "qualityModifier": 70,
     "recipeId": 35115,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26456,7 +26732,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Mind",
+      "cn": "7级意力之幻药",
       "de": "Visionsremedium der Willenskraft VII",
       "en": "Grade 7 Tincture of Mind",
       "fr": "Philtre chimérique d'esprit VII",
@@ -26469,8 +26745,8 @@
     "qualityModifier": 70,
     "recipeId": 35116,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -26479,7 +26755,7 @@
     "level": 611,
     "maxQuality": 13620,
     "name": {
-      "cn": "Water Otter Fountain Resin",
+      "cn": "獭獭喷泉建造用合成树脂",
       "de": "Otterborn-Kunstharz",
       "en": "Water Otter Fountain Resin",
       "fr": "Résine synthétique pour la fontaine ressourçante",
@@ -26492,8 +26768,8 @@
     "qualityModifier": 100,
     "recipeId": 35133,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 80,
@@ -26502,7 +26778,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Grimoire",
+      "cn": "梦羽妖灵王魔导书",
       "de": "Feenkönig-Grimoire",
       "en": "The Fae's Crown Grimoire",
       "fr": "Grimoire du Monarque féérique",
@@ -26525,7 +26801,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Codex",
+      "cn": "梦羽妖灵王魔导典",
       "de": "Feenkönig-Kodex",
       "en": "The Fae's Crown Codex",
       "fr": "Codex du Monarque féérique",
@@ -26548,7 +26824,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Island Prism",
+      "cn": "海岛幻象棱晶",
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",
@@ -26561,8 +26837,8 @@
     "qualityModifier": 70,
     "recipeId": 35159,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -26571,7 +26847,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Battle with the Four Fiends (Buried Memory) Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：高贝扎四天王之战　～禁忌的记忆～",
       "de": "Notenrolle von „Battle with the Four Fiends (Buried Memory)“",
       "en": "Battle with the Four Fiends (Buried Memory) Orchestrion Roll",
       "fr": "Rouleau “Battle with the Four Fiends (Buried Memory)”",
@@ -26584,7 +26860,237 @@
     "qualityModifier": 70,
     "recipeId": 35163,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Sheep Equipment",
+      "de": "Hirten-Werkzeug",
+      "en": "Sheep Equipment",
+      "fr": "Outils de berger",
+      "ja": "羊のお世話道具",
+      "tw": "羊のお世話道具"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35391,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Mountain Garb",
+      "de": "Kälteschutzmütze",
+      "en": "Mountain Garb",
+      "fr": "Chapka",
+      "ja": "山岳部の防寒用品",
+      "tw": "山岳部の防寒用品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35392,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Classic Voeburtite Cuisine",
+      "de": "Voeburtische Spezialität",
+      "en": "Classic Voeburtite Cuisine",
+      "fr": "Plat de Voeburt",
+      "ja": "フッブート風の郷土料理",
+      "tw": "フッブート風の郷土料理"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35393,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 84,
+    "difficulty": 2900,
+    "durability": 60,
+    "level": 530,
+    "maxQuality": 5280,
+    "name": {
+      "cn": "Traditional Voeburtite Handicraft",
+      "de": "Voeburtisches Kunsthandwerk",
+      "en": "Traditional Voeburtite Handicraft",
+      "fr": "Mouton fait-main",
+      "ja": "フッブート風の工芸品",
+      "tw": "フッブート風の工芸品"
+    },
+    "progressDivider": 124,
+    "progressModifier": 100,
+    "qualityDivider": 108,
+    "qualityModifier": 100,
+    "recipeId": 35394,
+    "stars": 0,
+    "suggestedControl": 2388,
+    "suggestedCraftsmanship": 2507
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Lovely Box of Pretty Things",
+      "de": "Dankesgeschenk",
+      "en": "Lovely Box of Pretty Things",
+      "fr": "Boîte de jolis cadeaux",
+      "ja": "かわいらしい返礼品",
+      "tw": "かわいらしい返礼品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35395,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3696,
+    "durability": 35,
+    "level": 620,
+    "maxQuality": 8600,
+    "name": {
+      "cn": "Craftsman's Alkahest",
+      "de": "Visionslösung des Handwerks",
+      "en": "Craftsman's Alkahest",
+      "fr": "Eau chimérique de savoir-faire",
+      "ja": "匠の幻水",
+      "tw": "匠の幻水"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35459,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Index",
+      "de": "Lupercus-Index",
+      "en": "Rubellux Index",
+      "fr": "Index Rubeus",
+      "ja": "ルベルクス・インデックス",
+      "tw": "ルベルクス・インデックス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35469,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Codex",
+      "de": "Lupercus-Kodex",
+      "en": "Rubellux Codex",
+      "fr": "Codex Rubeus",
+      "ja": "ルベルクス・コーデックス",
+      "tw": "ルベルクス・コーデックス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35470,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Forged in Crimson Orchestrion Roll",
+      "de": "Notenrolle von „Forged in Crimson“",
+      "en": "Forged in Crimson Orchestrion Roll",
+      "fr": "Rouleau “Forged in Crimson”",
+      "ja": "オーケストリオン譜:Forged in Crimson",
+      "tw": "オーケストリオン譜:Forged in Crimson"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35490,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7920,
+    "durability": 60,
+    "level": 621,
+    "maxQuality": 17240,
+    "name": {
+      "cn": "Smaller Water Otter Fountain Resin",
+      "de": "Garten-Otterborn-Kunstharz",
+      "en": "Smaller Water Otter Fountain Resin",
+      "fr": "Résine synthétique pour fontaine ressourçante de jardin",
+      "ja": "家庭用ウソウソの泉の合成樹脂",
+      "tw": "家庭用ウソウソの泉の合成樹脂"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35497,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   }
 ]
