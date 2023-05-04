@@ -9257,7 +9257,7 @@
       "en": "Titanbronze Moogle Frypan",
       "fr": "Poêle à frire mog en bronze titané",
       "ja": "チタンブロンズ・モーグリフライパン",
-      "tw": "鈦銅莫古力平底鍋"
+      "tw": "鈦銅莫古利平底鍋"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -15766,7 +15766,7 @@
       "en": "Moogle Tool Component",
       "fr": "Composant de marteau spécial Mog",
       "ja": "モーグリ用道具部材",
-      "tw": "莫古力用工具元件"
+      "tw": "莫古利用工具元件"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -24299,7 +24299,7 @@
       "en": "Aetheroconductive Quill",
       "fr": "Matériel d'écriture scolaire",
       "ja": "留学生用の筆記具",
-      "tw": "留学生用の筆記具"
+      "tw": "留學生用文具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -24322,7 +24322,7 @@
       "en": "Aetheroconductive Focus",
       "fr": "Fournitures scolaires magiques",
       "ja": "留学生用の魔器",
-      "tw": "留学生用の魔器"
+      "tw": "留學生用魔器"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -24345,7 +24345,7 @@
       "en": "Luncheon Coffer",
       "fr": "Boîte à déjeuner magique",
       "ja": "魔法のランチボックス",
-      "tw": "魔法のランチボックス"
+      "tw": "魔法餐盒"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -24368,7 +24368,7 @@
       "en": "Aetheroconductive Mammet",
       "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
       "ja": "特訓用の魔法人形",
-      "tw": "特訓用の魔法人形"
+      "tw": "特訓用魔法人偶"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -24391,7 +24391,7 @@
       "en": "School Supplies",
       "fr": "Affaires de soutien scolaire",
       "ja": "学習支援用の支給品",
-      "tw": "学習支援用の支給品"
+      "tw": "輔助學習用品"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -24506,7 +24506,7 @@
       "en": "Rinascita Kite Shield",
       "fr": "Écu mandorle de la rinascita",
       "ja": "リナシータ・カイトシールド",
-      "tw": "リナシータ・カイトシールド"
+      "tw": "復興鳶盾"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24529,7 +24529,7 @@
       "en": "Rinascita Helm of Fending",
       "fr": "Casque de protecteur de la rinascita",
       "ja": "リナシータ・ディフェンダーヘルム",
-      "tw": "リナシータ・ディフェンダーヘルム"
+      "tw": "復興禦敵頭盔"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24552,7 +24552,7 @@
       "en": "Rinascita Cuirass of Fending",
       "fr": "Cuirasse de protecteur de la rinascita",
       "ja": "リナシータ・ディフェンダーキュイラス",
-      "tw": "リナシータ・ディフェンダーキュイラス"
+      "tw": "復興禦敵胸甲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24575,7 +24575,7 @@
       "en": "Rinascita Vambraces of Fending",
       "fr": "Canons d'avant-bras de protecteur de la rinascita",
       "ja": "リナシータ・ディフェンダーヴァンブレイス",
-      "tw": "リナシータ・ディフェンダーヴァンブレイス"
+      "tw": "復興禦敵臂甲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24598,7 +24598,7 @@
       "en": "Rinascita Sabatons of Fending",
       "fr": "Sabatons de protecteur de la rinascita",
       "ja": "リナシータ・ディフェンダーサバトン",
-      "tw": "リナシータ・ディフェンダーサバトン"
+      "tw": "復興禦敵鎧靴"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24621,7 +24621,7 @@
       "en": "Rinascita Helm of Maiming",
       "fr": "Casque d'abatteur de la rinascita",
       "ja": "リナシータ・スレイヤーヘルム",
-      "tw": "リナシータ・スレイヤーヘルム"
+      "tw": "復興制敵頭盔"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24644,7 +24644,7 @@
       "en": "Rinascita Cuirass of Maiming",
       "fr": "Cuirasse d'abatteur de la rinascita",
       "ja": "リナシータ・スレイヤーキュイラス",
-      "tw": "リナシータ・スレイヤーキュイラス"
+      "tw": "復興制敵胸甲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24667,7 +24667,7 @@
       "en": "Rinascita Vambraces of Maiming",
       "fr": "Canons d'avant-bras d'abatteur de la rinascita",
       "ja": "リナシータ・スレイヤーヴァンブレイス",
-      "tw": "リナシータ・スレイヤーヴァンブレイス"
+      "tw": "復興制敵臂甲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24690,7 +24690,7 @@
       "en": "Rinascita Sabatons of Maiming",
       "fr": "Sabatons d'abatteur de la rinascita",
       "ja": "リナシータ・スレイヤーサバトン",
-      "tw": "リナシータ・スレイヤーサバトン"
+      "tw": "復興制敵鎧靴"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24713,7 +24713,7 @@
       "en": "Rinascita Sabatons of Aiming",
       "fr": "Sabatons de pisteur de la rinascita",
       "ja": "リナシータ・レンジャーサバトン",
-      "tw": "リナシータ・レンジャーサバトン"
+      "tw": "復興精準鎧靴"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24736,7 +24736,7 @@
       "en": "Rinascita Sabatons of Scouting",
       "fr": "Sabatons d'éclaireur de la rinascita",
       "ja": "リナシータ・スカウトサバトン",
-      "tw": "リナシータ・スカウトサバトン"
+      "tw": "復興游擊鎧靴"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24759,7 +24759,7 @@
       "en": "Ilmenite Ingot",
       "fr": "Lingot d'ilménite",
       "ja": "イルメナイトインゴット",
-      "tw": "イルメナイトインゴット"
+      "tw": "鈦鐵錠"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24782,7 +24782,7 @@
       "en": "Water Otter Fountain Hardware",
       "fr": "Métaux pour la fontaine ressourçante",
       "ja": "ウソウソの泉の建築用金属材",
-      "tw": "ウソウソの泉の建築用金属材"
+      "tw": "獺獺噴泉建造用金屬材料"
     },
     "progressDivider": 180,
     "progressModifier": 100,
@@ -24805,7 +24805,7 @@
       "en": "The Fae's Crown Paladin Arms",
       "fr": "Attirail du Monarque féérique pour paladin",
       "ja": "フェアリーキング・ナイトギア",
-      "tw": "フェアリーキング・ナイトギア"
+      "tw": "夢羽妖靈王騎士武具"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -24828,7 +24828,7 @@
       "en": "Island Prism",
       "fr": "Prisme insulaire",
       "ja": "アイルプリズム",
-      "tw": "アイルプリズム"
+      "tw": "海島幻象稜晶"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -24838,6 +24838,558 @@
     "stars": 2,
     "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Musicking Station Component",
+      "de": "Bühnenbaustoff",
+      "en": "Musicking Station Component",
+      "fr": "Élément de scène",
+      "ja": "舞台の重要部材",
+      "tw": "舞台の重要部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35217,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Machining Supplies",
+      "de": "Maschinenelemente",
+      "en": "Machining Supplies",
+      "fr": "Élément de machine",
+      "ja": "マシン開発の必需品",
+      "tw": "マシン開発の必需品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35218,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Restaurant-grade Supplies",
+      "de": "Küchenkomponenten",
+      "en": "Restaurant-grade Supplies",
+      "fr": "Élément de cuisine",
+      "ja": "料理提供の必需品",
+      "tw": "料理提供の必需品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35219,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 6900,
+    "name": {
+      "cn": "Painting Supplies",
+      "de": "Künstlerutensilien",
+      "en": "Painting Supplies",
+      "fr": "Élément de fresque",
+      "ja": "画材必需品",
+      "tw": "画材必需品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35220,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 7360,
+    "name": {
+      "cn": "Radio Equipment",
+      "de": "Radiostation-Bestandteile",
+      "en": "Radio Equipment",
+      "fr": "Élément de radio",
+      "ja": "ステーションの必需機材",
+      "tw": "ステーションの必需機材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35221,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Audio Spare Parts",
+      "de": "Ersatzteil für Audiogeräte",
+      "en": "Audio Spare Parts",
+      "fr": "Pièces de rechange de sonorisation",
+      "ja": "音響整備用品",
+      "tw": "音響整備用品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35222,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Wind Instrument Component",
+      "de": "Blasinstrumentbestandteil",
+      "en": "Wind Instrument Component",
+      "fr": "Composant d'instrument à vent",
+      "ja": "管楽器部材",
+      "tw": "管楽器部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35223,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Coin Manufacturing Component",
+      "de": "Münzherstellungselement",
+      "en": "Coin Manufacturing Component",
+      "fr": "Ustensile de création de monnaie",
+      "ja": "コイン製造用品",
+      "tw": "コイン製造用品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35224,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Signed Memorabilia",
+      "de": "Signiertes Erinnerungsstück",
+      "en": "Signed Memorabilia",
+      "fr": "Souvenir gravé",
+      "ja": "銘入り記念品",
+      "tw": "銘入り記念品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35225,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Lighting Parts",
+      "de": "Element zur Wartung der Beleuchtungsanlage",
+      "en": "Lighting Parts",
+      "fr": "Composant de décoration lumineuse",
+      "ja": "電飾交換部材",
+      "tw": "電飾交換部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35226,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Carrotlight Pieces",
+      "de": "Leuchtstabbestandteil",
+      "en": "Carrotlight Pieces",
+      "fr": "Composant de bâton lumineux",
+      "ja": "携帯ライト部材",
+      "tw": "携帯ライト部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35227,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Cleaner Upgrade Component",
+      "de": "Bestandteil für verbesserten Reiniger",
+      "en": "Cleaner Upgrade Component",
+      "fr": "Composant d'unité de nettoyage",
+      "ja": "クリーナー改良部材",
+      "tw": "クリーナー改良部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35228,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 6440,
+    "name": {
+      "cn": "Audio Recording Component",
+      "de": "Element des Aufnahme-Supports",
+      "en": "Audio Recording Component",
+      "fr": "Composant d'unité d'enregistrement sonore",
+      "ja": "録音サポーターの開発部材",
+      "tw": "録音サポーターの開発部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35229,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Parasital Infection Protection Suit Component",
+      "de": "Schutzanzugdichtungselement",
+      "en": "Parasital Infection Protection Suit Component",
+      "fr": "Élément étanche de combinaison de protection",
+      "ja": "気密維持用の防護スーツ部材",
+      "tw": "気密維持用の防護スーツ部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35230,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 6440,
+    "name": {
+      "cn": "Occult Paraphernalia",
+      "de": "Abenteuerspielzeugelement",
+      "en": "Occult Paraphernalia",
+      "fr": "Ustensile étrange et excitant",
+      "ja": "スリリング用具",
+      "tw": "スリリング用具"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35231,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Cookbook Printing Paraphernalia",
+      "de": "Rezeptdruckutensil",
+      "en": "Cookbook Printing Paraphernalia",
+      "fr": "Ustensile d'imprimerie",
+      "ja": "レシピ集印刷用具",
+      "tw": "レシピ集印刷用具"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35232,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 6440,
+    "name": {
+      "cn": "Carrot Chiller Component",
+      "de": "Karottenfrosterelement",
+      "en": "Carrot Chiller Component",
+      "fr": "Composant de congélateur",
+      "ja": "フリーザー修理部材",
+      "tw": "フリーザー修理部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35233,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Loporrit's Gathering Tool Component",
+      "de": "Pilzmesserzubehör",
+      "en": "Loporrit's Gathering Tool Component",
+      "fr": "Composant d'outil de récolte",
+      "ja": "採集道具修理部材",
+      "tw": "採集道具修理部材"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35234,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Popular Kitchen Goods",
+      "de": "Kochutensil",
+      "en": "Popular Kitchen Goods",
+      "fr": "Ustensile de cuisine",
+      "ja": "不足調理用品",
+      "tw": "不足調理用品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35235,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 6440,
+    "name": {
+      "cn": "“Exercise Equipment”",
+      "de": "Sportutensil",
+      "en": "“Exercise Equipment”",
+      "fr": "Équipement de musculation",
+      "ja": "フィットネス用具",
+      "tw": "フィットネス用具"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35236,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Paint-mixer's Toolbox",
+      "de": "Farbutensil",
+      "en": "Paint-mixer's Toolbox",
+      "fr": "Article de peinture",
+      "ja": "塗料調合用具",
+      "tw": "塗料調合用具"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35237,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 6440,
+    "name": {
+      "cn": "Super Sudsy Soap Bars",
+      "de": "Extrastarker Farbreiniger",
+      "en": "Super Sudsy Soap Bars",
+      "fr": "Article de produit détachant",
+      "ja": "超強力洗剤",
+      "tw": "超強力洗剤"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35238,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1335,
+    "durability": 35,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "cn": "Fungi Fighter",
+      "de": "Explosives Fungizid",
+      "en": "Fungi Fighter",
+      "fr": "Composant d'explosif",
+      "ja": "対菌類兵器",
+      "tw": "対菌類兵器"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35239,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 70,
+    "level": 430,
+    "maxQuality": 6440,
+    "name": {
+      "cn": "Fashionable Thingums",
+      "de": "Modeaccessoire",
+      "en": "Fashionable Thingums",
+      "fr": "Accessoire de mode",
+      "ja": "ファッション装飾品",
+      "tw": "ファッション装飾品"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 35240,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
     "baseLevel": 81,
@@ -24953,6 +25505,52 @@
     "stars": 0,
     "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3700,
+    "durability": 60,
+    "level": 570,
+    "maxQuality": 9028,
+    "name": {
+      "cn": "Connoisseur's Ornate Door",
+      "de": "Sammler-Ornamenttür",
+      "en": "Connoisseur's Ornate Door",
+      "fr": "Porte ornée de dilettante",
+      "ja": "好事家向けのオーネイトドア",
+      "tw": "好事家向けのオーネイトドア"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 35403,
+    "stars": 1,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 60,
+    "level": 580,
+    "maxQuality": 11154,
+    "name": {
+      "cn": "Connoisseur's Bench",
+      "de": "Sammler-Bank",
+      "en": "Connoisseur's Bench",
+      "fr": "Banc de dilettante",
+      "ja": "好事家向けのベンチ",
+      "tw": "好事家向けのベンチ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35411,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,

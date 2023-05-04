@@ -1,4 +1,4 @@
-# FFXIV Crafting Optimizer Website v6.31
+# FFXIV Crafting Optimizer Website v6.35
 
 This project contains the source for the [FFXIV Crafting Optimizer Website](https://craft.ffxiv.sheiun.me). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
 
