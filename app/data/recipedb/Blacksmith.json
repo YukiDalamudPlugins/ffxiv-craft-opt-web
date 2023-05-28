@@ -1180,7 +1180,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "黑铁横头锤",
-      "de": "Eisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ei<SoftHyphen/>sen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Iron Cross-pein Hammer",
       "fr": "Marteau à panne croisée en fer",
       "ja": "アイアン・クロスペインハンマー",
@@ -17601,12 +17601,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hannish Ceiling Lamp",
+      "cn": "多彩顶灯",
       "de": "Han-Deckenlampe",
       "en": "Hannish Ceiling Lamp",
       "fr": "Lustre hannois",
       "ja": "ラザハン・シーリングライト",
-      "tw": "ラザハン・シーリングライト"
+      "tw": "多彩頂燈"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -17624,12 +17624,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Enigma Wall Chronometer",
+      "cn": "青蓝之手挂钟",
       "de": "Indigo-Wand-Chronometer",
       "en": "Enigma Wall Chronometer",
       "fr": "Horloge murale de la Main indigo",
       "ja": "イルミナティ・ウォールクロノメーター",
-      "tw": "イルミナティ・ウォールクロノメーター"
+      "tw": "青藍之手掛鐘"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -17647,12 +17647,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Toy Cooking Set",
+      "cn": "烹饪玩具套装",
       "de": "Kinder-Spielkochset",
       "en": "Toy Cooking Set",
       "fr": "Faux ustentiles de cuisine",
       "ja": "クッキングトイセット",
-      "tw": "クッキングトイセット"
+      "tw": "烹飪玩具套裝"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -17670,7 +17670,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Jinrikisha",
+      "cn": "东方人力车",
       "de": "Orientalische Riksha",
       "en": "Jinrikisha",
       "fr": "Pousse-pousse",
@@ -17682,6 +17682,75 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5515,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Watcher's Palace Ceiling Lamp",
+      "de": "Wächter-Deckenlampe",
+      "en": "Watcher's Palace Ceiling Lamp",
+      "fr": "Lustre du palais du Veilleur",
+      "ja": "ウォッチャーズパレス・シーリングライト",
+      "tw": "ウォッチャーズパレス・シーリングライト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5520,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Classic Table Lamp",
+      "de": "Traditionelle Tischlampe",
+      "en": "Classic Table Lamp",
+      "fr": "Lampe de table classique",
+      "ja": "クラシックテーブルランプ",
+      "tw": "クラシックテーブルランプ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5524,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Classic Umbrella Stand",
+      "de": "Antiquitäten-Schirmständer",
+      "en": "Classic Umbrella Stand",
+      "fr": "Porte-parapluie classique",
+      "ja": "クラシックアンブレラスタンド",
+      "tw": "クラシックアンブレラスタンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5531,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -33085,7 +33154,7 @@
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
       "ja": "舞台の重要部材",
-      "tw": "舞台の重要部材"
+      "tw": "舞臺的重要部分"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33108,7 +33177,7 @@
       "en": "Machining Supplies",
       "fr": "Élément de machine",
       "ja": "マシン開発の必需品",
-      "tw": "マシン開発の必需品"
+      "tw": "機械開發必需品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33131,7 +33200,7 @@
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
       "ja": "料理提供の必需品",
-      "tw": "料理提供の必需品"
+      "tw": "烹飪供應必備品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33177,7 +33246,7 @@
       "en": "Radio Equipment",
       "fr": "Élément de radio",
       "ja": "ステーションの必需機材",
-      "tw": "ステーションの必需機材"
+      "tw": "無線電設備機材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33246,7 +33315,7 @@
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
       "ja": "コイン製造用品",
-      "tw": "コイン製造用品"
+      "tw": "硬幣製作用品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33269,7 +33338,7 @@
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
       "ja": "銘入り記念品",
-      "tw": "銘入り記念品"
+      "tw": "銘刻紀念品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33315,7 +33384,7 @@
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
       "ja": "携帯ライト部材",
-      "tw": "携帯ライト部材"
+      "tw": "移動照明元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33338,7 +33407,7 @@
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
       "ja": "クリーナー改良部材",
-      "tw": "クリーナー改良部材"
+      "tw": "清潔機改良元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33361,7 +33430,7 @@
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
       "ja": "録音サポーターの開発部材",
-      "tw": "録音サポーターの開発部材"
+      "tw": "錄音支架開發元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33384,7 +33453,7 @@
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
       "ja": "気密維持用の防護スーツ部材",
-      "tw": "気密維持用の防護スーツ部材"
+      "tw": "保持氣密性的防護服元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33407,7 +33476,7 @@
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
       "ja": "スリリング用具",
-      "tw": "スリリング用具"
+      "tw": "神秘用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33430,7 +33499,7 @@
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
       "ja": "レシピ集印刷用具",
-      "tw": "レシピ集印刷用具"
+      "tw": "食譜印刷用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33453,7 +33522,7 @@
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
       "ja": "フリーザー修理部材",
-      "tw": "フリーザー修理部材"
+      "tw": "冷凍庫維修元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33522,7 +33591,7 @@
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
       "ja": "フィットネス用具",
-      "tw": "フィットネス用具"
+      "tw": "健身器材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33614,7 +33683,7 @@
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
       "ja": "ファッション装飾品",
-      "tw": "ファッション装飾品"
+      "tw": "時尚裝飾品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -33632,12 +33701,12 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
       "ja": "羊のお世話道具",
-      "tw": "羊のお世話道具"
+      "tw": "牧羊工具"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -33655,12 +33724,12 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
       "ja": "山岳部の防寒用品",
-      "tw": "山岳部の防寒用品"
+      "tw": "山嶽防寒用品"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -33678,12 +33747,12 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
       "ja": "フッブート風の郷土料理",
-      "tw": "フッブート風の郷土料理"
+      "tw": "孚布特風土美食"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -33701,12 +33770,12 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
       "ja": "フッブート風の工芸品",
-      "tw": "フッブート風の工芸品"
+      "tw": "孚布特樣式工藝品"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -33724,12 +33793,12 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
       "ja": "かわいらしい返礼品",
-      "tw": "かわいらしい返礼品"
+      "tw": "可愛的禮物"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -33752,7 +33821,7 @@
       "en": "Connoisseur's Wall Lantern",
       "fr": "Lanterne murale de dilettante",
       "ja": "好事家向けのウォールランタン",
-      "tw": "好事家向けのウォールランタン"
+      "tw": "面向收藏家的壁燈"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -33775,7 +33844,7 @@
       "en": "Connoisseur's Coffee Brewer",
       "fr": "Cafetière à siphon de dilettante",
       "ja": "好事家向けのコーヒーサイフォン",
-      "tw": "好事家向けのコーヒーサイフォン"
+      "tw": "面向收藏家的虹吸咖啡機"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33793,12 +33862,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Saw",
+      "cn": "研究者圆手锯",
       "de": "Ermittler-Säge",
       "en": "Indagator's Saw",
       "fr": "Scie d'indagator",
       "ja": "インダガトル・ソー",
-      "tw": "インダガトル・ソー"
+      "tw": "研究者圓手鋸"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33816,12 +33885,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Cross-pein Hammer",
+      "cn": "研究者横头锤",
       "de": "Ermittler-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Indagator's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'indagator",
       "ja": "インダガトル・クロスペインハンマー",
-      "tw": "インダガトル・クロスペインハンマー"
+      "tw": "研究者橫頭錘"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33839,12 +33908,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Raising Hammer",
+      "cn": "研究者圆头锤",
       "de": "Ermittler-Schlichthammer",
       "en": "Indagator's Raising Hammer",
       "fr": "Marteau de batteur d'indagator",
       "ja": "インダガトル・レイジングハンマー",
-      "tw": "インダガトル・レイジングハンマー"
+      "tw": "研究者圓頭錘"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33862,12 +33931,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Lapidary Hammer",
+      "cn": "研究者工艺锤",
       "de": "Ermittler-Juwelierhammer",
       "en": "Indagator's Lapidary Hammer",
       "fr": "Marteau de lapidaire d'indagator",
       "ja": "インダガトル・ラピダリーハンマー",
-      "tw": "インダガトル・ラピダリーハンマー"
+      "tw": "研究者工藝錘"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33885,12 +33954,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Knife",
+      "cn": "研究者制革刀",
       "de": "Ermittler-Messer",
       "en": "Indagator's Knife",
       "fr": "Couteau d'indagator",
       "ja": "インダガトル・ナイフ",
-      "tw": "インダガトル・ナイフ"
+      "tw": "研究者製革刀"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33908,12 +33977,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Pickaxe",
+      "cn": "研究者鹤嘴锄",
       "de": "Ermittler-Spitzhacke",
       "en": "Indagator's Pickaxe",
       "fr": "Pioche d'indagator",
       "ja": "インダガトル・ピック",
-      "tw": "インダガトル・ピック"
+      "tw": "研究者鶴嘴鋤"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33931,12 +34000,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Hatchet",
+      "cn": "研究者手斧",
       "de": "Ermittler-Handbeil",
       "en": "Indagator's Hatchet",
       "fr": "Hachette d'indagator",
       "ja": "インダガトル・ハチェット",
-      "tw": "インダガトル・ハチェット"
+      "tw": "研究者手斧"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33954,12 +34023,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Claw Hammer",
+      "cn": "研究者羊角锤",
       "de": "Ermittler-Klauenhammer",
       "en": "Indagator's Claw Hammer",
       "fr": "Marteau arrache-clou d'indagator",
       "ja": "インダガトル・クローハンマー",
-      "tw": "インダガトル・クローハンマー"
+      "tw": "研究者羊角錘"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -33977,12 +34046,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's File",
+      "cn": "研究者锉刀",
       "de": "Ermittler-Feile",
       "en": "Indagator's File",
       "fr": "Lime d'indagator",
       "ja": "インダガトル・ファイル",
-      "tw": "インダガトル・ファイル"
+      "tw": "研究者銼刀"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34000,12 +34069,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Pliers",
+      "cn": "研究者手钳",
       "de": "Ermittler-Zange",
       "en": "Indagator's Pliers",
       "fr": "Tenailles d'indagator",
       "ja": "インダガトル・プライヤー",
-      "tw": "インダガトル・プライヤー"
+      "tw": "研究者手鉗"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34023,12 +34092,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Awl",
+      "cn": "研究者平斩",
       "de": "Ermittler-Ahle",
       "en": "Indagator's Awl",
       "fr": "Alêne d'indagator",
       "ja": "インダガトル・アウル",
-      "tw": "インダガトル・アウル"
+      "tw": "研究者平斬"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34046,12 +34115,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Mortar",
+      "cn": "研究者研钵",
       "de": "Ermittler-Mörser",
       "en": "Indagator's Mortar",
       "fr": "Mortier d'indagator",
       "ja": "インダガトル・モーター",
-      "tw": "インダガトル・モーター"
+      "tw": "研究者研缽"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34069,12 +34138,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Culinary Knife",
+      "cn": "研究者厨刀",
       "de": "Ermittler-Küchenmesser",
       "en": "Indagator's Culinary Knife",
       "fr": "Couteau de cuisine d'indagator",
       "ja": "インダガトル・クリナリーナイフ",
-      "tw": "インダガトル・クリナリーナイフ"
+      "tw": "研究者廚刀"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34092,12 +34161,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Sledgehammer",
+      "cn": "研究者碎石锤",
       "de": "Ermittler-Vorschlaghammer",
       "en": "Indagator's Sledgehammer",
       "fr": "Maillet d'indagator",
       "ja": "インダガトル・モール",
-      "tw": "インダガトル・モール"
+      "tw": "研究者碎石錘"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34115,12 +34184,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Garden Scythe",
+      "cn": "研究者园艺镰",
       "de": "Ermittler-Gartensense",
       "en": "Indagator's Garden Scythe",
       "fr": "Faux de jardinage d'indagator",
       "ja": "インダガトル・ガーデンサイズ",
-      "tw": "インダガトル・ガーデンサイズ"
+      "tw": "研究者園藝鐮"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34138,12 +34207,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Cesti",
+      "cn": "绯光钢拳",
       "de": "Lupercus-Caesti",
       "en": "Rubellux Cesti",
       "fr": "Cestes Rubeus",
       "ja": "ルベルクス・セスタス",
-      "tw": "ルベルクス・セスタス"
+      "tw": "緋光鋼拳"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34161,12 +34230,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Battleaxe",
+      "cn": "绯光战斧",
       "de": "Lupercus-Kriegsaxt",
       "en": "Rubellux Battleaxe",
       "fr": "Hache de combat Rubeus",
       "ja": "ルベルクス・バトルアクス",
-      "tw": "ルベルクス・バトルアクス"
+      "tw": "緋光戰斧"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34184,12 +34253,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Daggers",
+      "cn": "绯光小刀",
       "de": "Lupercus-Dolch",
       "en": "Rubellux Daggers",
       "fr": "Dagues Rubeus",
       "ja": "ルベルクス・ダガー",
-      "tw": "ルベルクス・ダガー"
+      "tw": "緋光小刀"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34207,12 +34276,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Greatsword",
+      "cn": "绯光巨剑",
       "de": "Lupercus-Großschwert",
       "en": "Rubellux Greatsword",
       "fr": "Grande épée Rubeus",
       "ja": "ルベルクス・グレートソード",
-      "tw": "ルベルクス・グレートソード"
+      "tw": "緋光巨劍"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34230,12 +34299,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Knifelock",
+      "cn": "绯光刀锁",
       "de": "Lupercus-Flinte",
       "en": "Rubellux Knifelock",
       "fr": "Éventreur Rubeus",
       "ja": "ルベルクス・ナイフロック",
-      "tw": "ルベルクス・ナイフロック"
+      "tw": "緋光刀鎖"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34253,12 +34322,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Samurai Blade",
+      "cn": "绯光武士刀",
       "de": "Lupercus-Samuraiklinge",
       "en": "Rubellux Samurai Blade",
       "fr": "Lame de samouraï Rubeus",
       "ja": "ルベルクス・サムライブレード",
-      "tw": "ルベルクス・サムライブレード"
+      "tw": "緋光武士刀"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34276,12 +34345,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Sawback",
+      "cn": "绯光锯刃",
       "de": "Lupercus-Manasäge",
       "en": "Rubellux Sawback",
       "fr": "Couteau de combat Rubeus",
       "ja": "ルベルクス・ソーバック",
-      "tw": "ルベルクス・ソーバック"
+      "tw": "緋光鋸刃"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34299,12 +34368,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Chakrams",
+      "cn": "绯光圆月轮",
       "de": "Lupercus-Chakrams",
       "en": "Rubellux Chakrams",
       "fr": "Chakrams Rubeus",
       "ja": "ルベルクス・チャクラム",
-      "tw": "ルベルクス・チャクラム"
+      "tw": "緋光圓月輪"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34322,12 +34391,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Paladin's Rubellux Arms",
+      "cn": "绯光骑士武具",
       "de": "Lupercus-Paladin-Rüstzeug (G.-St. 430)",
       "en": "Paladin's Rubellux Arms",
       "fr": "Attirail Rubeus pour paladin",
       "ja": "ルベルクス・ナイトギア",
-      "tw": "ルベルクス・ナイトギア"
+      "tw": "緋光騎士武具"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -34345,12 +34414,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Infernal Archfiend Cloak",
+      "cn": "火之天王的斗篷",
       "de": "Flammenmantel",
       "en": "Infernal Archfiend Cloak",
       "fr": "Cape des flammes",
       "ja": "火燕の四天王のマント",
-      "tw": "火燕の四天王のマント"
+      "tw": "火之天王的斗篷"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -34368,18 +34437,317 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Hardware",
+      "cn": "家用獭獭喷泉金属材料",
       "de": "Garten-Otterborn-Metallteile",
       "en": "Smaller Water Otter Fountain Hardware",
       "fr": "Métaux pour fontaine ressourçante de jardin",
       "ja": "家庭用ウソウソの泉の金属材",
-      "tw": "家庭用ウソウソの泉の金属材"
+      "tw": "家用獺獺噴泉金屬材料"
     },
     "progressDivider": 180,
     "progressModifier": 100,
     "qualityDivider": 180,
     "qualityModifier": 100,
     "recipeId": 35494,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "Diadochen-Schwert",
+      "en": "Diadochos Sword",
+      "fr": "Épée de diadoque",
+      "ja": "ディアドコス・ソード",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35499,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Knuckles",
+      "de": "Diadochen-Schlagringe",
+      "en": "Diadochos Knuckles",
+      "fr": "Poings de diadoque",
+      "ja": "ディアドコス・ナックル",
+      "tw": "ディアドコス・ナックル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35500,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos War Axe",
+      "de": "Diadochen-Kriegsaxt",
+      "en": "Diadochos War Axe",
+      "fr": "Hache de guerre de diadoque",
+      "ja": "ディアドコス・ウォーアクス",
+      "tw": "ディアドコス・ウォーアクス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35501,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Main Gauches",
+      "de": "Diadochen-Parierdolche",
+      "en": "Diadochos Main Gauches",
+      "fr": "Mains-gauches de diadoque",
+      "ja": "ディアドコス・マインゴーシュ",
+      "tw": "ディアドコス・マインゴーシュ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35504,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Greatsword",
+      "de": "Diadochen-Großschwert",
+      "en": "Diadochos Greatsword",
+      "fr": "Grande épée de diadoque",
+      "ja": "ディアドコス・グレートソード",
+      "tw": "ディアドコス・グレートソード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35505,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Revolver",
+      "de": "Diadochen-Revolver",
+      "en": "Diadochos Revolver",
+      "fr": "Revolver de diadoque",
+      "ja": "ディアドコス・リボルバー",
+      "tw": "ディアドコス・リボルバー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35506,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Blade",
+      "de": "Diadochen-Klinge",
+      "en": "Diadochos Blade",
+      "fr": "Lame de diadoque",
+      "ja": "ディアドコス・ブレード",
+      "tw": "ディアドコス・ブレード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35512,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Gunblade",
+      "de": "Diadochen-Revolver<SoftHyphen/>klinge",
+      "en": "Diadochos Gunblade",
+      "fr": "Pistolame de diadoque",
+      "ja": "ディアドコス・ガンブレード",
+      "tw": "ディアドコス・ガンブレード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35514,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Chakrams",
+      "de": "Diadochen-Chakrams",
+      "en": "Diadochos Chakrams",
+      "fr": "Chakrams de diadoque",
+      "ja": "ディアドコス・チャクラム",
+      "tw": "ディアドコス・チャクラム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35515,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Zaghnal",
+      "de": "Diadochen-Sichel",
+      "en": "Diadochos Zaghnal",
+      "fr": "Zaghnal de diadoque",
+      "ja": "ディアドコス・ザグナル",
+      "tw": "ディアドコス・ザグナル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35517,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Softsilver Ingot",
+      "de": "Weichsilber-Barren",
+      "en": "Softsilver Ingot",
+      "fr": "Lingot d'argent ductile",
+      "ja": "ソフトシルバーインゴット",
+      "tw": "ソフトシルバーインゴット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35575,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "cn": "Uncharted Course Hardware",
+      "de": "Gymnastikutter-Metallteile",
+      "en": "Uncharted Course Hardware",
+      "fr": "Métal pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用金属材",
+      "tw": "アスレチックシップの建築用金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35619,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Eventide Sword Stand",
+      "de": "Eventide-Schwertständer",
+      "en": "Eventide Sword Stand",
+      "fr": "Présentoir du crépuscule",
+      "ja": "イヴンタイド・ソードスタンド",
+      "tw": "イヴンタイド・ソードスタンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35625,
     "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700

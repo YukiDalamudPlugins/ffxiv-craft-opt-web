@@ -23489,12 +23489,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hannish Interior Wall",
+      "cn": "多彩内墙",
       "de": "Han-Innenwand",
       "en": "Hannish Interior Wall",
       "fr": "Revêtement mural hannois",
       "ja": "ラザハン・インナーウォール",
-      "tw": "ラザハン・インナーウォール"
+      "tw": "多彩內牆"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -23512,12 +23512,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hannish Tile Flooring",
+      "cn": "多彩地板",
       "de": "Han-Fußboden",
       "en": "Hannish Tile Flooring",
       "fr": "Parquet hannois",
       "ja": "ラザハン・フローリング",
-      "tw": "ラザハン・フローリング"
+      "tw": "多彩地板"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -23535,12 +23535,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Far Eastern Stained Crystal Roundel",
+      "cn": "东方彩绘玻璃窗",
       "de": "Fernöstliches Buntglasfenster",
       "en": "Far Eastern Stained Crystal Roundel",
       "fr": "Vitrail oriental",
       "ja": "オリエンタルステンドクリスタル",
-      "tw": "オリエンタルステンドクリスタル"
+      "tw": "東方彩繪玻璃窗"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -23558,12 +23558,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Simple Fountain",
+      "cn": "简易喷泉",
       "de": "Schlichter Brunnen",
       "en": "Simple Fountain",
       "fr": "Fontaine simple",
       "ja": "シンプルファウンテン",
-      "tw": "シンプルファウンテン"
+      "tw": "簡易噴泉"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -23586,13 +23586,105 @@
       "en": "Dorpokkur Kiln",
       "fr": "Four dorpokkur",
       "ja": "ドロポックル・ストーンキルン",
-      "tw": "ドロポックル・ストーンキルン"
+      "tw": "多羅波庫陶爐"
     },
     "progressDivider": 130,
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5517,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Watcher's Palace Interior Wall",
+      "de": "Wächter-Innenwand",
+      "en": "Watcher's Palace Interior Wall",
+      "fr": "Revêtement mural du palais du Veilleur",
+      "ja": "ウォッチャーズパレス・インナーウォール",
+      "tw": "ウォッチャーズパレス・インナーウォール"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5518,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Watcher's Palace Flooring",
+      "de": "Wächter-Boden",
+      "en": "Watcher's Palace Flooring",
+      "fr": "Parquet du palais du Veilleur",
+      "ja": "ウォッチャーズパレス・フローリング",
+      "tw": "ウォッチャーズパレス・フローリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5519,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Imitation Moonlit Window",
+      "de": "Mondlichtfenster-Imitation",
+      "en": "Imitation Moonlit Window",
+      "fr": "Imitation de fenêtre au clair de lune",
+      "ja": "イミテーション・ムーンライトウィンドウ",
+      "tw": "イミテーション・ムーンライトウィンドウ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5525,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Crystarium Pendant Wall Light",
+      "de": "Chrystarium-Wandkettenlampe",
+      "en": "Crystarium Pendant Wall Light",
+      "fr": "Lampe murale suspendue de Cristarium",
+      "ja": "クリスタリウム・ペンダントウォールライト",
+      "tw": "クリスタリウム・ペンダントウォールライト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5537,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -39686,7 +39778,7 @@
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
       "ja": "舞台の重要部材",
-      "tw": "舞台の重要部材"
+      "tw": "舞臺的重要部分"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39709,7 +39801,7 @@
       "en": "Machining Supplies",
       "fr": "Élément de machine",
       "ja": "マシン開発の必需品",
-      "tw": "マシン開発の必需品"
+      "tw": "機械開發必需品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39732,7 +39824,7 @@
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
       "ja": "料理提供の必需品",
-      "tw": "料理提供の必需品"
+      "tw": "烹飪供應必備品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39778,7 +39870,7 @@
       "en": "Radio Equipment",
       "fr": "Élément de radio",
       "ja": "ステーションの必需機材",
-      "tw": "ステーションの必需機材"
+      "tw": "無線電設備機材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39847,7 +39939,7 @@
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
       "ja": "コイン製造用品",
-      "tw": "コイン製造用品"
+      "tw": "硬幣製作用品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39870,7 +39962,7 @@
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
       "ja": "銘入り記念品",
-      "tw": "銘入り記念品"
+      "tw": "銘刻紀念品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39916,7 +40008,7 @@
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
       "ja": "携帯ライト部材",
-      "tw": "携帯ライト部材"
+      "tw": "移動照明元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39939,7 +40031,7 @@
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
       "ja": "クリーナー改良部材",
-      "tw": "クリーナー改良部材"
+      "tw": "清潔機改良元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39962,7 +40054,7 @@
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
       "ja": "録音サポーターの開発部材",
-      "tw": "録音サポーターの開発部材"
+      "tw": "錄音支架開發元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -39985,7 +40077,7 @@
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
       "ja": "気密維持用の防護スーツ部材",
-      "tw": "気密維持用の防護スーツ部材"
+      "tw": "保持氣密性的防護服元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -40008,7 +40100,7 @@
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
       "ja": "スリリング用具",
-      "tw": "スリリング用具"
+      "tw": "神秘用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -40031,7 +40123,7 @@
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
       "ja": "レシピ集印刷用具",
-      "tw": "レシピ集印刷用具"
+      "tw": "食譜印刷用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -40054,7 +40146,7 @@
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
       "ja": "フリーザー修理部材",
-      "tw": "フリーザー修理部材"
+      "tw": "冷凍庫維修元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -40123,7 +40215,7 @@
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
       "ja": "フィットネス用具",
-      "tw": "フィットネス用具"
+      "tw": "健身器材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -40215,7 +40307,7 @@
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
       "ja": "ファッション装飾品",
-      "tw": "ファッション装飾品"
+      "tw": "時尚裝飾品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -40233,12 +40325,12 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
       "ja": "羊のお世話道具",
-      "tw": "羊のお世話道具"
+      "tw": "牧羊工具"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -40256,12 +40348,12 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
       "ja": "山岳部の防寒用品",
-      "tw": "山岳部の防寒用品"
+      "tw": "山嶽防寒用品"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -40279,12 +40371,12 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
       "ja": "フッブート風の郷土料理",
-      "tw": "フッブート風の郷土料理"
+      "tw": "孚布特風土美食"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -40302,12 +40394,12 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
       "ja": "フッブート風の工芸品",
-      "tw": "フッブート風の工芸品"
+      "tw": "孚布特樣式工藝品"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -40325,12 +40417,12 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
       "ja": "かわいらしい返礼品",
-      "tw": "かわいらしい返礼品"
+      "tw": "可愛的禮物"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -40353,7 +40445,7 @@
       "en": "Connoisseur's Vanity Mirror",
       "fr": "Miroir cosmétique de dilettante",
       "ja": "好事家向けのメイクアップミラー",
-      "tw": "好事家向けのメイクアップミラー"
+      "tw": "面向收藏家的化妝鏡"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -40376,7 +40468,7 @@
       "en": "Connoisseur's Astroscope",
       "fr": "Astroscope de dilettante",
       "ja": "好事家向けのアストロスコープ",
-      "tw": "好事家向けのアストロスコープ"
+      "tw": "面向收藏家的天文儀"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -40394,12 +40486,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Needle",
+      "cn": "研究者缝针",
       "de": "Ermittler-Nadel",
       "en": "Indagator's Needle",
       "fr": "Aiguille d'indagator",
       "ja": "インダガトル・ニードル",
-      "tw": "インダガトル・ニードル"
+      "tw": "研究者縫針"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -40417,12 +40509,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Goggles of Crafting",
+      "cn": "研究者巧匠护目镜",
       "de": "Ermittler-Schutzbrille des Handwerks",
       "en": "Indagator's Goggles of Crafting",
       "fr": "Lunettes des créations d'indagator",
       "ja": "インダガトル・クラフターゴーグル",
-      "tw": "インダガトル・クラフターゴーグル"
+      "tw": "研究者巧匠護目鏡"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -40440,12 +40532,12 @@
     "level": 620,
     "maxQuality": 8600,
     "name": {
-      "cn": "Zoisite",
+      "cn": "黝帘石",
       "de": "Zoisit",
       "en": "Zoisite",
       "fr": "Zoïsite",
       "ja": "ゾイサイト",
-      "tw": "ゾイサイト"
+      "tw": "黝簾石"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -40463,12 +40555,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Astrometer",
+      "cn": "绯光天仪",
       "de": "Lupercus-Astrometer",
       "en": "Rubellux Astrometer",
       "fr": "Planisphère Rubeus",
       "ja": "ルベルクス・アストロメーター",
-      "tw": "ルベルクス・アストロメーター"
+      "tw": "緋光天儀"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -40486,12 +40578,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Hanger",
+      "cn": "绯光重刺剑",
       "de": "Lupercus-Degen",
       "en": "Rubellux Hanger",
       "fr": "Ballante Rubeus",
       "ja": "ルベルクス・ハンガー",
-      "tw": "ルベルクス・ハンガー"
+      "tw": "緋光重刺劍"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -40509,12 +40601,12 @@
     "level": 620,
     "maxQuality": 8600,
     "name": {
-      "cn": "Smaller Water Otter Fountain",
+      "cn": "家用獭獭喷泉",
       "de": "Garten-Otterborn",
       "en": "Smaller Water Otter Fountain",
       "fr": "Fontaine ressourçante de jardin",
       "ja": "家庭用ウソウソの泉",
-      "tw": "家庭用ウソウソの泉"
+      "tw": "家用獺獺噴泉"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -40532,12 +40624,12 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Hardware",
+      "cn": "家用獭獭喷泉金属材料",
       "de": "Garten-Otterborn-Metallteile",
       "en": "Smaller Water Otter Fountain Hardware",
       "fr": "Métaux pour fontaine ressourçante de jardin",
       "ja": "家庭用ウソウソの泉の金属材",
-      "tw": "家庭用ウソウソの泉の金属材"
+      "tw": "家用獺獺噴泉金屬材料"
     },
     "progressDivider": 180,
     "progressModifier": 100,
@@ -40545,6 +40637,397 @@
     "qualityModifier": 100,
     "recipeId": 35496,
     "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Cane",
+      "de": "Diadochen-Stock",
+      "en": "Diadochos Cane",
+      "fr": "Canne de diadoque",
+      "ja": "ディアドコス・ケーン",
+      "tw": "ディアドコス・ケーン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35507,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Rod",
+      "de": "Diadochen-Stab",
+      "en": "Diadochos Rod",
+      "fr": "Sceptre de diadoque",
+      "ja": "ディアドコス・ロッド",
+      "tw": "ディアドコス・ロッド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35508,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Planisphere",
+      "de": "Diadochen-Planisphäre",
+      "en": "Diadochos Planisphere",
+      "fr": "Planisphère de diadoque",
+      "ja": "ディアドコス・プラニスフィア",
+      "tw": "ディアドコス・プラニスフィア"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35511,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Smallsword",
+      "de": "Diadochen-Rapier",
+      "en": "Diadochos Smallsword",
+      "fr": "Petite épée de diadoque",
+      "ja": "ディアドコス・スモールソード",
+      "tw": "ディアドコス・スモールソード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35513,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Wings",
+      "de": "Diadochen-Schwingen",
+      "en": "Diadochos Wings",
+      "fr": "Ailes de diadoque",
+      "ja": "ディアドコス・ウィング",
+      "tw": "ディアドコス・ウィング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35516,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Choker of Fending",
+      "de": "Diadochen-Halskette der Verteidigung",
+      "en": "Diadochos Choker of Fending",
+      "fr": "Ras de cou de protecteur de diadoque",
+      "ja": "ディアドコス・ディフェンダーチョーカー",
+      "tw": "ディアドコス・ディフェンダーチョーカー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35559,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Choker of Slaying",
+      "de": "Diadochen-Halskette des Schlachtens",
+      "en": "Diadochos Choker of Slaying",
+      "fr": "Ras de cou d'attaquant de diadoque",
+      "ja": "ディアドコス・アタッカーチョーカー",
+      "tw": "ディアドコス・アタッカーチョーカー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35560,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Choker of Aiming",
+      "de": "Diadochen-Halskette des Zielens",
+      "en": "Diadochos Choker of Aiming",
+      "fr": "Ras de cou de pisteur de diadoque",
+      "ja": "ディアドコス・レンジャーチョーカー",
+      "tw": "ディアドコス・レンジャーチョーカー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35561,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Choker of Healing",
+      "de": "Diadochen-Halskette der Heilung",
+      "en": "Diadochos Choker of Healing",
+      "fr": "Ras de cou de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーチョーカー",
+      "tw": "ディアドコス・ヒーラーチョーカー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35562,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Choker of Casting",
+      "de": "Diadochen-Halskette der Magie",
+      "en": "Diadochos Choker of Casting",
+      "fr": "Ras de cou d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターチョーカー",
+      "tw": "ディアドコス・キャスターチョーカー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35563,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Wristband of Fending",
+      "de": "Diadochen-Armband der Verteidigung",
+      "en": "Diadochos Wristband of Fending",
+      "fr": "Poignet de protecteur de diadoque",
+      "ja": "ディアドコス・ディフェンダーリストバンド",
+      "tw": "ディアドコス・ディフェンダーリストバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35564,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Wristband of Slaying",
+      "de": "Diadochen-Armband des Schlachtens",
+      "en": "Diadochos Wristband of Slaying",
+      "fr": "Poignet d'attaquant de diadoque",
+      "ja": "ディアドコス・アタッカーリストバンド",
+      "tw": "ディアドコス・アタッカーリストバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35565,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Wristband of Aiming",
+      "de": "Diadochen-Armband des Zielens",
+      "en": "Diadochos Wristband of Aiming",
+      "fr": "Poignet de pisteur de diadoque",
+      "ja": "ディアドコス・レンジャーリストバンド",
+      "tw": "ディアドコス・レンジャーリストバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35566,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Wristband of Healing",
+      "de": "Diadochen-Armband der Heilung",
+      "en": "Diadochos Wristband of Healing",
+      "fr": "Poignet de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーリストバンド",
+      "tw": "ディアドコス・ヒーラーリストバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35567,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Wristband of Casting",
+      "de": "Diadochen-Armband der Magie",
+      "en": "Diadochos Wristband of Casting",
+      "fr": "Poignet d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターリストバンド",
+      "tw": "ディアドコス・キャスターリストバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35568,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Spodumene",
+      "de": "Spodumen",
+      "en": "Spodumene",
+      "fr": "Spodumène",
+      "ja": "スポジュメン",
+      "tw": "スポジュメン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35577,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "cn": "Uncharted Course Hardware",
+      "de": "Gymnastikutter-Metallteile",
+      "en": "Uncharted Course Hardware",
+      "fr": "Métal pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用金属材",
+      "tw": "アスレチックシップの建築用金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35621,
+    "stars": 4,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   }

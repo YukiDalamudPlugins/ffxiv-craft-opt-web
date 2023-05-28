@@ -7803,18 +7803,64 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Pudding Pudding",
+      "cn": "软糊怪布丁",
       "de": "Pudding-Pudding",
       "en": "Pudding Pudding",
       "fr": "Flan moelleux",
       "ja": "プリンプディング",
-      "tw": "プリンプディング"
+      "tw": "軟糊怪布丁"
     },
     "progressDivider": 130,
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5514,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Steamed Shumai",
+      "de": "Shumai-Körbchen",
+      "en": "Steamed Shumai",
+      "fr": "Raviolis fourrés à la vapeur",
+      "ja": "焼売蒸籠",
+      "tw": "焼売蒸籠"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5527,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Fried Gyoza",
+      "de": "Gyoza-Platte",
+      "en": "Fried Gyoza",
+      "fr": "Gyoza poêlés",
+      "ja": "焼餃子",
+      "tw": "焼餃子"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5528,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -16134,7 +16180,7 @@
       "en": "Ascorbic Additive",
       "fr": "Additif vitaminé",
       "ja": "特製の添加物",
-      "tw": "特製新增劑"
+      "tw": "特製添加劑"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -16893,7 +16939,7 @@
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
       "ja": "舞台の重要部材",
-      "tw": "舞台の重要部材"
+      "tw": "舞臺的重要部分"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -16916,7 +16962,7 @@
       "en": "Machining Supplies",
       "fr": "Élément de machine",
       "ja": "マシン開発の必需品",
-      "tw": "マシン開発の必需品"
+      "tw": "機械開發必需品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -16939,7 +16985,7 @@
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
       "ja": "料理提供の必需品",
-      "tw": "料理提供の必需品"
+      "tw": "烹飪供應必備品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -16985,7 +17031,7 @@
       "en": "Radio Equipment",
       "fr": "Élément de radio",
       "ja": "ステーションの必需機材",
-      "tw": "ステーションの必需機材"
+      "tw": "無線電設備機材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17054,7 +17100,7 @@
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
       "ja": "コイン製造用品",
-      "tw": "コイン製造用品"
+      "tw": "硬幣製作用品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17077,7 +17123,7 @@
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
       "ja": "銘入り記念品",
-      "tw": "銘入り記念品"
+      "tw": "銘刻紀念品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17123,7 +17169,7 @@
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
       "ja": "携帯ライト部材",
-      "tw": "携帯ライト部材"
+      "tw": "移動照明元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17146,7 +17192,7 @@
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
       "ja": "クリーナー改良部材",
-      "tw": "クリーナー改良部材"
+      "tw": "清潔機改良元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17169,7 +17215,7 @@
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
       "ja": "録音サポーターの開発部材",
-      "tw": "録音サポーターの開発部材"
+      "tw": "錄音支架開發元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17192,7 +17238,7 @@
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
       "ja": "気密維持用の防護スーツ部材",
-      "tw": "気密維持用の防護スーツ部材"
+      "tw": "保持氣密性的防護服元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17215,7 +17261,7 @@
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
       "ja": "スリリング用具",
-      "tw": "スリリング用具"
+      "tw": "神秘用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17238,7 +17284,7 @@
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
       "ja": "レシピ集印刷用具",
-      "tw": "レシピ集印刷用具"
+      "tw": "食譜印刷用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17261,7 +17307,7 @@
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
       "ja": "フリーザー修理部材",
-      "tw": "フリーザー修理部材"
+      "tw": "冷凍庫維修元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17330,7 +17376,7 @@
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
       "ja": "フィットネス用具",
-      "tw": "フィットネス用具"
+      "tw": "健身器材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17422,7 +17468,7 @@
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
       "ja": "ファッション装飾品",
-      "tw": "ファッション装飾品"
+      "tw": "時尚裝飾品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -17440,12 +17486,12 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
       "ja": "羊のお世話道具",
-      "tw": "羊のお世話道具"
+      "tw": "牧羊工具"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -17463,12 +17509,12 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
       "ja": "山岳部の防寒用品",
-      "tw": "山岳部の防寒用品"
+      "tw": "山嶽防寒用品"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -17486,12 +17532,12 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
       "ja": "フッブート風の郷土料理",
-      "tw": "フッブート風の郷土料理"
+      "tw": "孚布特風土美食"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -17509,12 +17555,12 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
       "ja": "フッブート風の工芸品",
-      "tw": "フッブート風の工芸品"
+      "tw": "孚布特樣式工藝品"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -17532,12 +17578,12 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
       "ja": "かわいらしい返礼品",
-      "tw": "かわいらしい返礼品"
+      "tw": "可愛的禮物"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -17560,7 +17606,7 @@
       "en": "Connoisseur's Pixieberry Tea",
       "fr": "Thé à la fraise pixie de dilettante",
       "ja": "好事家向けのピクシーベリーティー",
-      "tw": "好事家向けのピクシーベリーティー"
+      "tw": "面向收藏家的仙子莓茶"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -17583,7 +17629,7 @@
       "en": "Connoisseur's Pixieberry Tart",
       "fr": "Tarte aux fraises pixies de dilettante",
       "ja": "好事家向けのピクシーベリータルト",
-      "tw": "好事家向けのピクシーベリータルト"
+      "tw": "面向收藏家的莓果餡餅"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -17601,12 +17647,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Jhinga Biryani",
+      "cn": "近东虾香饭",
       "de": "Zingarnelen-Biryani",
       "en": "Jhinga Biryani",
       "fr": "Biryani aux crevettes jhingas",
       "ja": "ジンガビリヤニ",
-      "tw": "ジンガビリヤニ"
+      "tw": "近東蝦香飯"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -17624,12 +17670,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Jhinga Curry",
+      "cn": "近东虾咖喱",
       "de": "Zingarnelen-Curry",
       "en": "Jhinga Curry",
       "fr": "Curry aux crevettes jhingas",
       "ja": "ジンガカレー",
-      "tw": "ジンガカレー"
+      "tw": "近東蝦咖哩"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -17647,12 +17693,12 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Resin",
+      "cn": "家用獭獭喷泉合成树脂",
       "de": "Garten-Otterborn-Kunstharz",
       "en": "Smaller Water Otter Fountain Resin",
       "fr": "Résine synthétique pour fontaine ressourçante de jardin",
       "ja": "家庭用ウソウソの泉の合成樹脂",
-      "tw": "家庭用ウソウソの泉の合成樹脂"
+      "tw": "家用獺獺噴泉合成樹脂"
     },
     "progressDivider": 180,
     "progressModifier": 100,
@@ -17660,6 +17706,259 @@
     "qualityModifier": 100,
     "recipeId": 35498,
     "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Honeyed Dragonfruit",
+      "de": "Eingelegte Drachenfrucht",
+      "en": "Honeyed Dragonfruit",
+      "fr": "Fruit dragon au miel",
+      "ja": "蜂蜜漬けドラゴンフルーツ",
+      "tw": "蜂蜜漬けドラゴンフルーツ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35590,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Dragonfruit Blend",
+      "de": "Drachenfrucht-Smoothie",
+      "en": "Dragonfruit Blend",
+      "fr": "Jus de fruit dragon",
+      "ja": "ドラゴンフルーツスムージー",
+      "tw": "ドラゴンフルーツスムージー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35591,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Baba Ghanoush",
+      "de": "Baba Ghanoush",
+      "en": "Baba Ghanoush",
+      "fr": "Baba ganousch",
+      "ja": "ババガヌーシュ",
+      "tw": "ババガヌーシュ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35592,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Baked Eggplant",
+      "de": "Überbackene Aubergine",
+      "en": "Baked Eggplant",
+      "fr": "Aubergine noire du mage au four",
+      "ja": "ベイクドダークエッグプラント",
+      "tw": "ベイクドダークエッグプラント"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35593,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Spicy Stellar Soup",
+      "de": "Würzige Weltraumsuppe",
+      "en": "Spicy Stellar Soup",
+      "fr": "Soupe aux épices spatiales",
+      "ja": "スペーススパイシースープ",
+      "tw": "スペーススパイシースープ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35594,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Tandoori Raptor",
+      "de": "Tandoori Raptor",
+      "en": "Tandoori Raptor",
+      "fr": "Cuisse de raptor tandoori",
+      "ja": "タンドリーラプトル",
+      "tw": "タンドリーラプトル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35595,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Caviar Sandwich",
+      "de": "Kaviar-Sandwich",
+      "en": "Caviar Sandwich",
+      "fr": "Sandwich au caviar",
+      "ja": "キャビアサンド",
+      "tw": "キャビアサンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35596,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Caviar Canapes",
+      "de": " Kaviar-Canapés",
+      "en": "Caviar Canapes",
+      "fr": "Canapés au caviar",
+      "ja": "キャビアカナッペ",
+      "tw": "キャビアカナッペ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35597,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Marinated Broccoflower",
+      "de": "Marinierter Romanesco-Kohlkopf",
+      "en": "Marinated Broccoflower",
+      "fr": "Fleurs de brocoli marinées",
+      "ja": "ブロコフラワーマリネ",
+      "tw": "ブロコフラワーマリネ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35598,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Broccoflower Stew",
+      "de": "Romanesco-Eintopf",
+      "en": "Broccoflower Stew",
+      "fr": "Ragoût de fleurs de brocoli",
+      "ja": "ブロコフラワーシチュー",
+      "tw": "ブロコフラワーシチュー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35599,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "cn": "Uncharted Course Resin",
+      "de": "Gymnastikutter-Kunstharz",
+      "en": "Uncharted Course Resin",
+      "fr": "Résine synthétique pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用合成樹脂",
+      "tw": "アスレチックシップの建築用合成樹脂"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35623,
+    "stars": 4,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   }

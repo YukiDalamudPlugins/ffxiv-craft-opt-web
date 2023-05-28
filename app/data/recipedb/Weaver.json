@@ -621,6 +621,29 @@
     "suggestedCraftsmanship": 50
   },
   {
+    "baseLevel": 7,
+    "difficulty": 37,
+    "durability": 60,
+    "level": 7,
+    "maxQuality": 190,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 491,
+    "stars": 0,
+    "suggestedControl": 25,
+    "suggestedCraftsmanship": 50
+  },
+  {
     "baseLevel": 8,
     "difficulty": 41,
     "durability": 60,
@@ -1202,6 +1225,29 @@
     "level": 14,
     "maxQuality": 330,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 517,
+    "stars": 0,
+    "suggestedControl": 33,
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 14,
+    "difficulty": 54,
+    "durability": 60,
+    "level": 14,
+    "maxQuality": 330,
+    "name": {
       "cn": "棉布僧袍",
       "de": "Baumwollkukulle",
       "en": "Cotton Cowl",
@@ -1421,6 +1467,29 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 527,
+    "stars": 0,
+    "suggestedControl": 39,
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 63,
+    "durability": 70,
+    "level": 16,
+    "maxQuality": 390,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 528,
     "stars": 0,
     "suggestedControl": 39,
     "suggestedCraftsmanship": 78
@@ -1720,6 +1789,29 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 541,
+    "stars": 0,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 21,
+    "difficulty": 75,
+    "durability": 70,
+    "level": 21,
+    "maxQuality": 540,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 542,
     "stars": 0,
     "suggestedControl": 47,
     "suggestedCraftsmanship": 94
@@ -2231,6 +2323,52 @@
     "suggestedCraftsmanship": 99
   },
   {
+    "baseLevel": 26,
+    "difficulty": 90,
+    "durability": 70,
+    "level": 26,
+    "maxQuality": 690,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 565,
+    "stars": 0,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 27,
+    "difficulty": 91,
+    "durability": 70,
+    "level": 27,
+    "maxQuality": 720,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 566,
+    "stars": 0,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
     "baseLevel": 27,
     "difficulty": 91,
     "durability": 70,
@@ -2341,6 +2479,29 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 571,
+    "stars": 0,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 28,
+    "difficulty": 100,
+    "durability": 70,
+    "level": 28,
+    "maxQuality": 760,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 572,
     "stars": 0,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
@@ -2594,6 +2755,29 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 583,
+    "stars": 0,
+    "suggestedControl": 60,
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 31,
+    "difficulty": 106,
+    "durability": 80,
+    "level": 31,
+    "maxQuality": 900,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 584,
     "stars": 0,
     "suggestedControl": 60,
     "suggestedCraftsmanship": 121
@@ -3054,6 +3238,29 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 604,
+    "stars": 0,
+    "suggestedControl": 64,
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 37,
+    "difficulty": 128,
+    "durability": 80,
+    "level": 37,
+    "maxQuality": 1220,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 605,
     "stars": 0,
     "suggestedControl": 64,
     "suggestedCraftsmanship": 129
@@ -4370,6 +4577,52 @@
     "suggestedCraftsmanship": 161
   },
   {
+    "baseLevel": 35,
+    "difficulty": 123,
+    "durability": 80,
+    "level": 35,
+    "maxQuality": 1110,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 1362,
+    "stars": 0,
+    "suggestedControl": 64,
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 36,
+    "difficulty": 124,
+    "durability": 80,
+    "level": 36,
+    "maxQuality": 1160,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 1363,
+    "stars": 0,
+    "suggestedControl": 64,
+    "suggestedCraftsmanship": 129
+  },
+  {
     "baseLevel": 37,
     "difficulty": 128,
     "durability": 80,
@@ -4414,6 +4667,29 @@
     "stars": 0,
     "suggestedControl": 64,
     "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 39,
+    "difficulty": 137,
+    "durability": 80,
+    "level": 39,
+    "maxQuality": 1340,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 1366,
+    "stars": 0,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
   },
   {
     "baseLevel": 39,
@@ -4690,6 +4966,29 @@
     "stars": 0,
     "suggestedControl": 80,
     "suggestedCraftsmanship": 161
+  },
+  {
+    "baseLevel": 45,
+    "difficulty": 158,
+    "durability": 80,
+    "level": 45,
+    "maxQuality": 1700,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "recipeId": 1379,
+    "stars": 0,
+    "suggestedControl": 75,
+    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 46,
@@ -5768,6 +6067,52 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "recipeId": 1427,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "recipeId": 1428,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "recipeId": 1429,
     "stars": 2,
     "suggestedControl": 325,
     "suggestedCraftsmanship": 325
@@ -8171,6 +8516,52 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "recipeId": 2677,
+    "stars": 0,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "recipeId": 2678,
+    "stars": 0,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
       "cn": "虹布精准长裤",
       "de": "Regenbogen-Beinlinge des Zielens",
       "en": "Rainbow Slops of Aiming",
@@ -8436,6 +8827,29 @@
     "qualityDivider": 39,
     "qualityModifier": 100,
     "recipeId": 2690,
+    "stars": 0,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "recipeId": 2691,
     "stars": 0,
     "suggestedControl": 426,
     "suggestedCraftsmanship": 468
@@ -8769,6 +9183,75 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "recipeId": 2706,
+    "stars": 0,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "recipeId": 2707,
+    "stars": 0,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "recipeId": 2708,
+    "stars": 0,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
       "cn": "虹布治愈长裤",
       "de": "Regenbogen-Beinlinge der Heilung",
       "en": "Rainbow Slops of Healing",
@@ -9037,6 +9520,75 @@
     "stars": 0,
     "suggestedControl": 491,
     "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "recipeId": 2721,
+    "stars": 0,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "recipeId": 2722,
+    "stars": 0,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "recipeId": 2723,
+    "stars": 0,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
   },
   {
     "baseLevel": 51,
@@ -9497,6 +10049,29 @@
     "stars": 0,
     "suggestedControl": 480,
     "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "recipeId": 2744,
+    "stars": 0,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
   },
   {
     "baseLevel": 54,
@@ -10977,6 +11552,29 @@
     "level": 265,
     "maxQuality": 2880,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "recipeId": 3085,
+    "stars": 0,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
       "cn": "红玉棉布咏咒宽边帽",
       "de": "Rubinbaumwoll-Hut der Magie",
       "en": "Ruby Cotton Hat of Casting",
@@ -11061,6 +11659,29 @@
     "stars": 0,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "recipeId": 3091,
+    "stars": 0,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 64,
@@ -11322,6 +11943,29 @@
     "level": 273,
     "maxQuality": 3060,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "recipeId": 3163,
+    "stars": 0,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
       "cn": "葛布咏咒宽边帽",
       "de": "Kudzu-Hut der Magie",
       "en": "Kudzu Hat of Casting",
@@ -11383,6 +12027,52 @@
     "stars": 0,
     "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "recipeId": 3169,
+    "stars": 0,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "recipeId": 3223,
+    "stars": 0,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 66,
@@ -11452,6 +12142,29 @@
     "stars": 0,
     "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "recipeId": 3235,
+    "stars": 0,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 66,
@@ -11782,6 +12495,29 @@
     "level": 285,
     "maxQuality": 3420,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "recipeId": 3319,
+    "stars": 0,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
       "cn": "玉绸咏咒兜帽",
       "de": "Doppelseiden-Haube der Magie",
       "en": "Twinsilk Hood of Casting",
@@ -11840,6 +12576,75 @@
     "qualityDivider": 68,
     "qualityModifier": 100,
     "recipeId": 3323,
+    "stars": 0,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "recipeId": 3325,
+    "stars": 0,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "recipeId": 3351,
+    "stars": 0,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "recipeId": 3352,
     "stars": 0,
     "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
@@ -12372,6 +13177,75 @@
     "stars": 0,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "recipeId": 3507,
+    "stars": 0,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "recipeId": 3517,
+    "stars": 0,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "recipeId": 3527,
+    "stars": 0,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
   },
   {
     "baseLevel": 56,
@@ -15178,6 +16052,29 @@
     "stars": 0,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 1430,
+    "durability": 80,
+    "level": 406,
+    "maxQuality": 4100,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 105,
+    "progressModifier": 100,
+    "qualityDivider": 85,
+    "qualityModifier": 100,
+    "recipeId": 4447,
+    "stars": 0,
+    "suggestedControl": 1425,
+    "suggestedCraftsmanship": 1539
   },
   {
     "baseLevel": 13,
@@ -20315,6 +21212,29 @@
     "level": 110,
     "maxQuality": 2900,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "recipeId": 30891,
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 480,
+    "durability": 80,
+    "level": 110,
+    "maxQuality": 2900,
+    "name": {
       "cn": "织蛛长袍",
       "de": "Arachne-Robe",
       "en": "Arachne Robe",
@@ -20862,6 +21782,29 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 740,
+    "durability": 70,
+    "level": 180,
+    "maxQuality": 2900,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "recipeId": 31166,
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
     "level": 150,
@@ -20905,6 +21848,52 @@
     "stars": 0,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "recipeId": 31169,
+    "stars": 0,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 740,
+    "durability": 70,
+    "level": 180,
+    "maxQuality": 2900,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "recipeId": 31170,
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 60,
@@ -20974,6 +21963,29 @@
     "stars": 0,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 740,
+    "durability": 70,
+    "level": 180,
+    "maxQuality": 2900,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "recipeId": 31174,
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 60,
@@ -21181,6 +22193,29 @@
     "stars": 2,
     "suggestedControl": 695,
     "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "recipeId": 31184,
+    "stars": 0,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
   },
   {
     "baseLevel": 60,
@@ -23075,6 +24110,52 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "recipeId": 31571,
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 880,
+    "durability": 70,
+    "level": 210,
+    "maxQuality": 3300,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "recipeId": 31572,
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 880,
+    "durability": 70,
+    "level": 210,
+    "maxQuality": 3300,
+    "name": {
       "cn": "远征腿套",
       "de": "Forscher-Kecks",
       "en": "Expeditioner's Kecks",
@@ -24478,6 +25559,29 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "recipeId": 32009,
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1000,
+    "durability": 70,
+    "level": 250,
+    "maxQuality": 3800,
+    "name": {
       "cn": "星绒咏咒兜帽",
       "de": "Sternensamt-Haube der Magie",
       "en": "Star Velvet Hood of Casting",
@@ -24559,6 +25663,29 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "recipeId": 32013,
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1000,
+    "durability": 70,
+    "level": 250,
+    "maxQuality": 3800,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "recipeId": 32015,
     "stars": 4,
     "suggestedControl": 955,
     "suggestedCraftsmanship": 995
@@ -25536,6 +26663,52 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 32360,
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1200,
+    "durability": 70,
+    "level": 320,
+    "maxQuality": 4800,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 32366,
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1200,
+    "durability": 70,
+    "level": 320,
+    "maxQuality": 4800,
+    "name": {
       "cn": "纻布强袭垮裤",
       "de": "Indigoramien-Sarouel des Schlagens",
       "en": "Indigo Ramie Sarouel of Striking",
@@ -25548,6 +26721,29 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32370,
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1200,
+    "durability": 70,
+    "level": 320,
+    "maxQuality": 4800,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 32372,
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
@@ -25582,6 +26778,29 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 32378,
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1200,
+    "durability": 70,
+    "level": 320,
+    "maxQuality": 4800,
+    "name": {
       "cn": "纻布游击垮裤",
       "de": "Indigoramien-Sarouel des Spähens",
       "en": "Indigo Ramie Sarouel of Scouting",
@@ -25594,6 +26813,29 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32382,
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1200,
+    "durability": 70,
+    "level": 320,
+    "maxQuality": 4800,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 32384,
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
@@ -25651,6 +26893,29 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 32390,
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1200,
+    "durability": 70,
+    "level": 320,
+    "maxQuality": 4800,
+    "name": {
       "cn": "纻布咏咒长袍",
       "de": "Indigoramien-Robe der Magie",
       "en": "Indigo Ramie Robe of Casting",
@@ -25686,6 +26951,29 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32394,
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1200,
+    "durability": 70,
+    "level": 320,
+    "maxQuality": 4800,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 32396,
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
@@ -28009,6 +29297,52 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 33049,
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1350,
+    "durability": 70,
+    "level": 350,
+    "maxQuality": 5200,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 33051,
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1350,
+    "durability": 70,
+    "level": 350,
+    "maxQuality": 5200,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "recipeId": 33056,
     "stars": 3,
     "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
@@ -32459,6 +33793,29 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 34516,
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3600,
+    "durability": 70,
+    "level": 510,
+    "maxQuality": 9500,
+    "name": {
       "cn": "总督精准兜帽",
       "de": "Exarchen-Haube des Zielens",
       "en": "Exarchic Hood of Aiming",
@@ -32528,6 +33885,29 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 34522,
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3600,
+    "durability": 70,
+    "level": 510,
+    "maxQuality": 9500,
+    "name": {
       "cn": "总督游击兜帽",
       "de": "Exarchen-Hauben des Spähens",
       "en": "Exarchic Hood of Scouting",
@@ -32586,6 +33966,29 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "recipeId": 34526,
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3600,
+    "durability": 70,
+    "level": 510,
+    "maxQuality": 9500,
+    "name": {
+      "cn": "Diadochos Sword",
+      "de": "",
+      "en": "Diadochos Sword",
+      "fr": "",
+      "ja": "",
+      "tw": "ディアドコス・ソード"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 34528,
     "stars": 4,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
@@ -34348,7 +35751,7 @@
       "cn": "獭獭喷泉建造用部件",
       "de": "Otterborn-Bauholz",
       "en": "Water Otter Fountain Lumber",
-      "fr": "Matériaux pour la fontaine ressourçante",
+      "fr": "Poutre pour la fontaine ressourçante",
       "ja": "ウソウソの泉の建築用部材",
       "tw": "獺獺噴泉建造用元件"
     },
@@ -34465,7 +35868,7 @@
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
       "ja": "舞台の重要部材",
-      "tw": "舞台の重要部材"
+      "tw": "舞臺的重要部分"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34488,7 +35891,7 @@
       "en": "Machining Supplies",
       "fr": "Élément de machine",
       "ja": "マシン開発の必需品",
-      "tw": "マシン開発の必需品"
+      "tw": "機械開發必需品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34511,7 +35914,7 @@
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
       "ja": "料理提供の必需品",
-      "tw": "料理提供の必需品"
+      "tw": "烹飪供應必備品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34557,7 +35960,7 @@
       "en": "Radio Equipment",
       "fr": "Élément de radio",
       "ja": "ステーションの必需機材",
-      "tw": "ステーションの必需機材"
+      "tw": "無線電設備機材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34626,7 +36029,7 @@
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
       "ja": "コイン製造用品",
-      "tw": "コイン製造用品"
+      "tw": "硬幣製作用品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34649,7 +36052,7 @@
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
       "ja": "銘入り記念品",
-      "tw": "銘入り記念品"
+      "tw": "銘刻紀念品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34695,7 +36098,7 @@
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
       "ja": "携帯ライト部材",
-      "tw": "携帯ライト部材"
+      "tw": "移動照明元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34718,7 +36121,7 @@
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
       "ja": "クリーナー改良部材",
-      "tw": "クリーナー改良部材"
+      "tw": "清潔機改良元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34741,7 +36144,7 @@
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
       "ja": "録音サポーターの開発部材",
-      "tw": "録音サポーターの開発部材"
+      "tw": "錄音支架開發元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34764,7 +36167,7 @@
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
       "ja": "気密維持用の防護スーツ部材",
-      "tw": "気密維持用の防護スーツ部材"
+      "tw": "保持氣密性的防護服元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34787,7 +36190,7 @@
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
       "ja": "スリリング用具",
-      "tw": "スリリング用具"
+      "tw": "神秘用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34810,7 +36213,7 @@
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
       "ja": "レシピ集印刷用具",
-      "tw": "レシピ集印刷用具"
+      "tw": "食譜印刷用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34833,7 +36236,7 @@
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
       "ja": "フリーザー修理部材",
-      "tw": "フリーザー修理部材"
+      "tw": "冷凍庫維修元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34902,7 +36305,7 @@
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
       "ja": "フィットネス用具",
-      "tw": "フィットネス用具"
+      "tw": "健身器材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -34994,7 +36397,7 @@
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
       "ja": "ファッション装飾品",
-      "tw": "ファッション装飾品"
+      "tw": "時尚裝飾品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -35012,12 +36415,12 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
       "ja": "羊のお世話道具",
-      "tw": "羊のお世話道具"
+      "tw": "牧羊工具"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -35035,12 +36438,12 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
       "ja": "山岳部の防寒用品",
-      "tw": "山岳部の防寒用品"
+      "tw": "山嶽防寒用品"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -35058,12 +36461,12 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
       "ja": "フッブート風の郷土料理",
-      "tw": "フッブート風の郷土料理"
+      "tw": "孚布特風土美食"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -35081,12 +36484,12 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
       "ja": "フッブート風の工芸品",
-      "tw": "フッブート風の工芸品"
+      "tw": "孚布特樣式工藝品"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -35104,12 +36507,12 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
       "ja": "かわいらしい返礼品",
-      "tw": "かわいらしい返礼品"
+      "tw": "可愛的禮物"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -35132,7 +36535,7 @@
       "en": "Connoisseur's Swag Valance",
       "fr": "Cantonnière de dilettante",
       "ja": "好事家向けのスワッグカーテン",
-      "tw": "好事家向けのスワッグカーテン"
+      "tw": "面向收藏家的窗簾"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -35155,7 +36558,7 @@
       "en": "Connoisseur's Red Carpet",
       "fr": "Tapis rouge de dilettante",
       "ja": "好事家向けのレッドカーペット",
-      "tw": "好事家向けのレッドカーペット"
+      "tw": "面向收藏家的紅地毯"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35173,12 +36576,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Coat of Crafting",
+      "cn": "研究者巧匠长衣",
       "de": "Ermittler-Mantel des Handwerks",
       "en": "Indagator's Coat of Crafting",
       "fr": "Manteau des créations d'indagator",
       "ja": "インダガトル・クラフターコート",
-      "tw": "インダガトル・クラフターコート"
+      "tw": "研究者巧匠長衣"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35196,12 +36599,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Trousers of Crafting",
+      "cn": "研究者巧匠软甲裤",
       "de": "Ermittler-Hose des Handwerks",
       "en": "Indagator's Trousers of Crafting",
       "fr": "Pantalon des créations d'indagator",
       "ja": "インダガトル・クラフタートラウザー",
-      "tw": "インダガトル・クラフタートラウザー"
+      "tw": "研究者巧匠軟甲褲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35219,12 +36622,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Doublet Vest of Gathering",
+      "cn": "研究者大地工作坎肩",
       "de": "Ermittler-Weste des Eifers",
       "en": "Indagator's Doublet Vest of Gathering",
       "fr": "Gilet doublet des ressources d'indagator",
       "ja": "インダガトル・ギャザラーダブレットベスト",
-      "tw": "インダガトル・ギャザラーダブレットベスト"
+      "tw": "研究者大地工作背心"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35242,12 +36645,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Bottoms of Gathering",
+      "cn": "研究者大地打底裤",
       "de": "Ermittler-Hose des Eifers",
       "en": "Indagator's Bottoms of Gathering",
       "fr": "Bas-de-corps des ressources d'indagator",
       "ja": "インダガトル・ギャザラーボトム",
-      "tw": "インダガトル・ギャザラーボトム"
+      "tw": "研究者大地內搭褲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35265,12 +36668,12 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Bracelet of Gathering",
+      "cn": "研究者大地手环",
       "de": "Ermittler-Armreif des Eifers",
       "en": "Indagator's Bracelet of Gathering",
       "fr": "Bracelet des ressources d'indagator",
       "ja": "インダガトル・ギャザラーブレスレット",
-      "tw": "インダガトル・ギャザラーブレスレット"
+      "tw": "研究者大地手環"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35288,12 +36691,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Hat",
+      "cn": "沙龙服务员帽",
       "de": "Kellner-Hut",
       "en": "Salon Server's Hat",
       "fr": "Chapeau de service hôtelier",
       "ja": "サロンサーバー・ハット",
-      "tw": "サロンサーバー・ハット"
+      "tw": "沙龍服務生帽"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35311,12 +36714,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Vest",
+      "cn": "沙龙服务员坎肩",
       "de": "Kellner-Weste",
       "en": "Salon Server's Vest",
       "fr": "Gilet de service hôtelier",
       "ja": "サロンサーバー・ベスト",
-      "tw": "サロンサーバー・ベスト"
+      "tw": "沙龍服務生背心"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35334,12 +36737,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Bottoms",
+      "cn": "沙龙服务员打底裤",
       "de": "Kellner-Hose",
       "en": "Salon Server's Bottoms",
       "fr": "Bas-de-corps de service hôtelier",
       "ja": "サロンサーバー・ボトム",
-      "tw": "サロンサーバー・ボトム"
+      "tw": "沙龍服務生內搭褲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35357,12 +36760,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Dress Vest",
+      "cn": "沙龙服务员礼服坎肩",
       "de": "Kellner-Galaweste",
       "en": "Salon Server's Dress Vest",
       "fr": "Corsage de service hôtelier",
       "ja": "サロンサーバー・ドレスベスト",
-      "tw": "サロンサーバー・ドレスベスト"
+      "tw": "沙龍服務生禮服背心"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35380,12 +36783,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Dress Gloves",
+      "cn": "沙龙服务员礼服手套",
       "de": "Kellner-Galahandschuhe",
       "en": "Salon Server's Dress Gloves",
       "fr": "Gants d'apparat de service hôtelier",
       "ja": "サロンサーバー・ドレスグローブ",
-      "tw": "サロンサーバー・ドレスグローブ"
+      "tw": "沙龍服務生禮服手套"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35403,12 +36806,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Skirt",
+      "cn": "沙龙服务员长裙",
       "de": "Kellner-Rock",
       "en": "Salon Server's Skirt",
       "fr": "Jupe de service hôtelier",
       "ja": "サロンサーバー・スカート",
-      "tw": "サロンサーバー・スカート"
+      "tw": "沙龍服務生長裙"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35426,12 +36829,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Flamecloaked Barding",
+      "cn": "炀火装甲",
       "de": "Flammenmantel-Rossharnisch",
       "en": "Flamecloaked Barding",
       "fr": "Barde de Rubicante",
       "ja": "ルビカンテ・バード",
-      "tw": "ルビカンテ・バード"
+      "tw": "煬火裝甲"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -35449,18 +36852,639 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Lumber",
+      "cn": "家用獭獭喷泉部件",
       "de": "Material für einen Garten-Otterborn",
       "en": "Smaller Water Otter Fountain Lumber",
       "fr": "Matériaux pour fontaine ressourçante de jardin",
       "ja": "家庭用ウソウソの泉の部材",
-      "tw": "家庭用ウソウソの泉の部材"
+      "tw": "家用獺獺噴泉元件"
     },
     "progressDivider": 180,
     "progressModifier": 100,
     "qualityDivider": 180,
     "qualityModifier": 100,
     "recipeId": 35493,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Headband of Fending",
+      "de": "Diadochen-Stirnband der Verteidigung",
+      "en": "Diadochos Headband of Fending",
+      "fr": "Bandeau de protecteur de diadoque",
+      "ja": "ディアドコス・ディフェンダーヘッドバンド",
+      "tw": "ディアドコス・ディフェンダーヘッドバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35519,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Headband of Maiming",
+      "de": "Diadochen-Stirnband des Verstümmelns",
+      "en": "Diadochos Headband of Maiming",
+      "fr": "Bandeau d'abatteur de diadoque",
+      "ja": "ディアドコス・スレイヤーヘッドバンド",
+      "tw": "ディアドコス・スレイヤーヘッドバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35524,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Jacket of Striking",
+      "de": "Diadochen-Jacke des Schlagens",
+      "en": "Diadochos Jacket of Striking",
+      "fr": "Jaque d'agresseur de diadoque",
+      "ja": "ディアドコス・ストライカージャケット",
+      "tw": "ディアドコス・ストライカージャケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35530,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Bottoms of Striking",
+      "de": "Diadochen-Hose des Schlagens",
+      "en": "Diadochos Bottoms of Striking",
+      "fr": "Bas-de-corps d'agresseur de diadoque",
+      "ja": "ディアドコス・ストライカーボトム",
+      "tw": "ディアドコス・ストライカーボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35532,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Headband of Aiming",
+      "de": "Diadochen-Stirnband des Zielens",
+      "en": "Diadochos Headband of Aiming",
+      "fr": "Bandeau de pisteur de diadoque",
+      "ja": "ディアドコス・レンジャーヘッドバンド",
+      "tw": "ディアドコス・レンジャーヘッドバンド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35534,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Jacket of Scouting",
+      "de": "Diadochen-Jacke des Spähens",
+      "en": "Diadochos Jacket of Scouting",
+      "fr": "Jaque d'éclaireur de diadoque",
+      "ja": "ディアドコス・スカウトジャケット",
+      "tw": "ディアドコス・スカウトジャケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35540,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Bottoms of Scouting",
+      "de": "Diadochen-Hose des Spähens",
+      "en": "Diadochos Bottoms of Scouting",
+      "fr": "Bas-de-corps d'éclaireur de diadoque",
+      "ja": "ディアドコス・スカウトボトム",
+      "tw": "ディアドコス・スカウトボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35542,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Beret of Healing",
+      "de": "Diadochen-Barett der Heilung",
+      "en": "Diadochos Beret of Healing",
+      "fr": "Béret de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーベレー",
+      "tw": "ディアドコス・ヒーラーベレー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35544,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Coat of Healing",
+      "de": "Diadochen-Mantel der Heilung",
+      "en": "Diadochos Coat of Healing",
+      "fr": "Manteau de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーコート",
+      "tw": "ディアドコス・ヒーラーコート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35545,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Armlets of Healing",
+      "de": "Diadochen-Armschützer der Heilung",
+      "en": "Diadochos Armlets of Healing",
+      "fr": "Brassards de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーアームレット",
+      "tw": "ディアドコス・ヒーラーアームレット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35546,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Bottoms of Healing",
+      "de": "Diadochen-Hose der Heilung",
+      "en": "Diadochos Bottoms of Healing",
+      "fr": "Bas-de-corps de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーボトム",
+      "tw": "ディアドコス・ヒーラーボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35547,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Beret of Casting",
+      "de": "Diadochen-Barett der Magie",
+      "en": "Diadochos Beret of Casting",
+      "fr": "Béret d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターベレー",
+      "tw": "ディアドコス・キャスターベレー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35549,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Coat of Casting",
+      "de": "Diadochen-Mantel der Magie",
+      "en": "Diadochos Coat of Casting",
+      "fr": "Manteau d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターコート",
+      "tw": "ディアドコス・キャスターコート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35550,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Armlets of Casting",
+      "de": "Diadochen-Armschützer der Magie",
+      "en": "Diadochos Armlets of Casting",
+      "fr": "Brassards d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターアームレット",
+      "tw": "ディアドコス・キャスターアームレット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35551,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Bottoms of Casting",
+      "de": "Diadochen-Hose der Magie",
+      "en": "Diadochos Bottoms of Casting",
+      "fr": "Bas-de-corps d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターボトム",
+      "tw": "ディアドコス・キャスターボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35552,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Garnet Cotton",
+      "de": "Granat-Baumwolle",
+      "en": "Garnet Cotton",
+      "fr": "Coton grenat",
+      "ja": "ガーネットコットン",
+      "tw": "ガーネットコットン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35578,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "cn": "Uncharted Course Lumber",
+      "de": "Gymnastikutter-Bauholz",
+      "en": "Uncharted Course Lumber",
+      "fr": "Poutre pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用部材",
+      "tw": "アスレチックシップの建築用部材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35618,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Plain Pajama Eye Mask",
+      "de": "Einfache Schlafmaske",
+      "en": "Plain Pajama Eye Mask",
+      "fr": "Masque de nuit de pyjama",
+      "ja": "プレーンパジャマ・アイマスク",
+      "tw": "プレーンパジャマ・アイマスク"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35629,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Plain Pajama Shirt",
+      "de": "Einfacher Schlafanzug",
+      "en": "Plain Pajama Shirt",
+      "fr": "Chemise de pyjama",
+      "ja": "プレーンパジャマ・シャツ",
+      "tw": "プレーンパジャマ・シャツ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35630,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Plain Pajama Bottoms",
+      "de": "Einfache Schlafhose",
+      "en": "Plain Pajama Bottoms",
+      "fr": "Pantalon de pyjama",
+      "ja": "プレーンパジャマ・ボトム",
+      "tw": "プレーンパジャマ・ボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35631,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Cactuar Pajama Eye Mask",
+      "de": "Kaktor-Schlafmaske",
+      "en": "Cactuar Pajama Eye Mask",
+      "fr": "Masque de nuit de pyjama pampa",
+      "ja": "サボテンダーパジャマ・アイマスク",
+      "tw": "サボテンダーパジャマ・アイマスク"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35633,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Cactuar Pajama Shirt",
+      "de": "Kaktor-Schlafanzug",
+      "en": "Cactuar Pajama Shirt",
+      "fr": "Chemise de pyjama pampa",
+      "ja": "サボテンダーパジャマ・シャツ",
+      "tw": "サボテンダーパジャマ・シャツ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35634,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Cactuar Pajama Bottoms",
+      "de": "Kaktor-Schlafhose",
+      "en": "Cactuar Pajama Bottoms",
+      "fr": "Pantalon de pyjama pampa",
+      "ja": "サボテンダーパジャマ・ボトム",
+      "tw": "サボテンダーパジャマ・ボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35635,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Chocobo Pajama Eye Mask",
+      "de": "Chocobo-Schlafmaske",
+      "en": "Chocobo Pajama Eye Mask",
+      "fr": "Masque de nuit de pyjama chocobo",
+      "ja": "チョコボパジャマ・アイマスク",
+      "tw": "チョコボパジャマ・アイマスク"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35637,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Chocobo Pajama Shirt",
+      "de": "Chocobo-Schlafanzug",
+      "en": "Chocobo Pajama Shirt",
+      "fr": "Chemise de pyjama chocobo",
+      "ja": "チョコボパジャマ・シャツ",
+      "tw": "チョコボパジャマ・シャツ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35638,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Chocobo Pajama Bottoms",
+      "de": "Chocobo-Schlafhose",
+      "en": "Chocobo Pajama Bottoms",
+      "fr": "Pantalon de pyjama chocobo",
+      "ja": "チョコボパジャマ・ボトム",
+      "tw": "チョコボパジャマ・ボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35639,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Wind-up Barbariccia",
+      "de": "Aufzieh-Barbarizia",
+      "en": "Wind-up Barbariccia",
+      "fr": "Barbariccia miniature",
+      "ja": "マメット・バルバリシア",
+      "tw": "マメット・バルバリシア"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35642,
     "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700

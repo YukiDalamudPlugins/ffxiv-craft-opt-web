@@ -4768,7 +4768,7 @@
     "maxQuality": 2500,
     "name": {
       "cn": "1级耐久以太转轮",
-      "de": "Rad der Beständigkeit I",
+      "de": "Rad der Bes<SoftHyphen/>tändig<SoftHyphen/>keit I",
       "en": "Grade 1 Wheel of Permanence",
       "fr": "Tour de la rémanence I",
       "ja": "耐久のエーテリアルホイールG1",
@@ -13001,12 +13001,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Red Morning Glory Corsage",
+      "cn": "红色牵牛花头花",
       "de": "Rote Trichterwinden-Haarspange",
       "en": "Red Morning Glory Corsage",
       "fr": "Barrette belles-de-jour rouges",
       "ja": "モーニンググローリーオーナメント:レッド",
-      "tw": "モーニンググローリーオーナメント:レッド"
+      "tw": "紅色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13024,12 +13024,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Blue Morning Glory Corsage",
+      "cn": "蓝色牵牛花头花",
       "de": "Blaue Trichterwinden-Haarspange",
       "en": "Blue Morning Glory Corsage",
       "fr": "Barrette belles-de-jour bleues",
       "ja": "モーニンググローリーオーナメント:ブルー",
-      "tw": "モーニンググローリーオーナメント:ブルー"
+      "tw": "藍色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13047,12 +13047,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Yellow Morning Glory Corsage",
+      "cn": "黄色牵牛花头花",
       "de": "Gelbe Trichterwinden-Haarspange",
       "en": "Yellow Morning Glory Corsage",
       "fr": "Barrette belles-de-jour jaunes",
       "ja": "モーニンググローリーオーナメント:イエロー",
-      "tw": "モーニンググローリーオーナメント:イエロー"
+      "tw": "黃色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13070,12 +13070,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Green Morning Glory Corsage",
+      "cn": "绿色牵牛花头花",
       "de": "Grüne Trichterwinden-Haarspange",
       "en": "Green Morning Glory Corsage",
       "fr": "Barrette belles-de-jour vertes",
       "ja": "モーニンググローリーオーナメント:グリーン",
-      "tw": "モーニンググローリーオーナメント:グリーン"
+      "tw": "綠色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13093,12 +13093,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Orange Morning Glory Corsage",
+      "cn": "橙色牵牛花头花",
       "de": "Orange Trichterwinden-Haarspange",
       "en": "Orange Morning Glory Corsage",
-      "fr": "Barrette belles-de-jour oranges",
+      "fr": "Barrette belles-de-jour orange",
       "ja": "モーニンググローリーオーナメント:オレンジ",
-      "tw": "モーニンググローリーオーナメント:オレンジ"
+      "tw": "橙色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13116,12 +13116,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Purple Morning Glory Corsage",
+      "cn": "紫色牵牛花头花",
       "de": "Violette Trichterwinden-Haarspange",
       "en": "Purple Morning Glory Corsage",
       "fr": "Barrette belles-de-jour violettes",
       "ja": "モーニンググローリーオーナメント:パープル",
-      "tw": "モーニンググローリーオーナメント:パープル"
+      "tw": "紫色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13139,12 +13139,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "White Morning Glory Corsage",
+      "cn": "白色牵牛花头花",
       "de": "Weiße Trichterwinden-Haarspange",
       "en": "White Morning Glory Corsage",
       "fr": "Barrette belles-de-jour blanches",
       "ja": "モーニンググローリーオーナメント:ホワイト",
-      "tw": "モーニンググローリーオーナメント:ホワイト"
+      "tw": "白色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13162,12 +13162,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Black Morning Glory Corsage",
+      "cn": "黑色牵牛花头花",
       "de": "Schwarze Trichterwinden-Haarspange",
       "en": "Black Morning Glory Corsage",
       "fr": "Barrette belles-de-jour noires",
       "ja": "モーニンググローリーオーナメント:ブラック",
-      "tw": "モーニンググローリーオーナメント:ブラック"
+      "tw": "黑色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13185,12 +13185,12 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "cn": "Rainbow Morning Glory Corsage",
+      "cn": "混色牵牛花头花",
       "de": "Mehrfarbige Trichterwinden-Haarspange",
       "en": "Rainbow Morning Glory Corsage",
       "fr": "Barrette belles-de-jour multicolores",
       "ja": "モーニンググローリーオーナメント:ブレンド",
-      "tw": "モーニンググローリーオーナメント:ブレンド"
+      "tw": "混色牽牛花頭花"
     },
     "progressDivider": 107,
     "progressModifier": 100,
@@ -13208,12 +13208,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hyper-potion",
+      "cn": "殊级恢复药",
       "de": "Hypertrank",
       "en": "Hyper-potion",
       "fr": "Hyper potion",
       "ja": "ハイパーポーション",
-      "tw": "ハイパーポーション"
+      "tw": "殊級恢復藥"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -13231,12 +13231,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Flower Boucage",
+      "cn": "花艺鸟笼",
       "de": "Blumiger Vogelkäfig",
       "en": "Flower Boucage",
       "fr": "Cage ornée de fleurs",
       "ja": "フラワーアレンジドケージ",
-      "tw": "フラワーアレンジドケージ"
+      "tw": "花藝鳥籠"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -13254,12 +13254,12 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Timeworn Thaumaturgic Array",
+      "cn": "古旧的咒术道具",
       "de": "Antikes Thaumaturgenset",
       "en": "Timeworn Thaumaturgic Array",
       "fr": "Matériel d'occultisme ancien",
       "ja": "古めいた呪術道具",
-      "tw": "古めいた呪術道具"
+      "tw": "老舊的咒術道具"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -13269,6 +13269,282 @@
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Botanical Candle Display",
+      "de": "Gärtner-Kerzenständer",
+      "en": "Botanical Candle Display",
+      "fr": "Panier de chandelles de botanique",
+      "ja": "ボタニカル・キャンドルバスケット",
+      "tw": "ボタニカル・キャンドルバスケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5523,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Ivy Pendant Wall Light",
+      "de": "Efeu-Wandkettenlampe",
+      "en": "Ivy Pendant Wall Light",
+      "fr": "Lampe murale suspendue en lierre",
+      "ja": "アイビー・ペンダントウォールライト",
+      "tw": "アイビー・ペンダントウォールライト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5536,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Well Pump",
+      "de": "Wasserpumpe",
+      "en": "Well Pump",
+      "fr": "Pompe à puits",
+      "ja": "ウォーターウェルポンプ",
+      "tw": "ウォーターウェルポンプ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5543,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Red Chrysanthemum Corsage",
+      "de": "Rote Chrysanthemen-Haarspange",
+      "en": "Red Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème rouge",
+      "ja": "クリサンセマムオーナメント:レッド",
+      "tw": "クリサンセマムオーナメント:レッド"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5549,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Blue Chrysanthemum Corsage",
+      "de": "Blaue Chrysanthemen-Haarspange",
+      "en": "Blue Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème bleu",
+      "ja": "クリサンセマムオーナメント:ブルー",
+      "tw": "クリサンセマムオーナメント:ブルー"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5550,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Yellow Chrysanthemum Corsage",
+      "de": "Gelbe Chrysanthemen-Haarspange",
+      "en": "Yellow Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème jaune",
+      "ja": "クリサンセマムオーナメント:イエロー",
+      "tw": "クリサンセマムオーナメント:イエロー"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5551,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Green Chrysanthemum Corsage",
+      "de": "Grüne Chrysanthemen-Haarspange",
+      "en": "Green Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème vert",
+      "ja": "クリサンセマムオーナメント:グリーン",
+      "tw": "クリサンセマムオーナメント:グリーン"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5552,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Orange Chrysanthemum Corsage",
+      "de": "Orange Chrysanthemen-Haarspange",
+      "en": "Orange Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème orange",
+      "ja": "クリサンセマムオーナメント:オレンジ",
+      "tw": "クリサンセマムオーナメント:オレンジ"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5553,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Purple Chrysanthemum Corsage",
+      "de": "Violette Chrysanthemen-Haarspange",
+      "en": "Purple Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème violet",
+      "ja": "クリサンセマムオーナメント:パープル",
+      "tw": "クリサンセマムオーナメント:パープル"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5554,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "White Chrysanthemum Corsage",
+      "de": "Weiße Chrysanthemen-Haarspange",
+      "en": "White Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème blanc",
+      "ja": "クリサンセマムオーナメント:ホワイト",
+      "tw": "クリサンセマムオーナメント:ホワイト"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5555,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Black Chrysanthemum Corsage",
+      "de": "Schwarze Chrysanthemen-Haarspange",
+      "en": "Black Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème noir",
+      "ja": "クリサンセマムオーナメント:ブラック",
+      "tw": "クリサンセマムオーナメント:ブラック"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5556,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "cn": "Rainbow Chrysanthemum Corsage",
+      "de": "Mehrfarbige Chrysanthemen-Haarspange",
+      "en": "Rainbow Chrysanthemum Corsage",
+      "fr": "Barrette chrysanthème multicolore",
+      "ja": "クリサンセマムオーナメント:ブレンド",
+      "tw": "クリサンセマムオーナメント:ブレンド"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "recipeId": 5557,
+    "stars": 0,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
   },
   {
     "baseLevel": 30,
@@ -25840,7 +26116,7 @@
       "en": "Ascorbic Additive",
       "fr": "Additif vitaminé",
       "ja": "特製の添加物",
-      "tw": "特製新增劑"
+      "tw": "特製添加劑"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -26875,7 +27151,7 @@
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
       "ja": "舞台の重要部材",
-      "tw": "舞台の重要部材"
+      "tw": "舞臺的重要部分"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -26898,7 +27174,7 @@
       "en": "Machining Supplies",
       "fr": "Élément de machine",
       "ja": "マシン開発の必需品",
-      "tw": "マシン開発の必需品"
+      "tw": "機械開發必需品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -26921,7 +27197,7 @@
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
       "ja": "料理提供の必需品",
-      "tw": "料理提供の必需品"
+      "tw": "烹飪供應必備品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -26967,7 +27243,7 @@
       "en": "Radio Equipment",
       "fr": "Élément de radio",
       "ja": "ステーションの必需機材",
-      "tw": "ステーションの必需機材"
+      "tw": "無線電設備機材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27036,7 +27312,7 @@
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
       "ja": "コイン製造用品",
-      "tw": "コイン製造用品"
+      "tw": "硬幣製作用品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27059,7 +27335,7 @@
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
       "ja": "銘入り記念品",
-      "tw": "銘入り記念品"
+      "tw": "銘刻紀念品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27105,7 +27381,7 @@
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
       "ja": "携帯ライト部材",
-      "tw": "携帯ライト部材"
+      "tw": "移動照明元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27128,7 +27404,7 @@
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
       "ja": "クリーナー改良部材",
-      "tw": "クリーナー改良部材"
+      "tw": "清潔機改良元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27151,7 +27427,7 @@
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
       "ja": "録音サポーターの開発部材",
-      "tw": "録音サポーターの開発部材"
+      "tw": "錄音支架開發元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27174,7 +27450,7 @@
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
       "ja": "気密維持用の防護スーツ部材",
-      "tw": "気密維持用の防護スーツ部材"
+      "tw": "保持氣密性的防護服元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27197,7 +27473,7 @@
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
       "ja": "スリリング用具",
-      "tw": "スリリング用具"
+      "tw": "神秘用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27220,7 +27496,7 @@
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
       "ja": "レシピ集印刷用具",
-      "tw": "レシピ集印刷用具"
+      "tw": "食譜印刷用具"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27243,7 +27519,7 @@
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
       "ja": "フリーザー修理部材",
-      "tw": "フリーザー修理部材"
+      "tw": "冷凍庫維修元件"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27312,7 +27588,7 @@
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
       "ja": "フィットネス用具",
-      "tw": "フィットネス用具"
+      "tw": "健身器材"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27404,7 +27680,7 @@
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
       "ja": "ファッション装飾品",
-      "tw": "ファッション装飾品"
+      "tw": "時尚裝飾品"
     },
     "progressDivider": 110,
     "progressModifier": 100,
@@ -27422,12 +27698,12 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
       "ja": "羊のお世話道具",
-      "tw": "羊のお世話道具"
+      "tw": "牧羊工具"
     },
     "progressDivider": 121,
     "progressModifier": 100,
@@ -27445,12 +27721,12 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
       "ja": "山岳部の防寒用品",
-      "tw": "山岳部の防寒用品"
+      "tw": "山嶽防寒用品"
     },
     "progressDivider": 122,
     "progressModifier": 100,
@@ -27468,12 +27744,12 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
       "ja": "フッブート風の郷土料理",
-      "tw": "フッブート風の郷土料理"
+      "tw": "孚布特風土美食"
     },
     "progressDivider": 123,
     "progressModifier": 100,
@@ -27491,12 +27767,12 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
       "ja": "フッブート風の工芸品",
-      "tw": "フッブート風の工芸品"
+      "tw": "孚布特樣式工藝品"
     },
     "progressDivider": 124,
     "progressModifier": 100,
@@ -27514,12 +27790,12 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
       "ja": "かわいらしい返礼品",
-      "tw": "かわいらしい返礼品"
+      "tw": "可愛的禮物"
     },
     "progressDivider": 125,
     "progressModifier": 100,
@@ -27542,7 +27818,7 @@
       "en": "Connoisseur's Cosmetics Box",
       "fr": "Valise à maquillage de dilettante",
       "ja": "好事家向けのメイクアップボックス",
-      "tw": "好事家向けのメイクアップボックス"
+      "tw": "面向收藏家的化妝箱"
     },
     "progressDivider": 130,
     "progressModifier": 90,
@@ -27565,7 +27841,7 @@
       "en": "Connoisseur's Elixir Bottle",
       "fr": "Bouteille d'élixir de dilettante",
       "ja": "好事家向けのエリクサーボトル",
-      "tw": "好事家向けのエリクサーボトル"
+      "tw": "面向收藏家的聖靈藥瓶"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -27583,12 +27859,12 @@
     "level": 620,
     "maxQuality": 8600,
     "name": {
-      "cn": "Craftsman's Alkahest",
+      "cn": "工匠的幻水",
       "de": "Visionslösung des Handwerks",
       "en": "Craftsman's Alkahest",
       "fr": "Eau chimérique de savoir-faire",
       "ja": "匠の幻水",
-      "tw": "匠の幻水"
+      "tw": "工匠的幻水"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -27606,12 +27882,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Index",
+      "cn": "绯光魔导书",
       "de": "Lupercus-Index",
       "en": "Rubellux Index",
       "fr": "Index Rubeus",
       "ja": "ルベルクス・インデックス",
-      "tw": "ルベルクス・インデックス"
+      "tw": "緋光魔導書"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -27629,12 +27905,12 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Codex",
+      "cn": "绯光魔导典",
       "de": "Lupercus-Kodex",
       "en": "Rubellux Codex",
       "fr": "Codex Rubeus",
       "ja": "ルベルクス・コーデックス",
-      "tw": "ルベルクス・コーデックス"
+      "tw": "緋光魔導典"
     },
     "progressDivider": 110,
     "progressModifier": 80,
@@ -27652,12 +27928,12 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Forged in Crimson Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：魂火铸就",
       "de": "Notenrolle von „Forged in Crimson“",
       "en": "Forged in Crimson Orchestrion Roll",
       "fr": "Rouleau “Forged in Crimson”",
       "ja": "オーケストリオン譜:Forged in Crimson",
-      "tw": "オーケストリオン譜:Forged in Crimson"
+      "tw": "管弦樂琴樂譜：魂火鑄就"
     },
     "progressDivider": 130,
     "progressModifier": 80,
@@ -27675,18 +27951,340 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Resin",
+      "cn": "家用獭獭喷泉合成树脂",
       "de": "Garten-Otterborn-Kunstharz",
       "en": "Smaller Water Otter Fountain Resin",
       "fr": "Résine synthétique pour fontaine ressourçante de jardin",
       "ja": "家庭用ウソウソの泉の合成樹脂",
-      "tw": "家庭用ウソウソの泉の合成樹脂"
+      "tw": "家用獺獺噴泉合成樹脂"
     },
     "progressDivider": 180,
     "progressModifier": 100,
     "qualityDivider": 180,
     "qualityModifier": 100,
     "recipeId": 35497,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Index",
+      "de": "Diadochen-Grimoire",
+      "en": "Diadochos Index",
+      "fr": "Index de diadoque",
+      "ja": "ディアドコス・インデックス",
+      "tw": "ディアドコス・インデックス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35509,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Codex",
+      "de": "Diadochen-Kodex",
+      "en": "Diadochos Codex",
+      "fr": "Codex de diadoque",
+      "ja": "ディアドコス・コーデックス",
+      "tw": "ディアドコス・コーデックス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35510,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Grade 8 Strength Alkahest",
+      "de": "Visionslösung der Stärke VIII",
+      "en": "Grade 8 Strength Alkahest",
+      "fr": "Eau chimérique de force VIII",
+      "ja": "剛力の幻水G8",
+      "tw": "剛力の幻水G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35580,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Grade 8 Dexterity Alkahest",
+      "de": "Visionslösung der Geschicklichkeit VIII",
+      "en": "Grade 8 Dexterity Alkahest",
+      "fr": "Eau chimérique de dextérité VIII",
+      "ja": "眼力の幻水G8",
+      "tw": "眼力の幻水G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35581,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Grade 8 Vitality Alkahest",
+      "de": "Visionslösung der Konstitution VIII",
+      "en": "Grade 8 Vitality Alkahest",
+      "fr": "Eau chimérique de vitalité VIII",
+      "ja": "活力の幻水G8",
+      "tw": "活力の幻水G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35582,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Grade 8 Intelligence Alkahest",
+      "de": "Visionslösung der Intelligenz VIII",
+      "en": "Grade 8 Intelligence Alkahest",
+      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VIII",
+      "ja": "知力の幻水G8",
+      "tw": "知力の幻水G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35583,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Grade 8 Mind Alkahest",
+      "de": "Visionslösung der Willenskraft VIII",
+      "en": "Grade 8 Mind Alkahest",
+      "fr": "Eau chimérique d'esprit VIII",
+      "ja": "心力の幻水G8",
+      "tw": "心力の幻水G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35584,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Grade 8 Tincture of Strength",
+      "de": "Visionsremedium der Stärke VIII",
+      "en": "Grade 8 Tincture of Strength",
+      "fr": "Philtre chimérique de force VIII",
+      "ja": "剛力の幻薬G8",
+      "tw": "剛力の幻薬G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35585,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Grade 8 Tincture of Dexterity",
+      "de": "Visionsremedium der Geschicklichkeit VIII",
+      "en": "Grade 8 Tincture of Dexterity",
+      "fr": "Philtre chimérique de dextérité VIII",
+      "ja": "眼力の幻薬G8",
+      "tw": "眼力の幻薬G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35586,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Grade 8 Tincture of Vitality",
+      "de": "Visionsremedium der Konstitution VIII",
+      "en": "Grade 8 Tincture of Vitality",
+      "fr": "Philtre chimérique de vitalité VIII",
+      "ja": "活力の幻薬G8",
+      "tw": "活力の幻薬G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35587,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Grade 8 Tincture of Intelligence",
+      "de": "Visionsremedium der Intelligenz VIII",
+      "en": "Grade 8 Tincture of Intelligence",
+      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VIII",
+      "ja": "知力の幻薬G8",
+      "tw": "知力の幻薬G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35588,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Grade 8 Tincture of Mind",
+      "de": "Visionsremedium der Willenskraft VIII",
+      "en": "Grade 8 Tincture of Mind",
+      "fr": "Philtre chimérique d'esprit VIII",
+      "ja": "心力の幻薬G8",
+      "tw": "心力の幻薬G8"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35589,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "cn": "Uncharted Course Resin",
+      "de": "Gymnastikutter-Kunstharz",
+      "en": "Uncharted Course Resin",
+      "fr": "Résine synthétique pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用合成樹脂",
+      "tw": "アスレチックシップの建築用合成樹脂"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35622,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Voidcast Savior Orchestrion Roll",
+      "de": "Notenrolle von „Voidcast Savior“",
+      "en": "Voidcast Savior Orchestrion Roll",
+      "fr": "Rouleau “Voidcast Savior”",
+      "ja": "オーケストリオン譜:ヴォイドの救済者",
+      "tw": "オーケストリオン譜:ヴォイドの救済者"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35626,
     "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
